@@ -1,324 +1,337 @@
 {
-    "main": {
-        "css": "container mx-auto",
-        "section-1": {
-            "css": "text-center mb-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12",
-            "heading-s1h1": {
-                "css": "text-4xl font-bold text-gray-900 mb-4",
-                "text": "Choose Your Plan",
-                "type": "h1"
-            },
-            "paragraph-s1p1": {
-                "css": "text-xl text-gray-600 max-w-2xl mx-auto",
-                "text": "Select the perfect plan for your business needs. All plans include 24/7 support and a 30-day money-back guarantee."
-            }
+  "main": {
+    "css": "",
+    "section-1": {
+      "css": "mx-auto mb-16 max-w-7xl px-4 py-12 text-center sm:px-6",
+      "heading-s1h1": {
+        "css": "mb-4 text-fontSize font-fontWeight text-textPrimary",
+        "text": "Choose Your Plan",
+        "type": "h1"
+      },
+      "paragraph-s1p1": {
+        "css": "mx-auto max-w-2xl text-fontSize text-textSecondary",
+        "text": "Select the perfect plan for your business needs. All plans include 24/7 support and a 30-day money-back guarantee."
+      }
+    },
+    "section-2": {
+      "css": "mx-auto mb-16 grid max-w-7xl grid-cols-1 gap-8 px-4 py-12 sm:px-6 sm:grid-cols-3",
+      "div-s2d1": {
+        "css": "relative rounded-lg bg-backgroundPrimary p-8 shadow-md",
+        "heading-s2d1h3": {
+          "css": "mb-4 text-fontSize font-fontWeight text-textPrimary",
+          "text": "Starter",
+          "type": "h3"
         },
-        "section-2": {
-            "css": "grid grid-cols-1 md:grid-cols-3 gap-8 mb-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12",
-            "div-s2d1": {
-                "css": "bg-white rounded-lg shadow-md p-8 relative",
-                "heading-s2d1h1": {
-                    "css": "text-2xl font-bold text-gray-900 mb-4",
-                    "text": "Starter",
-                    "type": "h3"
-                },
-                "div-s2d1d1": {
-                    "css": "mb-6",
-                    "div-s2d1d1d1": {
-                        "css": "flex items-baseline",
-                        "paragraph-s2d1d1d1p1": {
-                            "css": "text-4xl font-bold text-gray-900",
-                            "text": "$29"
-                        },
-                        "paragraph-s2d1d1d1p2": {
-                            "css": "text-gray-600 ml-2",
-                            "text": "/month"
-                        }
-                    },
-                    "paragraph-s2d1d1p1": {
-                        "css": "text-gray-500 text-sm",
-                        "text": "Perfect for small businesses"
-                    }
-                },
-                "div-s2d1d2": {
-                    "css": "mb-8",
-                    "div-s2d1d2d1": {
-                        "css": "mb-3",
-                        "paragraph-s2d1d2d1p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ Up to 5 Projects"
-                        }
-                    },
-                    "div-s2d1d2d2": {
-                        "css": "mb-3",
-                        "paragraph-s2d1d2d2p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ 10GB Storage"
-                        }
-                    },
-                    "div-s2d1d2d3": {
-                        "css": "mb-3",
-                        "paragraph-s2d1d2d3p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ Email Support"
-                        }
-                    },
-                    "div-s2d1d2d4": {
-                        "css": "mb-3",
-                        "paragraph-s2d1d2d4p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ Basic Analytics"
-                        }
-                    },
-                    "div-s2d1d2d5": {
-                        "css": "mb-3",
-                        "paragraph-s2d1d2d5p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ SSL Certificate"
-                        }
-                    }
-                },
-                "a-s2d1a1": {
-                    "css": "w-full bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors font-medium text-center block",
-                    "text": "Get Started",
-                    "href": "#"
-                }
+        "div-s2d1d1": {
+          "css": "mb-6",
+          "div-s2d1d1d1": {
+            "css": "flex items-baseline",
+            "paragraph-s2d1d1d1p1": {
+              "css": "text-fontSize font-fontWeight text-textPrimary",
+              "text": "$29"
             },
-            "div-s2d2": {
-                "css": "bg-white rounded-lg shadow-lg p-8 relative border-2 border-blue-500",
-                "div-s2d2d1": {
-                    "css": "absolute top-0 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-blue-500 text-white px-4 py-1 rounded-full text-sm font-medium"
-                },
-                "heading-s2d2h1": {
-                    "css": "text-2xl font-bold text-gray-900 mb-4",
-                    "text": "Professional",
-                    "type": "h3"
-                },
-                "div-s2d2d2": {
-                    "css": "mb-6",
-                    "div-s2d2d2d1": {
-                        "css": "flex items-baseline",
-                        "paragraph-s2d2d2d1p1": {
-                            "css": "text-4xl font-bold text-gray-900",
-                            "text": "$79"
-                        },
-                        "paragraph-s2d2d2d1p2": {
-                            "css": "text-gray-600 ml-2",
-                            "text": "/month"
-                        }
-                    },
-                    "paragraph-s2d2d2p1": {
-                        "css": "text-gray-500 text-sm",
-                        "text": "Great for growing businesses"
-                    }
-                },
-                "div-s2d2d3": {
-                    "css": "mb-8",
-                    "div-s2d2d3d1": {
-                        "css": "mb-3",
-                        "paragraph-s2d2d3d1p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ Up to 20 Projects"
-                        }
-                    },
-                    "div-s2d2d3d2": {
-                        "css": "mb-3",
-                        "paragraph-s2d2d3d2p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ 100GB Storage"
-                        }
-                    },
-                    "div-s2d2d3d3": {
-                        "css": "mb-3",
-                        "paragraph-s2d2d3d3p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ Priority Support"
-                        }
-                    },
-                    "div-s2d2d3d4": {
-                        "css": "mb-3",
-                        "paragraph-s2d2d3d4p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ Advanced Analytics"
-                        }
-                    },
-                    "div-s2d2d3d5": {
-                        "css": "mb-3",
-                        "paragraph-s2d2d3d5p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ SSL Certificate"
-                        }
-                    },
-                    "div-s2d2d3d6": {
-                        "css": "mb-3",
-                        "paragraph-s2d2d3d6p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ Custom Domain"
-                        }
-                    },
-                    "div-s2d2d3d7": {
-                        "css": "mb-3",
-                        "paragraph-s2d2d3d7p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ Team Collaboration"
-                        }
-                    }
-                },
-                "a-s2d2a1": {
-                    "css": "w-full bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors font-medium text-center block",
-                    "text": "Get Started",
-                    "href": "#"
-                }
-            },
-            "div-s2d3": {
-                "css": "bg-white rounded-lg shadow-md p-8 relative",
-                "heading-s2d3h1": {
-                    "css": "text-2xl font-bold text-gray-900 mb-4",
-                    "text": "Enterprise",
-                    "type": "h3"
-                },
-                "div-s2d3d1": {
-                    "css": "mb-6",
-                    "div-s2d3d1d1": {
-                        "css": "flex items-baseline",
-                        "paragraph-s2d3d1d1p1": {
-                            "css": "text-4xl font-bold text-gray-900",
-                            "text": "$199"
-                        },
-                        "paragraph-s2d3d1d1p2": {
-                            "css": "text-gray-600 ml-2",
-                            "text": "/month"
-                        }
-                    },
-                    "paragraph-s2d3d1p1": {
-                        "css": "text-gray-500 text-sm",
-                        "text": "For large organizations"
-                    }
-                },
-                "div-s2d3d2": {
-                    "css": "mb-8",
-                    "div-s2d3d2d1": {
-                        "css": "mb-3",
-                        "paragraph-s2d3d2d1p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ Unlimited Projects"
-                        }
-                    },
-                    "div-s2d3d2d2": {
-                        "css": "mb-3",
-                        "paragraph-s2d3d2d2p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ 1TB Storage"
-                        }
-                    },
-                    "div-s2d3d2d3": {
-                        "css": "mb-3",
-                        "paragraph-s2d3d2d3p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ 24/7 Phone Support"
-                        }
-                    },
-                    "div-s2d3d2d4": {
-                        "css": "mb-3",
-                        "paragraph-s2d3d2d4p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ Custom Analytics"
-                        }
-                    },
-                    "div-s2d3d2d5": {
-                        "css": "mb-3",
-                        "paragraph-s2d3d2d5p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ SSL Certificate"
-                        }
-                    },
-                    "div-s2d3d2d6": {
-                        "css": "mb-3",
-                        "paragraph-s2d3d2d6p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ Multiple Domains"
-                        }
-                    },
-                    "div-s2d3d2d7": {
-                        "css": "mb-3",
-                        "paragraph-s2d3d2d7p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ Advanced Security"
-                        }
-                    },
-                    "div-s2d3d2d8": {
-                        "css": "mb-3",
-                        "paragraph-s2d3d2d8p1": {
-                            "css": "text-gray-700",
-                            "text": "✓ Dedicated Manager"
-                        }
-                    }
-                },
-                "a-s2d3a1": {
-                    "css": "w-full bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors font-medium text-center block",
-                    "text": "Get Started",
-                    "href": "#"
-                }
+            "paragraph-s2d1d1d1p2": {
+              "css": "ml-2 text-textSecondary",
+              "text": "/month"
             }
+          },
+          "paragraph-s2d1d1p1": {
+            "css": "text-fontSize text-textSecondary",
+            "text": "Perfect for small businesses"
+          }
         },
-        "section-3": {
-            "css": "bg-white rounded-lg shadow-md p-8 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12",
-            "heading-s3h1": {
-                "css": "text-3xl font-bold text-gray-900 mb-8 text-center",
-                "text": "Frequently Asked Questions",
-                "type": "h2"
-            },
-            "div-s3d1": {
-                "css": "grid grid-cols-1 md:grid-cols-2 gap-8",
-                "div-s3d1d1": {
-                    "css": "",
-                    "heading-s3d1d1h1": {
-                        "css": "text-xl font-semibold text-gray-900 mb-2",
-                        "text": "Can I change my plan anytime?",
-                        "type": "h3"
-                    },
-                    "paragraph-s3d1d1p1": {
-                        "css": "text-gray-600",
-                        "text": "Yes, you can upgrade or downgrade your plan at any time. Changes will be prorated and reflected in your next billing cycle."
-                    }
-                },
-                "div-s3d1d2": {
-                    "css": "",
-                    "heading-s3d1d2h1": {
-                        "css": "text-xl font-semibold text-gray-900 mb-2",
-                        "text": "Is there a free trial?",
-                        "type": "h3"
-                    },
-                    "paragraph-s3d1d2p1": {
-                        "css": "text-gray-600",
-                        "text": "We offer a 14-day free trial for all plans. No credit card required to get started."
-                    }
-                },
-                "div-s3d1d3": {
-                    "css": "",
-                    "heading-s3d1d3h1": {
-                        "css": "text-xl font-semibold text-gray-900 mb-2",
-                        "text": "What payment methods do you accept?",
-                        "type": "h3"
-                    },
-                    "paragraph-s3d1d3p1": {
-                        "css": "text-gray-600",
-                        "text": "We accept all major credit cards, PayPal, and wire transfers for enterprise customers."
-                    }
-                },
-                "div-s3d1d4": {
-                    "css": "",
-                    "heading-s3d1d4h1": {
-                        "css": "text-xl font-semibold text-gray-900 mb-2",
-                        "text": "Do you offer refunds?",
-                        "type": "h3"
-                    },
-                    "paragraph-s3d1d4p1": {
-                        "css": "text-gray-600",
-                        "text": "Yes, we offer a 30-day money-back guarantee for all plans. No questions asked."
-                    }
-                }
+        "div-s2d1d2": {
+          "css": "mb-8",
+          "div-s2d1d2d1": {
+            "css": "mb-3",
+            "paragraph-s2d1d2d1p1": {
+              "css": "text-textSecondary",
+              "text": "✓ Up to 5 Projects"
             }
+          },
+          "div-s2d1d2d2": {
+            "css": "mb-3",
+            "paragraph-s2d1d2d2p1": {
+              "css": "text-textSecondary",
+              "text": "✓ 10GB Storage"
+            }
+          },
+          "div-s2d1d2d3": {
+            "css": "mb-3",
+            "paragraph-s2d1d2d3p1": {
+              "css": "text-textSecondary",
+              "text": "✓ Email Support"
+            }
+          },
+          "div-s2d1d2d4": {
+            "css": "mb-3",
+            "paragraph-s2d1d2d4p1": {
+              "css": "text-textSecondary",
+              "text": "✓ Basic Analytics"
+            }
+          },
+          "div-s2d1d2d5": {
+            "css": "mb-3",
+            "paragraph-s2d1d2d5p1": {
+              "css": "text-textSecondary",
+              "text": "✓ SSL Certificate"
+            }
+          }
+        },
+        "a-s2d1a1": {
+          "href": "#",
+          "css": "block w-full rounded-lg bg-backgroundPrimary px-6 py-3 text-center transition-colors hover:bg-backgroundSecondary",
+          "paragraph-s2d1a1p1": {
+            "css": "font-fontWeight text-textPrimary",
+            "text": "Get Started"
+          }
         }
+      },
+      "div-s2d2": {
+        "css": "relative rounded-lg border-2 border-blue-500 bg-backgroundPrimary p-8 shadow-lg",
+        "div-s2d2d1": {
+          "css": "absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 transform rounded-full bg-backgroundPrimary px-4 py-1 text-fontSize",
+          "paragraph-s2d2d1p1": {
+            "css": "font-fontWeight text-textPrimary",
+            "text": "Most Popular"
+          }
+        },
+        "heading-s2d2h3": {
+          "css": "mb-4 text-fontSize font-fontWeight text-textPrimary",
+          "text": "Professional",
+          "type": "h3"
+        },
+        "div-s2d2d2": {
+          "css": "mb-6",
+          "div-s2d2d2d1": {
+            "css": "flex items-baseline",
+            "paragraph-s2d2d2d1p1": {
+              "css": "text-fontSize font-fontWeight text-textPrimary",
+              "text": "$79"
+            },
+            "paragraph-s2d2d2d1p2": {
+              "css": "ml-2 text-textSecondary",
+              "text": "/month"
+            }
+          },
+          "paragraph-s2d2d2p1": {
+            "css": "text-fontSize text-textSecondary",
+            "text": "Great for growing businesses"
+          }
+        },
+        "div-s2d2d3": {
+          "css": "mb-8",
+          "div-s2d2d3d1": {
+            "css": "mb-3",
+            "paragraph-s2d2d3d1p1": {
+              "css": "text-textSecondary",
+              "text": "✓ Up to 20 Projects"
+            }
+          },
+          "div-s2d2d3d2": {
+            "css": "mb-3",
+            "paragraph-s2d2d3d2p1": {
+              "css": "text-textSecondary",
+              "text": "✓ 100GB Storage"
+            }
+          },
+          "div-s2d2d3d3": {
+            "css": "mb-3",
+            "paragraph-s2d2d3d3p1": {
+              "css": "text-textSecondary",
+              "text": "✓ Priority Support"
+            }
+          },
+          "div-s2d2d3d4": {
+            "css": "mb-3",
+            "paragraph-s2d2d3d4p1": {
+              "css": "text-textSecondary",
+              "text": "✓ Advanced Analytics"
+            }
+          },
+          "div-s2d2d3d5": {
+            "css": "mb-3",
+            "paragraph-s2d2d3d5p1": {
+              "css": "text-textSecondary",
+              "text": "✓ SSL Certificate"
+            }
+          },
+          "div-s2d2d3d6": {
+            "css": "mb-3",
+            "paragraph-s2d2d3d6p1": {
+              "css": "text-textSecondary",
+              "text": "✓ Custom Domain"
+            }
+          },
+          "div-s2d2d3d7": {
+            "css": "mb-3",
+            "paragraph-s2d2d3d7p1": {
+              "css": "text-textSecondary",
+              "text": "✓ Team Collaboration"
+            }
+          }
+        },
+        "a-s2d2a1": {
+          "href": "#",
+          "css": "block w-full rounded-lg bg-backgroundPrimary px-6 py-3 transition-colors hover:bg-backgroundSecondary",
+          "paragraph-s2d2a1p1": {
+            "css": "text-center font-fontWeight text-textPrimary",
+            "text": "Get Started"
+          }
+        }
+      },
+      "div-s2d3": {
+        "css": "relative rounded-lg bg-backgroundPrimary p-8 shadow-md",
+        "heading-s2d3h3": {
+          "css": "mb-4 text-fontSize font-fontWeight text-textPrimary",
+          "text": "Enterprise",
+          "type": "h3"
+        },
+        "div-s2d3d1": {
+          "css": "mb-6",
+          "div-s2d3d1d1": {
+            "css": "flex items-baseline",
+            "paragraph-s2d3d1d1p1": {
+              "css": "text-fontSize font-fontWeight text-textPrimary",
+              "text": "$199"
+            },
+            "paragraph-s2d3d1d1p2": {
+              "css": "ml-2 text-textSecondary",
+              "text": "/month"
+            }
+          },
+          "paragraph-s2d3d1p1": {
+            "css": "text-fontSize text-textSecondary",
+            "text": "For large organizations"
+          }
+        },
+        "div-s2d3d2": {
+          "css": "mb-8",
+          "div-s2d3d2d1": {
+            "css": "mb-3",
+            "paragraph-s2d3d2d1p1": {
+              "css": "text-textSecondary",
+              "text": "✓ Unlimited Projects"
+            }
+          },
+          "div-s2d3d2d2": {
+            "css": "mb-3",
+            "paragraph-s2d3d2d2p1": {
+              "css": "text-textSecondary",
+              "text": "✓ 1TB Storage"
+            }
+          },
+          "div-s2d3d2d3": {
+            "css": "mb-3",
+            "paragraph-s2d3d2d3p1": {
+              "css": "text-textSecondary",
+              "text": "✓ 24/7 Phone Support"
+            }
+          },
+          "div-s2d3d2d4": {
+            "css": "mb-3",
+            "paragraph-s2d3d2d4p1": {
+              "css": "text-textSecondary",
+              "text": "✓ Custom Analytics"
+            }
+          },
+          "div-s2d3d2d5": {
+            "css": "mb-3",
+            "paragraph-s2d3d2d5p1": {
+              "css": "text-textSecondary",
+              "text": "✓ SSL Certificate"
+            }
+          },
+          "div-s2d3d2d6": {
+            "css": "mb-3",
+            "paragraph-s2d3d2d6p1": {
+              "css": "text-textSecondary",
+              "text": "✓ Multiple Domains"
+            }
+          },
+          "div-s2d3d2d7": {
+            "css": "mb-3",
+            "paragraph-s2d3d2d7p1": {
+              "css": "text-textSecondary",
+              "text": "✓ Advanced Security"
+            }
+          },
+          "div-s2d3d2d8": {
+            "css": "mb-3",
+            "paragraph-s2d3d2d8p1": {
+              "css": "text-textSecondary",
+              "text": "✓ Dedicated Manager"
+            }
+          }
+        },
+        "a-s2d3a1": {
+          "href": "#",
+          "css": "block w-full rounded-lg bg-backgroundPrimary px-6 py-3 transition-colors hover:bg-backgroundSecondary",
+          "paragraph-s2d3a1p1": {
+            "css": "text-center font-fontWeight text-textPrimary",
+            "text": "Get Started"
+          }
+        }
+      }
+    },
+    "section-3": {
+      "css": "mx-auto max-w-7xl rounded-lg bg-backgroundPrimary p-8 px-4 py-12 shadow-md sm:px-6",
+      "heading-s3h2": {
+        "css": "mb-8 text-center text-fontSize font-fontWeight text-textPrimary",
+        "text": "Frequently Asked Questions",
+        "type": "h2"
+      },
+      "div-s3d1": {
+        "css": "grid grid-cols-1 gap-8 sm:grid-cols-2",
+        "div-s3d1d1": {
+          "css": "",
+          "heading-s3d1d1h3": {
+            "css": "mb-2 text-fontSize font-fontWeight text-textPrimary",
+            "text": "Can I change my plan anytime?",
+            "type": "h3"
+          },
+          "paragraph-s3d1d1p1": {
+            "css": "text-textSecondary",
+            "text": "Yes, you can upgrade or downgrade your plan at any time. Changes will be prorated and reflected in your next billing cycle."
+          }
+        },
+        "div-s3d1d2": {
+          "css": "",
+          "heading-s3d1d2h3": {
+            "css": "mb-2 text-fontSize font-fontWeight text-textPrimary",
+            "text": "Is there a free trial?",
+            "type": "h3"
+          },
+          "paragraph-s3d1d2p1": {
+            "css": "text-textSecondary",
+            "text": "We offer a 14-day free trial for all plans. No credit card required to get started."
+          }
+        },
+        "div-s3d1d3": {
+          "css": "",
+          "heading-s3d1d3h3": {
+            "css": "mb-2 text-fontSize font-fontWeight text-textPrimary",
+            "text": "What payment methods do you accept?",
+            "type": "h3"
+          },
+          "paragraph-s3d1d3p1": {
+            "css": "text-textSecondary",
+            "text": "We accept all major credit cards, PayPal, and wire transfers for enterprise customers."
+          }
+        },
+        "div-s3d1d4": {
+          "css": "",
+          "heading-s3d1d4h3": {
+            "css": "mb-2 text-fontSize font-fontWeight text-textPrimary",
+            "text": "Do you offer refunds?",
+            "type": "h3"
+          },
+          "paragraph-s3d1d4p1": {
+            "css": "text-textSecondary",
+            "text": "Yes, we offer a 30-day money-back guarantee for all plans. No questions asked."
+          }
+        }
+      }
     }
+  }
 }

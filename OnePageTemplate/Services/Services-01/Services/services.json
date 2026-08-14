@@ -1,246 +1,283 @@
 {
-    "main": {
-        "css": "container mx-auto",
-        "section-1": {
-            "css": "text-center mb-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12",
-            "heading-s1h1": {
-                "css": "text-4xl font-bold text-gray-900 mb-4",
-                "text": "Our Services",
-                "type": "h1"
-            },
-            "paragraph-s1p1": {
-                "css": "text-xl text-gray-600 max-w-2xl mx-auto",
-                "text": "We offer comprehensive digital solutions to help your business thrive in the modern world."
-            }
+  "main": {
+    "css": "",
+    "section-1": {
+      "css": "mx-auto mb-16 max-w-7xl px-4 py-12 text-center sm:px-6",
+      "heading-s1h1": {
+        "css": "mb-4 text-fontSize font-fontWeight text-textPrimary",
+        "text": "Our Services",
+        "type": "h1"
+      },
+      "paragraph-s1p1": {
+        "css": "mx-auto max-w-2xl text-fontSize text-textSecondary",
+        "text": "We offer comprehensive digital solutions to help your business thrive in the modern world."
+      }
+    },
+    "section-2": {
+      "css": "mx-auto mb-16 grid max-w-7xl grid-cols-1 gap-8 px-4 py-12 sm:px-6 sm:grid-cols-3",
+      "div-s2d1": {
+        "css": "rounded-lg bg-backgroundPrimary p-8 text-center shadow-md transition-shadow hover:shadow-lg",
+        "div-s2d1d1": {
+          "css": "mx-auto mb-6 flex h-16 w-16 items-center justify-center rounded-full bg-backgroundSecondary",
+          "div-s2d1d1d1": {
+            "css": "h-8 w-8 rounded bg-backgroundPrimary"
+          }
         },
-        "section-2": {
-            "css": "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12",
-            "div-s2d1": {
-                "css": "bg-white rounded-lg shadow-md p-8 text-center hover:shadow-lg transition-shadow",
-                "div-s2d1d1": {
-                    "css": "w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-6",
-                    "div-s2d1d1d1": {
-                        "css": "w-8 h-8 bg-blue-600 rounded"
-                    }
-                },
-                "heading-s2d1h1": {
-                    "css": "text-2xl font-bold text-gray-900 mb-4",
-                    "text": "Web Development",
-                    "type": "h3"
-                },
-                "paragraph-s2d1p1": {
-                    "css": "text-gray-600 mb-6",
-                    "text": "Create stunning, responsive websites that engage your audience and drive conversions. From simple landing pages to complex web applications."
-                },
-                "a-s2d1a1": {
-                    "css": "text-blue-600 hover:text-blue-800 font-medium",
-                    "text": "Learn More",
-                    "href": "#"
-                }
-            },
-            "div-s2d2": {
-                "css": "bg-white rounded-lg shadow-md p-8 text-center hover:shadow-lg transition-shadow",
-                "div-s2d2d1": {
-                    "css": "w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-6",
-                    "div-s2d2d1d1": {
-                        "css": "w-8 h-8 bg-green-600 rounded"
-                    }
-                },
-                "heading-s2d2h1": {
-                    "css": "text-2xl font-bold text-gray-900 mb-4",
-                    "text": "Mobile App Development",
-                    "type": "h3"
-                },
-                "paragraph-s2d2p1": {
-                    "css": "text-gray-600 mb-6",
-                    "text": "Build native and cross-platform mobile applications that provide seamless user experiences across iOS and Android devices."
-                },
-                "a-s2d2a1": {
-                    "css": "text-blue-600 hover:text-blue-800 font-medium",
-                    "text": "Learn More",
-                    "href": "#"
-                }
-            },
-            "div-s2d3": {
-                "css": "bg-white rounded-lg shadow-md p-8 text-center hover:shadow-lg transition-shadow",
-                "div-s2d3d1": {
-                    "css": "w-16 h-16 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-6",
-                    "div-s2d3d1d1": {
-                        "css": "w-8 h-8 bg-purple-600 rounded"
-                    }
-                },
-                "heading-s2d3h1": {
-                    "css": "text-2xl font-bold text-gray-900 mb-4",
-                    "text": "UI/UX Design",
-                    "type": "h3"
-                },
-                "paragraph-s2d3p1": {
-                    "css": "text-gray-600 mb-6",
-                    "text": "Design intuitive and beautiful user interfaces that enhance user experience and reflect your brand identity."
-                },
-                "a-s2d3a1": {
-                    "css": "text-blue-600 hover:text-blue-800 font-medium",
-                    "text": "Learn More",
-                    "href": "#"
-                }
-            },
-            "div-s2d4": {
-                "css": "bg-white rounded-lg shadow-md p-8 text-center hover:shadow-lg transition-shadow",
-                "div-s2d4d1": {
-                    "css": "w-16 h-16 bg-orange-100 rounded-full flex items-center justify-center mx-auto mb-6",
-                    "div-s2d4d1d1": {
-                        "css": "w-8 h-8 bg-orange-600 rounded"
-                    }
-                },
-                "heading-s2d4h1": {
-                    "css": "text-2xl font-bold text-gray-900 mb-4",
-                    "text": "Digital Marketing",
-                    "type": "h3"
-                },
-                "paragraph-s2d4p1": {
-                    "css": "text-gray-600 mb-6",
-                    "text": "Boost your online presence with our comprehensive digital marketing strategies including SEO, social media, and content marketing."
-                },
-                "a-s2d4a1": {
-                    "css": "text-blue-600 hover:text-blue-800 font-medium",
-                    "text": "Learn More",
-                    "href": "#"
-                }
-            },
-            "div-s2d5": {
-                "css": "bg-white rounded-lg shadow-md p-8 text-center hover:shadow-lg transition-shadow",
-                "div-s2d5d1": {
-                    "css": "w-16 h-16 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-6",
-                    "div-s2d5d1d1": {
-                        "css": "w-8 h-8 bg-red-600 rounded"
-                    }
-                },
-                "heading-s2d5h1": {
-                    "css": "text-2xl font-bold text-gray-900 mb-4",
-                    "text": "E-commerce Solutions",
-                    "type": "h3"
-                },
-                "paragraph-s2d5p1": {
-                    "css": "text-gray-600 mb-6",
-                    "text": "Launch and optimize your online store with our end-to-end e-commerce solutions that drive sales and growth."
-                },
-                "a-s2d5a1": {
-                    "css": "text-blue-600 hover:text-blue-800 font-medium",
-                    "text": "Learn More",
-                    "href": "#"
-                }
-            },
-            "div-s2d6": {
-                "css": "bg-white rounded-lg shadow-md p-8 text-center hover:shadow-lg transition-shadow",
-                "div-s2d6d1": {
-                    "css": "w-16 h-16 bg-teal-100 rounded-full flex items-center justify-center mx-auto mb-6",
-                    "div-s2d6d1d1": {
-                        "css": "w-8 h-8 bg-teal-600 rounded"
-                    }
-                },
-                "heading-s2d6h1": {
-                    "css": "text-2xl font-bold text-gray-900 mb-4",
-                    "text": "Cloud Services",
-                    "type": "h3"
-                },
-                "paragraph-s2d6p1": {
-                    "css": "text-gray-600 mb-6",
-                    "text": "Migrate to the cloud and scale your business with our secure, reliable cloud infrastructure and management services."
-                },
-                "a-s2d6a1": {
-                    "css": "text-blue-600 hover:text-blue-800 font-medium",
-                    "text": "Learn More",
-                    "href": "#"
-                }
-            }
+        "heading-s2d1h3": {
+          "css": "mb-4 text-fontSize font-fontWeight text-textPrimary",
+          "text": "Web Development",
+          "type": "h3"
         },
-        "section-3": {
-            "css": "bg-white rounded-lg shadow-md p-8 mb-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12",
-            "heading-s3h1": {
-                "css": "text-3xl font-bold text-gray-900 mb-8 text-center",
-                "text": "Our Process",
-                "type": "h2"
-            },
-            "div-s3d1": {
-                "css": "grid grid-cols-1 md:grid-cols-4 gap-8",
-                "div-s3d1d1": {
-                    "css": "text-center",
-                    "div-s3d1d1d1": {
-                        "css": "w-12 h-12 bg-blue-600 text-white rounded-full flex items-center justify-center mx-auto mb-4 font-bold"
-                    },
-                    "heading-s3d1d1h1": {
-                        "css": "text-xl font-semibold text-gray-900 mb-2",
-                        "text": "Discovery",
-                        "type": "h3"
-                    },
-                    "paragraph-s3d1d1p1": {
-                        "css": "text-gray-600",
-                        "text": "We analyze your business needs and goals to create a tailored strategy."
-                    }
-                },
-                "div-s3d1d2": {
-                    "css": "text-center",
-                    "div-s3d1d2d1": {
-                        "css": "w-12 h-12 bg-blue-600 text-white rounded-full flex items-center justify-center mx-auto mb-4 font-bold"
-                    },
-                    "heading-s3d1d2h1": {
-                        "css": "text-xl font-semibold text-gray-900 mb-2",
-                        "text": "Planning",
-                        "type": "h3"
-                    },
-                    "paragraph-s3d1d2p1": {
-                        "css": "text-gray-600",
-                        "text": "We develop a comprehensive project plan with clear timelines and milestones."
-                    }
-                },
-                "div-s3d1d3": {
-                    "css": "text-center",
-                    "div-s3d1d3d1": {
-                        "css": "w-12 h-12 bg-blue-600 text-white rounded-full flex items-center justify-center mx-auto mb-4 font-bold"
-                    },
-                    "heading-s3d1d3h1": {
-                        "css": "text-xl font-semibold text-gray-900 mb-2",
-                        "text": "Execution",
-                        "type": "h3"
-                    },
-                    "paragraph-s3d1d3p1": {
-                        "css": "text-gray-600",
-                        "text": "Our expert team brings your vision to life with precision and attention to detail."
-                    }
-                },
-                "div-s3d1d4": {
-                    "css": "text-center",
-                    "div-s3d1d4d1": {
-                        "css": "w-12 h-12 bg-blue-600 text-white rounded-full flex items-center justify-center mx-auto mb-4 font-bold"
-                    },
-                    "heading-s3d1d4h1": {
-                        "css": "text-xl font-semibold text-gray-900 mb-2",
-                        "text": "Launch",
-                        "type": "h3"
-                    },
-                    "paragraph-s3d1d4p1": {
-                        "css": "text-gray-600",
-                        "text": "We deploy your solution and provide ongoing support to ensure success."
-                    }
-                }
-            }
+        "paragraph-s2d1p1": {
+          "css": "mb-6 text-textSecondary",
+          "text": "Create stunning, responsive websites that engage your audience and drive conversions. From simple landing pages to complex web applications."
         },
-        "section-4": {
-            "css": "bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg shadow-md p-8 text-white text-center max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12",
-            "heading-s4h1": {
-                "css": "text-3xl font-bold mb-4",
-                "text": "Ready to Get Started?",
-                "type": "h2"
-            },
-            "paragraph-s4p1": {
-                "css": "text-xl mb-8",
-                "text": "Let's discuss how we can help transform your business with our expert services."
-            },
-            "a-s4a1": {
-                "css": "bg-white text-blue-600 px-8 py-3 rounded-lg hover:bg-gray-100 transition-colors font-medium",
-                "text": "Contact Us Today",
-                "href": "#"
-            }
+        "a-s2d1a1": {
+          "href": "#",
+          "css": "",
+          "paragraph-s2d1a1p1": {
+            "css": "font-fontWeight text-textPrimary hover:text-blue-800",
+            "text": "Learn More"
+          }
         }
+      },
+      "div-s2d2": {
+        "css": "rounded-lg bg-backgroundPrimary p-8 text-center shadow-md transition-shadow hover:shadow-lg",
+        "div-s2d2d1": {
+          "css": "mx-auto mb-6 flex h-16 w-16 items-center justify-center rounded-full bg-backgroundSecondary",
+          "div-s2d2d1d1": {
+            "css": "h-8 w-8 rounded bg-backgroundPrimary"
+          }
+        },
+        "heading-s2d2h3": {
+          "css": "mb-4 text-fontSize font-fontWeight text-textPrimary",
+          "text": "Mobile App Development",
+          "type": "h3"
+        },
+        "paragraph-s2d2p1": {
+          "css": "mb-6 text-textSecondary",
+          "text": "Build native and cross-platform mobile applications that provide seamless user experiences across iOS and Android devices."
+        },
+        "a-s2d2a1": {
+          "href": "#",
+          "css": "",
+          "paragraph-s2d2a1p1": {
+            "css": "font-fontWeight text-textPrimary hover:text-blue-800",
+            "text": "Learn More"
+          }
+        }
+      },
+      "div-s2d3": {
+        "css": "rounded-lg bg-backgroundPrimary p-8 text-center shadow-md transition-shadow hover:shadow-lg",
+        "div-s2d3d1": {
+          "css": "mx-auto mb-6 flex h-16 w-16 items-center justify-center rounded-full bg-backgroundSecondary",
+          "div-s2d3d1d1": {
+            "css": "h-8 w-8 rounded bg-backgroundPrimary"
+          }
+        },
+        "heading-s2d3h3": {
+          "css": "mb-4 text-fontSize font-fontWeight text-textPrimary",
+          "text": "UI/UX Design",
+          "type": "h3"
+        },
+        "paragraph-s2d3p1": {
+          "css": "mb-6 text-textSecondary",
+          "text": "Design intuitive and beautiful user interfaces that enhance user experience and reflect your brand identity."
+        },
+        "a-s2d3a1": {
+          "href": "#",
+          "css": "",
+          "paragraph-s2d3a1p1": {
+            "css": "font-fontWeight text-textPrimary hover:text-blue-800",
+            "text": "Learn More"
+          }
+        }
+      },
+      "div-s2d4": {
+        "css": "rounded-lg bg-backgroundPrimary p-8 text-center shadow-md transition-shadow hover:shadow-lg",
+        "div-s2d4d1": {
+          "css": "mx-auto mb-6 flex h-16 w-16 items-center justify-center rounded-full bg-backgroundSecondary",
+          "div-s2d4d1d1": {
+            "css": "h-8 w-8 rounded bg-backgroundPrimary"
+          }
+        },
+        "heading-s2d4h3": {
+          "css": "mb-4 text-fontSize font-fontWeight text-textPrimary",
+          "text": "Digital Marketing",
+          "type": "h3"
+        },
+        "paragraph-s2d4p1": {
+          "css": "mb-6 text-textSecondary",
+          "text": "Boost your online presence with our comprehensive digital marketing strategies including SEO, social media, and content marketing."
+        },
+        "a-s2d4a1": {
+          "href": "#",
+          "css": "",
+          "paragraph-s2d4a1p1": {
+            "css": "font-fontWeight text-textPrimary hover:text-blue-800",
+            "text": "Learn More"
+          }
+        }
+      },
+      "div-s2d5": {
+        "css": "rounded-lg bg-backgroundPrimary p-8 text-center shadow-md transition-shadow hover:shadow-lg",
+        "div-s2d5d1": {
+          "css": "mx-auto mb-6 flex h-16 w-16 items-center justify-center rounded-full bg-backgroundSecondary",
+          "div-s2d5d1d1": {
+            "css": "h-8 w-8 rounded bg-backgroundPrimary"
+          }
+        },
+        "heading-s2d5h3": {
+          "css": "mb-4 text-fontSize font-fontWeight text-textPrimary",
+          "text": "E-commerce Solutions",
+          "type": "h3"
+        },
+        "paragraph-s2d5p1": {
+          "css": "mb-6 text-textSecondary",
+          "text": "Launch and optimize your online store with our end-to-end e-commerce solutions that drive sales and growth."
+        },
+        "a-s2d5a1": {
+          "href": "#",
+          "css": "",
+          "paragraph-s2d5a1p1": {
+            "css": "font-fontWeight text-textPrimary hover:text-blue-800",
+            "text": "Learn More"
+          }
+        }
+      },
+      "div-s2d6": {
+        "css": "rounded-lg bg-backgroundPrimary p-8 text-center shadow-md transition-shadow hover:shadow-lg",
+        "div-s2d6d1": {
+          "css": "mx-auto mb-6 flex h-16 w-16 items-center justify-center rounded-full bg-backgroundSecondary",
+          "div-s2d6d1d1": {
+            "css": "h-8 w-8 rounded bg-backgroundPrimary"
+          }
+        },
+        "heading-s2d6h3": {
+          "css": "mb-4 text-fontSize font-fontWeight text-textPrimary",
+          "text": "Cloud Services",
+          "type": "h3"
+        },
+        "paragraph-s2d6p1": {
+          "css": "mb-6 text-textSecondary",
+          "text": "Migrate to the cloud and scale your business with our secure, reliable cloud infrastructure and management services."
+        },
+        "a-s2d6a1": {
+          "href": "#",
+          "css": "",
+          "paragraph-s2d6a1p1": {
+            "css": "font-fontWeight text-textPrimary hover:text-blue-800",
+            "text": "Learn More"
+          }
+        }
+      }
+    },
+    "section-3": {
+      "css": "mx-auto mb-16 max-w-7xl rounded-lg bg-backgroundPrimary p-8 px-4 py-12 shadow-md sm:px-6",
+      "heading-s3h2": {
+        "css": "mb-8 text-center text-fontSize font-fontWeight text-textPrimary",
+        "text": "Our Process",
+        "type": "h2"
+      },
+      "div-s3d1": {
+        "css": "grid grid-cols-1 gap-8 sm:grid-cols-4",
+        "div-s3d1d1": {
+          "css": "text-center",
+          "div-s3d1d1d1": {
+            "css": "mx-auto mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-backgroundPrimary",
+            "paragraph-s3d1d1d1p1": {
+              "css": "font-fontWeight text-textPrimary",
+              "text": "1"
+            }
+          },
+          "heading-s3d1d1h3": {
+            "css": "mb-2 text-fontSize font-fontWeight text-textPrimary",
+            "text": "Discovery",
+            "type": "h3"
+          },
+          "paragraph-s3d1d1p1": {
+            "css": "text-textSecondary",
+            "text": "We analyze your business needs and goals to create a tailored strategy."
+          }
+        },
+        "div-s3d1d2": {
+          "css": "text-center",
+          "div-s3d1d2d1": {
+            "css": "mx-auto mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-backgroundPrimary",
+            "paragraph-s3d1d2d1p1": {
+              "css": "font-fontWeight text-textPrimary",
+              "text": "2"
+            }
+          },
+          "heading-s3d1d2h3": {
+            "css": "mb-2 text-fontSize font-fontWeight text-textPrimary",
+            "text": "Planning",
+            "type": "h3"
+          },
+          "paragraph-s3d1d2p1": {
+            "css": "text-textSecondary",
+            "text": "We develop a comprehensive project plan with clear timelines and milestones."
+          }
+        },
+        "div-s3d1d3": {
+          "css": "text-center",
+          "div-s3d1d3d1": {
+            "css": "mx-auto mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-backgroundPrimary",
+            "paragraph-s3d1d3d1p1": {
+              "css": "font-fontWeight text-textPrimary",
+              "text": "3"
+            }
+          },
+          "heading-s3d1d3h3": {
+            "css": "mb-2 text-fontSize font-fontWeight text-textPrimary",
+            "text": "Execution",
+            "type": "h3"
+          },
+          "paragraph-s3d1d3p1": {
+            "css": "text-textSecondary",
+            "text": "Our expert team brings your vision to life with precision and attention to detail."
+          }
+        },
+        "div-s3d1d4": {
+          "css": "text-center",
+          "div-s3d1d4d1": {
+            "css": "mx-auto mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-backgroundPrimary",
+            "paragraph-s3d1d4d1p1": {
+              "css": "font-fontWeight text-textPrimary",
+              "text": "4"
+            }
+          },
+          "heading-s3d1d4h3": {
+            "css": "mb-2 text-fontSize font-fontWeight text-textPrimary",
+            "text": "Launch",
+            "type": "h3"
+          },
+          "paragraph-s3d1d4p1": {
+            "css": "text-textSecondary",
+            "text": "We deploy your solution and provide ongoing support to ensure success."
+          }
+        }
+      }
+    },
+    "section-4": {
+      "css": "mx-auto max-w-7xl rounded-lg bg-gradient-to-r from-blue-600 to-purple-600 p-8 px-4 py-12 text-center shadow-md sm:px-6",
+      "heading-s4h2": {
+        "css": "mb-4 text-fontSize font-fontWeight text-textPrimary",
+        "text": "Ready to Get Started?",
+        "type": "h2"
+      },
+      "paragraph-s4p1": {
+        "css": "mb-8 text-fontSize text-textPrimary",
+        "text": "Let's discuss how we can help transform your business with our expert services."
+      },
+      "a-s4a1": {
+        "href": "#",
+        "css": "rounded-lg bg-backgroundPrimary px-8 py-3 transition-colors hover:bg-backgroundSecondary",
+        "paragraph-s4a1p1": {
+          "css": "font-fontWeight text-textPrimary",
+          "text": "Contact Us"
+        }
+      }
     }
+  }
 }

@@ -1,159 +1,165 @@
 {
     "main": {
-      "css": "container mx-auto px-4 py-16 space-y-24 bg-gradient-to-b from-green-50 to-yellow-50 min-h-screen",
-      "section-1": {
-        "name": "Hero Section",
-        "css": "mx-auto max-w-3xl text-center space-y-6",
-        "heading-s1h1": {
-          "css": "text-5xl font-bold tracking-tight sm:text-6xl text-green-800",
-          "text": "About Our Nutrition Center",
-          "type": "h1"
-        },
-        "paragraph-s1p1": {
-          "css": "text-xl text-green-700 leading-relaxed",
-          "text": "Empowering you to achieve optimal health through personalized nutrition guidance and support."
-        }
-      },
-      "section-2": {
-        "name": "Our Mission",
-        "css": "mt-16 bg-white rounded-xl shadow-lg p-8 max-w-4xl mx-auto",
-        "heading-s2h1": {
-          "css": "text-3xl font-semibold text-green-800 mb-4",
-          "text": "Our Mission",
-          "type": "h2"
-        },
-        "paragraph-s2p1": {
-          "css": "text-green-700 leading-relaxed",
-          "text": "At our Nutrition Center, we are dedicated to helping individuals achieve their health goals through evidence-based nutrition practices. We believe that proper nutrition is the foundation of overall wellness and strive to provide personalized guidance to each of our clients."
-        }
-      },
-      "section-3": {
-        "name": "Our Team",
-        "css": "mt-16",
-        "heading-s3h1": {
-          "css": "text-3xl font-semibold text-green-800 text-center mb-8",
-          "text": "Meet Our Expert Team",
-          "type": "h2"
-        },
-        "div-s3d1": {
-          "css": "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8",
-          "div-s3d1d1": {
-            "css": "bg-white mx-auto items-center justify-item-center rounded-xl shadow-lg overflow-hidden",
-            "Image-s2d1d1d3img1": {
-                "src": "Team3.jpeg",
-                "alt": "Clinical Dietitian",
-                "width": "192",
-                "height": "192",
-                "css": "w-48 h-48 mt-1 rounded-full mx-auto object-cover mb-8 border-4 border-white shadow-md",
-                "directly_added_other_attributes": ""
+        "css": "",
+        "section-1": {
+            "css": "mx-auto max-w-3xl space-y-6 text-center",
+            "heading-s1h1": {
+                "css": "text-fontSize mt-10 font-fontWeight tracking-tight text-textPrimary sm:text-smFontSize",
+                "text": "About Our Nutrition Center",
+                "type": "h1"
             },
-            "div-s3d1d1d1": {
-              "css": "p-6",
-              "heading-s3d1d1h1": {
-                "css": "text-xl font-semibold text-green-800 mb-2",
-                "text": "Dr. Jane Smith",
-                "type": "h3"
-              },
-              "paragraph-s3d1d1p1": {
-                "css": "text-green-700",
-                "text": "Registered Dietitian, PhD in Nutritional Sciences"
-              }
+            "paragraph-s1p1": {
+                "css": "text-fontSize leading-relaxed text-textSecondary",
+                "text": "Empowering you to achieve optimal health through personalized nutrition guidance and support."
             }
-          },
-          "div-s3d1d2": {
-            "css": "bg-white rounded-xl shadow-lg overflow-hidden",
-            "Image-s2d1d1d3img1": {
-                "src": "Team1.jpeg",
-                "alt": "Clinical Dietitian",
-                "width": "192",
-                "height": "192",
-                "css": "w-48 h-48 mx-auto mt-1  rounded-full object-cover mb-8 border-4 border-white shadow-md",
-                "directly_added_other_attributes": ""
+        },
+        "section-2": {
+            "css": "mx-auto mt-16 max-w-4xl rounded-xl bg-backgroundSecondary p-8 shadow-lg",
+            "heading-s2h2": {
+                "css": "mb-4 text-fontSize font-fontWeight text-textPrimary",
+                "text": "Our Mission",
+                "type": "h2"
             },
-            "div-s3d1d2d1": {
-              "css": "p-6",
-              "heading-s3d1d2h1": {
-                "css": "text-xl font-semibold text-green-800 mb-2",
-                "text": "John Doe",
-                "type": "h3"
-              },
-              "paragraph-s3d1d2p1": {
-                "css": "text-green-700",
-                "text": "Certified Nutritionist, Specializing in Sports Nutrition"
-              }
+            "paragraph-s2p1": {
+                "css": "leading-relaxed text-textSecondary",
+                "text": "At our Nutrition Center, we are dedicated to helping individuals achieve their health goals through evidence-based nutrition practices. We believe that proper nutrition is the foundation of overall wellness and strive to provide personalized guidance to each of our clients."
             }
-          },
-          "div-s3d1d3": {
-            "css": "bg-white rounded-xl shadow-lg overflow-hidden",
-            "Image-s2d1d1d3img1": {
-                "src": "Team2.jpeg",
-                "alt": "Clinical Dietitian",
-                "width": "192",
-                "height": "192",
-                "css": "w-48 mx-auto mt-1 h-48 rounded-full object-cover mb-8 border-4 border-white shadow-md",
-                "directly_added_other_attributes": ""
+        },
+        "section-3": {
+            "css": "mt-16",
+            "heading-s3h2": {
+                "css": "mb-8 text-center text-fontSize font-fontWeight text-textPrimary",
+                "text": "Meet Our Expert Team",
+                "type": "h2"
             },
-            "div-s3d1d3d1": {
-              "css": "p-6",
-              "heading-s3d1d3h1": {
-                "css": "text-xl font-semibold text-green-800 mb-2",
-                "text": "Sarah Johnson",
-                "type": "h3"
-              },
-              "paragraph-s3d1d3p1": {
-                "css": "text-green-700",
-                "text": "Registered Dietitian, Specializing in Pediatric Nutrition"
-              }
+            "div-s3d1": {
+                "css": "grid grid-cols-1 gap-8 sm:grid-cols-3",
+                "div-s3d1d1": {
+                    "css": "justify-item-center mx-auto items-center overflow-hidden rounded-xl bg-backgroundSecondary shadow-lg",
+                    "Image-s3d1d1img1": {
+                        "src": "Image-s3d1d1img1.jpeg",
+                        "alt": "Clinical Dietitian",
+                        "width": "192",
+                        "height": "192",
+                        "css": "mx-auto mt-1 mb-8 h-48 w-48 rounded-full border-4 border-white object-cover shadow-md"
+                    },
+                    "div-s3d1d1d1": {
+                        "css": "p-6",
+                        "heading-s3d1d1d1h3": {
+                            "css": "mb-2 text-fontSize font-fontWeight text-textPrimary",
+                            "text": "Dr. Jane Smith",
+                            "type": "h3"
+                        },
+                        "paragraph-s3d1d1d1p1": {
+                            "css": "text-textSecondary",
+                            "text": "Registered Dietitian, PhD in Nutritional Sciences"
+                        }
+                    }
+                },
+                "div-s3d1d2": {
+                    "css": "overflow-hidden rounded-xl bg-backgroundSecondary shadow-lg",
+                    "Image-s3d1d2img1": {
+                        "src": "Image-s3d1d2img1.jpeg",
+                        "alt": "Clinical Dietitian",
+                        "width": "192",
+                        "height": "192",
+                        "css": "mx-auto mt-1 mb-8 h-48 w-48 rounded-full border-4 border-white object-cover shadow-md"
+                    },
+                    "div-s3d1d2d1": {
+                        "css": "p-6",
+                        "heading-s3d1d2d1h3": {
+                            "css": "mb-2 text-fontSize font-fontWeight text-textPrimary",
+                            "text": "John Doe",
+                            "type": "h3"
+                        },
+                        "paragraph-s3d1d2d1p1": {
+                            "css": "text-textSecondary",
+                            "text": "Certified Nutritionist, Specializing in Sports Nutrition"
+                        }
+                    }
+                },
+                "div-s3d1d3": {
+                    "css": "overflow-hidden rounded-xl bg-backgroundSecondary shadow-lg",
+                    "Image-s3d1d3img1": {
+                        "src": "Image-s3d1d3img1.jpeg",
+                        "alt": "Clinical Dietitian",
+                        "width": "192",
+                        "height": "192",
+                        "css": "mx-auto mt-1 mb-8 h-48 w-48 rounded-full border-4 border-white object-cover shadow-md"
+                    },
+                    "div-s3d1d3d1": {
+                        "css": "p-6",
+                        "heading-s3d1d3d1h3": {
+                            "css": "mb-2 text-fontSize font-fontWeight text-textPrimary",
+                            "text": "Sarah Johnson",
+                            "type": "h3"
+                        },
+                        "paragraph-s3d1d3d1p1": {
+                            "css": "text-textSecondary",
+                            "text": "Registered Dietitian, Specializing in Pediatric Nutrition"
+                        }
+                    }
+                }
             }
-          }
+        },
+        "section-4": {
+            "css": "mx-auto mt-16 max-w-4xl rounded-xl bg-backgroundSecondary p-8 shadow-lg",
+            "heading-s4h2": {
+                "css": "mb-4 text-fontSize font-fontWeight text-textPrimary",
+                "text": "Our Approach to Nutrition",
+                "type": "h2"
+            },
+            "paragraph-s4p1": {
+                "css": "mb-4 leading-relaxed text-textSecondary",
+                "text": "We believe in a holistic, personalized approach to nutrition. Our team of experts works closely with each client to develop tailored nutrition plans that consider individual health goals, dietary preferences, and lifestyle factors."
+            },
+            "ul-s4u1": {
+                "css": "list-inside list-disc space-y-2 text-textSecondary",
+                "li-s4u1li1": {
+                    "css": "undefined",
+                    "text": "Comprehensive nutritional assessments",
+                    "paragraph-s4u1li1p1": {
+                        "css": "",
+                        "text": "Comprehensive nutritional assessments"
+                    }
+                },
+                "li-s4u1li2": {
+                    "css": "undefined",
+                    "text": "Customized meal plans",
+                    "paragraph-s4u1li2p1": {
+                        "css": "",
+                        "text": "Customized meal plans"
+                    }
+                },
+                "li-s4u1li3": {
+                    "css": "undefined",
+                    "text": "Ongoing support and guidance",
+                    "paragraph-s4u1li3p1": {
+                        "css": "",
+                        "text": "Ongoing support and guidance"
+                    }
+                },
+                "li-s4u1li4": {
+                    "css": "undefined",
+                    "text": "Evidence-based nutritional advice",
+                    "paragraph-s4u1li4p1": {
+                        "css": "",
+                        "text": "Evidence-based nutritional advice"
+                    }
+                }
+            }
+        },
+        "section-5": {
+            "css": "mt-16 text-center",
+            "heading-s5h2": {
+                "css": "mb-4 text-fontSize font-fontWeight text-textPrimary",
+                "text": "Start Your Journey to Better Health",
+                "type": "h2"
+            },
+            "paragraph-s5p1": {
+                "css": "mb-8 text-fontSize text-textSecondary",
+                "text": "Take the first step towards a healthier you. Schedule a consultation with one of our nutrition experts today."
+            }
         }
-      },
-      "section-4": {
-        "name": "Our Approach",
-        "css": "mt-16 bg-white rounded-xl shadow-lg p-8 max-w-4xl mx-auto",
-        "heading-s4h1": {
-          "css": "text-3xl font-semibold text-green-800 mb-4",
-          "text": "Our Approach to Nutrition",
-          "type": "h2"
-        },
-        "paragraph-s4p1": {
-          "css": "text-green-700 leading-relaxed mb-4",
-          "text": "We believe in a holistic, personalized approach to nutrition. Our team of experts works closely with each client to develop tailored nutrition plans that consider individual health goals, dietary preferences, and lifestyle factors."
-        },
-        "ul-s4u1": {
-          "css": "list-disc list-inside text-green-700 space-y-2",
-          "li-s4u1l1": {
-            "text": "Comprehensive nutritional assessments"
-          },
-          "li-s4u1l2": {
-            "text": "Customized meal plans"
-          },
-          "li-s4u1l3": {
-            "text": "Ongoing support and guidance"
-          },
-          "li-s4u1l4": {
-            "text": "Evidence-based nutritional advice"
-          }
-        }
-      },
-      "section-5": {
-        "name": "Call to Action",
-        "css": "mt-16 text-center",
-        "heading-s5h1": {
-          "css": "text-3xl font-bold mb-4 text-green-800",
-          "text": "Start Your Journey to Better Health",
-          "type": "h2"
-        },
-        "paragraph-s5p1": {
-          "css": "text-xl text-green-700 mb-8",
-          "text": "Take the first step towards a healthier you. Schedule a consultation with one of our nutrition experts today."
-        },
-        "button-s5b1": {
-          "css": "inline-flex items-center justify-center rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-green-600 text-white hover:bg-green-700 h-12 px-6 py-2",
-          "text": "Book a Consultation"
-        }
-      }
     }
-  }
-  
-  
+}

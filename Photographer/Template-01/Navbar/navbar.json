@@ -5,6 +5,10 @@
         {
             "pageName": "Home",
             "pageId": "Home"
+        },
+        {
+            "pageName": "Footer",
+            "pageId": "Footer"
         }
     ]
 }
