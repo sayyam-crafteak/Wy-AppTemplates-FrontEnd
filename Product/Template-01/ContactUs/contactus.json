@@ -1,0 +1,108 @@
+{
+    "main": {
+        "css": "pt-2",
+        "section-1": {
+            "css": "py-20 bg-white",
+            "div-s1d1": {
+                "css": "container mx-auto px-4",
+                "div-s1d1d1": {
+                    "css": "max-w-3xl mx-auto text-center mb-12",
+                    "heading-s1d1d1h1": {
+                        "css": "text-4xl font-bold text-primary mb-6",
+                        "text": "Get in Touch",
+                        "type": "h1"
+                    },
+                    "paragraph-s1d1d1p1": {
+                        "css": "text-gray-600",
+                        "text": "Have questions? We're here to help and answer any question you might have."
+                    }
+                },
+                "div-s1d1d2": {
+                    "css": "grid sm:grid-cols-3 gap-8 max-w-5xl mx-auto",
+                    "div-s1d1d2d1": {
+                        "css": "text-center p-6 bg-gray-200 rounded-xl hover:shadow-md transition-shadow duration-300",
+                        "div-s1d1d2d1d1": {
+                            "css": "mb-4 text-4xl"
+                        },
+                        "heading-s1d1d2d1h1": {
+                            "css": "text-lg font-semibold mb-2",
+                            "text": "Phone",
+                            "type": "h3"
+                        },
+                        "paragraph-s1d1d2d1p1": {
+                            "css": "text-gray-600",
+                            "text": "+1 123 456 7890"
+                        },
+                        "paragraph-s1d1d2d1p2": {
+                            "css": "text-gray-600",
+                            "text": "Mon-Fri: 9 AM - 6 PM"
+                        }
+                    },
+                    "div-s1d1d2d2": {
+                        "css": "text-center p-6 bg-gray-200 rounded-xl hover:shadow-md transition-shadow duration-300",
+                        "div-s1d1d2d2d1": {
+                            "css": "mb-4 text-4xl"
+                        },
+                        "heading-s1d1d2d2h1": {
+                            "css": "text-lg font-semibold mb-2",
+                            "text": "Email",
+                            "type": "h3"
+                        },
+                        "paragraph-s1d1d2d2p1": {
+                            "css": "text-gray-600",
+                            "text": "info@techelite.com"
+                        },
+                        "paragraph-s1d1d2d2p2": {
+                            "css": "text-gray-600",
+                            "text": "support@techelite.com"
+                        }
+                    },
+                    "div-s1d1d2d3": {
+                        "css": "text-center p-6 bg-gray-200 rounded-xl hover:shadow-md transition-shadow duration-300",
+                        "div-s1d1d2d3d1": {
+                            "css": "mb-4 text-4xl"
+                        },
+                        "heading-s1d1d2d3h1": {
+                            "css": "text-lg font-semibold mb-2",
+                            "text": "Office",
+                            "type": "h3"
+                        },
+                        "paragraph-s1d1d2d3p1": {
+                            "css": "text-gray-600",
+                            "text": "123 Innovation Drive"
+                        },
+                        "paragraph-s1d1d2d3p2": {
+                            "css": "text-gray-600",
+                            "text": "Silicon Valley, CA 94025"
+                        }
+                    }
+                }
+            }
+        },
+        "section-2": {
+            "css": "py-20 bg-gray-200",
+            "div-s2d1": {
+                "css": "container mx-auto px-4",
+                "div-s2d1d1": {
+                    "css": "max-w-4xl mx-auto text-center",
+                    "heading-s2d1d1h1": {
+                        "css": "text-3xl font-bold text-primary mb-6",
+                        "text": "Connect With Us",
+                        "type": "h2"
+                    },
+                    "paragraph-s2d1d1p1": {
+                        "css": "text-gray-600 mb-8",
+                        "text": "Follow us on social media for the latest updates, tech news, and exclusive offers."
+                    },
+                    "div-s2d1d1d1": {
+                        "css": "flex justify-center space-x-6",
+                        "paragraph-s2d1d1d1d1": {
+                            "css": "",
+                            "text": "support@techelite.com"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,627 @@
+{
+  "main": {
+    "section-1": {
+      "css": "bg-gray-100 py-16 px-8 flex flex-col lg:flex-row items-center h-screen",
+      "div-s1d1": {
+        "css": "lg:w-1/2 space-y-6 lg:pl-20",
+        "heading-s1d1h1": {
+          "type": "h2",
+          "css": "text-yellow-500 font-semibold text-2xl lg:text-3xl",
+          "text": "Health Coaching"
+        },
+        "heading-s1d1h2": {
+          "type": "h1",
+          "css": "text-4xl lg:text-6xl font-bold text-black leading-tight",
+          "text": "Better Health,"
+        },
+        "heading-s1d1h3": {
+          "type": "h1",
+          "css": "text-4xl lg:text-6xl font-bold text-black leading-tight",
+          "text": "Better Lifestyle"
+        },
+        "paragraph-s1d1p1": {
+          "css": "text-gray-600 text-lg leading-relaxed",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        "div-s1d1d1": {
+          "css": "flex space-x-4",
+          "a-s1d1d1a1": {
+            "target": "_blank",
+            "href": "#",
+            "css": "bg-blue-500 text-white px-6 py-3 rounded-lg shadow-lg hover:bg-blue-600",
+            "paragraph-s1d1d1a1p1": {
+              "text": "Learn More"
+            }
+          },
+          "a-s1d1d1a2": {
+            "target": "_blank",
+            "href": "#",
+            "css": "border-2 text-black border-black px-6 py-3 rounded-lg hover:bg-gray-200",
+            "paragraph-s1d1d1a1p1": {
+              "text": "Contact Us"
+            }
+          }
+        }
+      },
+      "div-s1d2": {
+        "css": "lg:w-[40%] w-full flex justify-center lg:justify-end",
+        "Image-s1d2img1": {
+          "src": "Image-s1d2img1.png",
+          "alt": "Yoga Pose",
+          "width": 400,
+          "height": 400,
+          "css": "object-contain"
+        }
+      }
+    },
+    "section-2": {
+      "css": "py-16 px-8 bg-white grid grid-cols-1 md:grid-cols-3 gap-8 text-center",
+      "div-s2d1": {
+        "css": "space-y-4 bg-gray-50 p-6 rounded-lg shadow-md",
+        "type":"card",
+        "div-s2d1d1": {
+          "css": "text-yellow-500 text-4xl",
+          "paragraph-s2d1d1p1": {
+            "css": "text-yellow-500 text-4xl",
+            "text": "⭐"
+          }
+        },
+        "heading-s2d1d1h1": {
+          "type": "h3",
+          "css": "text-xl font-semibold text-black",
+          "text": "Best Coaching"
+        },
+        "paragraph-s2d1d1p1": {
+          "css": "text-gray-600",
+          "text": "Our coaching methods are tailored to each individual's needs, ensuring the best possible results."
+        },
+        "a-s2d1d1a1": {
+          "css": "text-blue-500 font-medium hover:underline",
+          "text": "Learn More →",
+          "href": "#",
+          "target": "_blank"
+        }
+      },
+      "div-s2d2": {
+        "css": "space-y-4 bg-gray-50 p-6 rounded-lg shadow-md",
+       "type":"card",
+        "div-s2d2d1": {
+          "css": "text-yellow-500 text-4xl",
+          "paragraph-s2d2d1p1": {
+            "css": "text-yellow-500 text-4xl",
+            "text": "⭐"
+          }
+        },
+        "heading-s2d2d1h1": {
+          "type": "h3",
+          "css": "text-xl font-semibold text-black",
+          "text": "Best Coaching"
+        },
+        "paragraph-s2d2d1p1": {
+          "css": "text-gray-600",
+          "text": "Our coaching methods are tailored to each individual's needs, ensuring the best possible results."
+        },
+        "a-s2d2d1a1": {
+          "css": "text-blue-500 font-medium hover:underline",
+          "text": "Learn More →",
+          "href": "#",
+          "target": "_blank"
+        }
+      },
+      "div-s2d3": {
+        "css": "space-y-4 bg-gray-50 p-6 rounded-lg shadow-md",
+        "type":"card",
+        "div-s2d3d1": {
+          "css": "text-yellow-500 text-4xl",
+          "paragraph-s2d3d1p1": {
+            "css": "text-yellow-500 text-4xl",
+            "text": "⭐"
+          }
+        },
+        "heading-s2d3d1h1": {
+          "type": "h3",
+          "css": "text-xl font-semibold text-black",
+          "text": "Best Coaching"
+        },
+        "paragraph-s2d3d1p1": {
+          "css": "text-gray-600",
+          "text": "Our coaching methods are tailored to each individual's needs, ensuring the best possible results."
+        },
+        "a-s2d3d1a1": {
+          "css": "text-blue-500 font-medium hover:underline",
+          "text": "Learn More →",
+          "href": "#",
+          "target": "_blank"
+        }
+      }
+    },
+    "section-3": {
+      "css": "bg-white py-16 px-8 flex-col lg:flex-row items-center justify-between flex p-2",
+      "Image-s3img1": {
+        "src": "Image-s3img1.jpg",
+        "alt": "About Groweal",
+        "width": "250",
+        "height": "250",
+        "css": "lg:w-[30%] w-full mb-8 lg:mb-0 "
+      },
+      "div-s3d1": {
+        "css": "lg:w-1/2 space-y-4 text-center lg:text-left",
+        "heading-s3d1h1": {
+          "type": "h2",
+          "css": "text-yellow-500 font-semibold text-2xl",
+          "text": "Health Coaching"
+        },
+        "heading-s3d1h2": {
+          "type": "h1",
+          "css": "text-5xl font-bold text-black",
+          "text": "About HealthCoach"
+        },
+        "paragraph-s3d1p1": {
+          "css": "text-gray-600",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        }
+      }
+    },
+    "section-4": {
+      "css": "bg-gray-100 py-16 px-8",
+      "div-s4": {
+        "css": "text-center space-y-8",
+        "heading-s4h2": {
+          "type": "h2",
+          "css": "text-yellow-500 font-semibold text-3xl",
+          "text": "Groweal Coaching"
+        },
+        "heading-s4h1": {
+          "type": "h1",
+          "css": "text-5xl font-bold text-gray-950",
+          "text": "Helping You Make The Right Choices"
+        },
+        "paragraph-s4p1": {
+          "css": "text-gray-800 max-w-2xl mx-auto",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+        "button-s4": {
+          "css": "bg-black text-white px-6 py-2 rounded-lg hover:bg-yellow-600",
+          "text": "Learn More"
+        }
+      }
+    },
+    "section-5": {
+      "css": "bg-white py-16 px-8",
+      "div-s5": {
+        "css": "text-center space-y-4",
+        "heading-s5h2": {
+          "type": "h2",
+          "css": "text-yellow-500 font-semibold text-1xl",
+          "text": "Our Services"
+        },
+        "heading-s5h1": {
+          "type": "h1",
+          "css": "text-3xl font-bold text-black",
+          "text": "How Growheal Works"
+        },
+        "paragraph-s5p1": {
+          "css": "text-gray-600 max-w-2xl mx-auto",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        }
+      }
+    },
+    "section-6": {
+      "css": "bg-white py-16 px-8",
+      "div-s6": {
+        "css": "text-center space-y-8",
+        "heading-s6h2": {
+          "type": "h2",
+          "css": "text-yellow-500 font-semibold text-lg mb-4",
+          "text": "Our Programs",
+          "id": "heading-s6h2"
+        },
+        "heading-s6h1": {
+          "type": "h1",
+          "css": "text-center text-4xl font-bold mb-8",
+          "text": "Explore What We Offer",
+          "id": "heading-s6h1"
+        },
+        "div-s6d1": {
+          "css": "grid grid-cols-1 md:grid-cols-3 gap-8",
+          "div-s6d1d1": {
+            "css": "bg-gray-50 p-6 rounded-lg shadow-md",
+            "image-s6d1d1": {
+              "src": "image-s6d1d1.jpg",
+              "alt": "Group Coaching",
+              "width": "300",
+              "height": "200",
+              "css": "rounded-lg mb-4 object-cover w-full",
+              "id": "image-s6d1d1"
+            },
+            "heading-s6d1d1": {
+              "type": "h3",
+              "css": "text-xl font-semibold mb-2 text-black",
+              "text": "Group Coaching",
+              "id": "heading-s6d1d1"
+            },
+            "paragraph-s6d1d1p1": {
+              "css": "text-black",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis pulvinar.",
+              "id": "paragraph-s6d1d1p1"
+            },
+            "div-s6d1d1": {
+              "css": "text-blue-500 font-medium hover:underline",
+              "text": "Learn More →",
+              "id": "div-s6d1d1"
+            }
+          },
+          "div-s6d1d2": {
+            "css": "bg-gray-50 p-6 rounded-lg shadow-md",
+            "image-s6d1d2": {
+              "src": "image-s6d1d2.jpg",
+              "alt": "Day Challenge",
+              "width": "300",
+              "height": "200",
+              "css": "rounded-lg mb-4 object-cover w-full",
+              "id": "image-s6d1d2"
+            },
+            "heading-s6d1d2": {
+              "type": "h3",
+              "css": "text-xl font-semibold mb-2 text-black",
+              "text": "Day Challenge",
+              "id": "heading-s6d1d2"
+            },
+            "paragraph-s6d1d2p1": {
+              "css": "text-black",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis pulvinar.",
+              "id": "paragraph-s6d1d2p1"
+            },
+            "div-s6d1d2": {
+              "css": "text-blue-500 font-medium hover:underline",
+              "text": "Learn More →",
+              "id": "div-s6d1d2"
+            }
+          },
+          "div-s6d1d3": {
+            "css": "bg-gray-50 p-6 rounded-lg shadow-md",
+            "image-s6d1d3": {
+              "src": "image-s6d1d3.jpg",
+              "alt": "Control Eating",
+              "width": "300",
+              "height": "200",
+              "css": "rounded-lg object-cover w-full lg:h-[270px] mb-4",
+              "id": "image-s6d1d3"
+            },
+            "heading-s6d1d3": {
+              "type": "h3",
+              "css": "text-xl font-semibold mb-2 text-black",
+              "text": "Control Eating",
+              "id": "heading-s6d1d3"
+            },
+            "paragraph-s6d1d3p1": {
+              "css": "text-black",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis pulvinar.",
+              "id": "paragraph-s6d1d3p1"
+            },
+            "div-s6d1d3": {
+              "css": "text-blue-500 font-medium hover:underline",
+              "text": "Learn More →",
+              "id": "div-s6d1d3"
+            }
+          }
+        }
+      }
+    },
+    "section-7": {
+      "css": "bg-gray-100 py-16 px-8",
+      "div-s7": {
+        "css": "text-center mb-8",
+        "heading-s7h2": {
+          "type": "h2",
+          "css": "text-yellow-500 font-semibold text-lg",
+          "text": "Our Team",
+          "id": "heading-s7h2"
+        },
+        "heading-s7h1": {
+          "type": "h1",
+          "css": "text-4xl font-bold text-black",
+          "text": "Team Expert",
+          "id": "heading-s7h1"
+        },
+        "paragraph-s7p1": {
+          "css": "text-gray-600 max-w-2xl mx-auto",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+          "id": "paragraph-s7p1"
+        },
+        "button-s7": {
+          "css": "mt-4 bg-blue-500 text-white px-6 py-2 rounded-lg hover:bg-blue-600",
+          "text": "Learn More",
+          "id": "button-s7"
+        }
+      },
+      "div-s7d1": {
+        "css": "grid grid-cols-1 md:grid-cols-2 gap-8",
+        "div-s7d1d1": {
+          "css": "flex flex-col items-center space-y-4",
+          "Image-s7d1d1": {
+            "src": "Image-s7d1d1.jpg",
+            "alt": "Expert 1",
+            "css": "rounded-lg w-72 h-72",
+            "id": "Image-s7d1d1"
+          },
+          "div-s7d1d1social": {
+            "css": "flex space-x-4 text-gray-500",
+            "div-s7d1d1f": {
+              "text": "Facebook",
+              "id": "div-s7d1d1f"
+            },
+            "div-s7d1d1t": {
+              "text": "Twitter",
+              "id": "div-s7d1d1t"
+            },
+            "div-s7d1d1i": {
+              "text": "Instagram",
+              "id": "div-s7d1d1i"
+            }
+          }
+        },
+        "div-s7d1d2": {
+          "css": "flex flex-col items-center space-y-4",
+          "Image-s7d1d2": {
+            "src": "Image-s7d1d2.jpg",
+            "alt": "Expert 2",
+            "css": "rounded-lg w-72 h-72",
+            "id": "Image-s7d1d2"
+          },
+          "div-s7d1d2social": {
+            "css": "flex space-x-4 text-gray-500",
+            "div-s7d1d2f": {
+              "text": "Facebook",
+              "id": "div-s7d1d2f"
+            },
+            "div-s7d1d2t": {
+              "text": "Twitter",
+              "id": "div-s7d1d2t"
+            },
+            "div-s7d1d2i": {
+              "text": "Instagram",
+              "id": "div-s7d1d2i"
+            }
+          }
+        }
+      }
+    },
+    "section-9": {
+      "css": "bg-white py-8 px-8",
+      "div-s9": {
+        "css": "flex justify-center space-x-8",
+        "Image-s9d1": {
+          "src": "Image-s9d1.png",
+          "alt": "Zencenter",
+          "css": "w-24 h-24"
+        },
+        "Image-s9d2": {
+          "src": "Image-s9d2.png",
+          "alt": "Fitness",
+          "css": "w-24 h-24"
+        },
+        "Image-s9d3": {
+          "src": "Image-s9d3.png",
+          "alt": "NaturePear",
+          "css": "w-24 h-24"
+        },
+        "Image-s9d4": {
+          "src": "Image-s9d1.png",
+          "alt": "PureNature",
+          "css": "w-24 h-24"
+        }
+      }
+    },
+    "section-10": {
+      "css": "bg-gray-50 py-16 px-8",
+      "div-s10d1": {
+        "css": "text-center mb-8",
+        "heading-s10d1h1": {
+          "type": "h2",
+          "css": "text-yellow-500 font-semibold text-lg mb-4",
+          "text": "Our Testimonials"
+        },
+        "heading-s10d1h2": {
+          "type": "h1",
+          "css": "text-4xl font-bold mb-8 text-black",
+          "text": "What Client Say"
+        }
+      },
+      "div-s10d2": {
+        "css": "grid grid-cols-1 md:grid-cols-3 gap-8",
+        "div-s10d2d1": {
+          "css": "bg-white p-6 rounded-lg shadow-md text-center",
+          "type":"card",
+          "div-s10d2d1div": {
+            "css": "mb-4",
+            "text": "★★★★★",
+            "text-css": "text-yellow-500 text-lg"
+          },
+          "paragraph-s10d2d1p1": {
+            "css": "text-gray-600 mb-4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
+          },
+          "heading-s10d2d1h3": {
+            "css": "font-semibold",
+            "text": "Gianna"
+          },
+          "paragraph-s10d2d1p2": {
+            "css": "text-gray-500 text-sm",
+            "text": "Client"
+          }
+        },
+        "div-s10d2d2": {
+          "css": "bg-white p-6 rounded-lg shadow-md text-center",
+          "type":"card",
+          "div-s10d2d2div": {
+            "css": "mb-4",
+            "text": "★★★★★",
+            "text-css": "text-yellow-500 text-lg"
+          },
+          "paragraph-s10d2d2p1": {
+            "css": "text-gray-600 mb-4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
+          },
+          "heading-s10d2d2h3": {
+            "css": "font-semibold",
+            "text": "Avery"
+          },
+          "paragraph-s10d2d2p2": {
+            "css": "text-gray-500 text-sm",
+            "text": "Client"
+          }
+        },
+        "div-s10d2d3": {
+          "css": "bg-white p-6 rounded-lg shadow-md text-center",
+          "type":"card",
+          "div-s10d2d3div": {
+            "css": "mb-4",
+            "text": "★★★★★",
+            "text-css": "text-yellow-500 text-lg"
+          },
+          "paragraph-s10d2d3p1": {
+            "css": "text-gray-600 mb-4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
+          },
+          "heading-s10d2d3h3": {
+            "css": "font-semibold",
+            "text": "Eleanor"
+          },
+          "paragraph-s10d2d3p2": {
+            "css": "text-gray-500 text-sm",
+            "text": "Client"
+          }
+        }
+      }
+    },
+    "section-11": {
+      "css": "bg-white py-16 px-8",
+      "div-s11d1": {
+        "css": "text-center mb-8",
+        "heading-s11d1h1": {
+          "type": "h2",
+          "css": "text-yellow-500 font-semibold text-lg mb-4",
+          "text": "Our Price"
+        },
+        "heading-s11d1h2": {
+          "type": "h1",
+          "css": "text-4xl font-bold mb-8 text-black",
+          "text": "HealthCoach Price"
+        }
+      },
+      "div-s11d2": {
+        "css": "grid grid-cols-1 md:grid-cols-3 gap-8",
+        "div-s11d2d1": {
+          "css": "bg-gray-50 p-6 rounded-lg shadow-md text-center",
+          "type":"card",
+          "div-s11d2d1div": {
+            "css": "text-yellow-500 text-4xl mb-4",
+            "text": "📊"
+          },
+          "heading-s11d2d1h3": {
+            "css": "text-xl font-semibold mb-2",
+            "text": "Basic"
+          },
+          "heading-s11d2d1h1": {
+            "css": "text-4xl font-bold text-gray-800 mb-4",
+            "text": "$87"
+          },
+          "paragraph-s11d2d1p1": {
+            "css": "text-gray-600 mb-4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis."
+          },
+          "button-s11d2d1b1": {
+            "type": "button",
+            "css": "bg-blue-500 text-white px-6 py-2 rounded-lg hover:bg-blue-600",
+            "text": "Get Started"
+          }
+        },
+        "div-s11d2d2": {
+          "css": "bg-gray-50 p-6 rounded-lg shadow-md text-center",
+          "type":"card",
+          "div-s11d2d2div": {
+            "css": "text-yellow-500 text-4xl mb-4",
+            "text": "📈"
+          },
+          "heading-s11d2d2h3": {
+            "css": "text-xl font-semibold mb-2",
+            "text": "Pro"
+          },
+          "heading-s11d2d2h1": {
+            "css": "text-4xl font-bold text-gray-800 mb-4",
+            "text": "$92"
+          },
+          "paragraph-s11d2d2p1": {
+            "css": "text-gray-600 mb-4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis."
+          },
+          "button-s11d2d2b1": {
+            "type": "button",
+            "css": "bg-blue-500 text-white px-6 py-2 rounded-lg hover:bg-blue-600",
+            "text": "Get Started"
+          }
+        },
+        "div-s11d2d3": {
+          "css": "bg-gray-50 p-6 rounded-lg shadow-md text-center",
+          "type":"card",
+          "div-s11d2d3div": {
+            "css": "text-yellow-500 text-4xl mb-4",
+            "text": "📉"
+          },
+          "heading-s11d2d3h3": {
+            "css": "text-xl font-semibold mb-2",
+            "text": "Premium"
+          },
+          "heading-s11d2d3h1": {
+            "css": "text-4xl font-bold text-gray-800 mb-4",
+            "text": "$98"
+          },
+          "paragraph-s11d2d3p1": {
+            "css": "text-gray-600 mb-4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis."
+          },
+          "button-s11d2d3b1": {
+            "type": "button",
+            "css": "bg-blue-500 text-white px-6 py-2 rounded-lg hover:bg-blue-600",
+            "text": "Get Started"
+          }
+        }
+      }
+    },
+    "section-12": {
+      "css": "bg-gray-50 py-16 px-8",
+      "div-s12d1": {
+        "css": "text-center mb-8",
+        "heading-s12d1h1": {
+          "type": "h2",
+          "css": "text-yellow-500 font-semibold text-lg mb-4",
+          "text": "Our Pictures"
+        },
+        "heading-s12d1h2": {
+          "type": "h1",
+          "css": "text-4xl font-bold mb-8 text-black",
+          "text": "Clients Gallery"
+        }
+      },
+      "div-s12d2": {
+        "css": " flex flex-col md:flex-row p-2 items-center justify-center mx-auto ",
+        "Image-s12d2img1": {
+          "src": "Client.png",
+          "alt": "Client 1",
+          "css": "rounded-lg shadow-md w-72 h-48"
+        },
+        "Image-s12d2img2": {
+          "src": "Client.png",
+          "alt": "Client 2",
+          "css": "rounded-lg shadow-md w-72 h-48"
+        },
+        "Image-s12d2img3": {
+          "src": "Client.png",
+          "alt": "Client 3",
+          "css": "rounded-lg shadow-md w-72 h-48"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#main {
+  @apply container mx-auto;
+}
+
+#section-1 {
+  @apply text-gray-600;
+}
+
+#div-s1d1 {
+  @apply container px-5 py-24 mx-auto flex flex-col;
+}
+
+#div-s1d1d1 {
+  @apply lg:w-4/6 mx-auto;
+}
+
+#div-s1d1d1d1 {
+  @apply rounded-lg h-64 overflow-hidden;
+}
+
+#Image-s1d1d1d1img1 {
+  @apply object-cover object-center h-full w-full;
+}
+
+#div-s1d1d1d2 {
+  @apply flex flex-col sm:flex-row mt-10;
+}
+
+#div-s1d1d1d2d1 {
+  @apply sm:w-1/3 text-center sm:pr-8 sm:py-8;
+}
+
+#div-s1d1d1d2d1d1 {
+  @apply w-20 h-20 rounded-full inline-flex items-center justify-center bg-gray-200 text-gray-400;
+}
+
+#svg-s1d1d1d2d1d1svg1 {
+  @apply w-10 h-10;
+}
+
+#div-s1d1d1d2d1d2 {
+  @apply flex flex-col items-center text-center justify-center;
+}
+
+#heading-s1d1d1d2d1d2h1 {
+  @apply font-medium   mt-4 text-gray-900 text-lg;
+}
+
+#div-s1d1d1d2d1d2d1 {
+  @apply w-12 h-1 bg-indigo-500 rounded mt-2 mb-4;
+}
+
+#paragraph-s1d1d1d2d1d2p1 {
+  @apply text-base;
+}
+
+#div-s1d1d1d2d2 {
+  @apply sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-200 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left;
+}
+
+#paragraph-s1d1d1d2d2p1 {
+  @apply leading-relaxed text-lg mb-4;
+}
+
+#a-s1d1d1d2d2a1 {
+  @apply text-indigo-500 inline-flex items-center;
+}
+
+#paragraph-s1d1d1d2d2a1p1 {
+  @apply;
+}
+
+#svg-s1d1d1d2d2a1svg1 {
+  @apply w-4 h-4 ml-2;
+}

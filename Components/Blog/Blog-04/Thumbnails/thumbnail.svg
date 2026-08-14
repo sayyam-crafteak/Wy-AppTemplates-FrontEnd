@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300">
+  <!-- First Column -->
+  <rect x="45" y="65" width="30" height="12" rx="2" ry="2" fill="#e9ecef" opacity="0.7" />
+  <rect x="116" y="65" width="80" height="12" rx="2" ry="2" fill="#e9ecef" opacity="0.7" />
+  
+  <rect x="45" y="105" width="30" height="20" rx="2" ry="2" fill="#e9ecef" />
+  
+  <!-- First Column Title - darker to represent bold -->
+  <rect x="116" y="95" width="150" height="20" rx="2" ry="2" fill="#d1d5db" />
+  
+  <!-- First Column Content -->
+  <rect x="116" y="145" width="220" height="10" rx="2" ry="2" fill="#e9ecef" />
+  <rect x="116" y="165" width="220" height="10" rx="2" ry="2" fill="#e9ecef" />
+  <rect x="116" y="185" width="180" height="10" rx="2" ry="2" fill="#e9ecef" />
+  
+  <!-- First Column Avatar and Name -->
+  <circle cx="131" cy="235" r="15" fill="#e9ecef" />
+  <rect x="171" y="230" width="100" height="12" rx="2" ry="2" fill="#e9ecef" />
+  
+  <!-- Second Column -->
+  <rect x="395" y="65" width="30" height="12" rx="2" ry="2" fill="#e9ecef" opacity="0.7" />
+  <rect x="466" y="65" width="80" height="12" rx="2" ry="2" fill="#e9ecef" opacity="0.7" />
+  
+  <rect x="395" y="105" width="30" height="20" rx="2" ry="2" fill="#e9ecef" />
+  
+  <!-- Second Column Title - darker to represent bold -->
+  <rect x="466" y="95" width="150" height="20" rx="2" ry="2" fill="#d1d5db" />
+  
+  <!-- Second Column Content -->
+  <rect x="466" y="145" width="220" height="10" rx="2" ry="2" fill="#e9ecef" />
+  <rect x="466" y="165" width="220" height="10" rx="2" ry="2" fill="#e9ecef" />
+  <rect x="466" y="185" width="180" height="10" rx="2" ry="2" fill="#e9ecef" />
+  
+  <!-- Second Column Avatar and Name -->
+  <circle cx="481" cy="235" r="15" fill="#e9ecef" />
+  <rect x="521" y="230" width="100" height="12" rx="2" ry="2" fill="#e9ecef" />
+  
+  <!-- Third Column -->
+  <rect x="745" y="65" width="30" height="12" rx="2" ry="2" fill="#e9ecef" opacity="0.7" />
+  <rect x="816" y="65" width="80" height="12" rx="2" ry="2" fill="#e9ecef" opacity="0.7" />
+  
+  <rect x="745" y="105" width="30" height="20" rx="2" ry="2" fill="#e9ecef" />
+  
+  <!-- Third Column Title - darker to represent bold -->
+  <rect x="816" y="95" width="150" height="20" rx="2" ry="2" fill="#d1d5db" />
+  
+  <!-- Third Column Content -->
+  <rect x="816" y="145" width="220" height="10" rx="2" ry="2" fill="#e9ecef" />
+  <rect x="816" y="165" width="220" height="10" rx="2" ry="2" fill="#e9ecef" />
+  <rect x="816" y="185" width="180" height="10" rx="2" ry="2" fill="#e9ecef" />
+  
+  <!-- Third Column Avatar and Name -->
+  <circle cx="831" cy="235" r="15" fill="#e9ecef" />
+  <rect x="871" y="230" width="100" height="12" rx="2" ry="2" fill="#e9ecef" />
+</svg>

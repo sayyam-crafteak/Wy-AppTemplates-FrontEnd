@@ -1,0 +1,134 @@
+{
+  "main": {
+    "css": "container mx-auto",
+    "section-1": {
+      "css": "text-gray-400 bg-white   overflow-hidden",
+      "div-s1d1": {
+        "css": "container px-5 py-24 mx-auto",
+        "div-s1d1d1": {
+          "css": "-my-8 divide-y-2 divide-gray-800",
+          "div-s1d1d1d1": {
+            "css": "py-8 flex flex-wrap md:flex-nowrap",
+            "div-s1d1d1d1d1": {
+              "css": "md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col",
+              "div-s1d1d1d1d1d1": {
+                "css": "font-semibold   text-black",
+                "paragraph-s1d1d1d1d1d1p1": {
+                  "css": "",
+                  "text": "CATEGORY"
+                }
+              },
+              "div-s1d1d1d1d1d2": {
+                "css": "mt-1 text-gray-500 text-sm",
+                "paragraph-s1d1d1d1d1d2p1": {
+                  "css": "",
+                  "text": "12 Jun 2019"
+                }
+              }
+            },
+            "div-s1d1d1d1d2": {
+              "css": "md:flex-grow",
+              "heading-s1d1d1d1d2h1": {
+                "css": "text-2xl font-medium text-black   mb-2",
+                "text": "Bitters hashtag waistcoat fashion axe chia unicorn",
+                "type": "h2"
+              },
+              "paragraph-s1d1d1d1d2p1": {
+                "css": "leading-relaxed",
+                "text": "Glossier echo park pug, church-key sartorial biodiesel vexillologist pop-up snackwave ramps cornhole. Marfa 3 wolf moon party messenger bag selfies, poke vaporware kombucha lumbersexual pork belly polaroid hoodie portland craft beer."
+              },
+              "a-s1d1d1d1d2a1": {
+                "css": "text-indigo-400 inline-flex items-center mt-4",
+                "href": "#",
+                "paragraph-s1d1d1d1d2a1p1": {
+                  "css": "",
+                  "text": "Learn More"
+                }
+              }
+            }
+          },
+          "div-s1d1d1d2": {
+            "css": "py-8 flex border-t-2 border-gray-800 flex-wrap md:flex-nowrap",
+            "div-s1d1d1d2d1": {
+              "css": "md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col",
+              "div-s1d1d1d2d1d1": {
+                "css": "font-semibold   text-black",
+                "paragraph-s1d1d1d2d1d1p1": {
+                  "css": "",
+                  "text": "CATEGORY"
+                }
+              },
+              "div-s1d1d1d2d1d2": {
+                "css": "mt-1 text-gray-500 text-sm",
+                "paragraph-s1d1d1d2d1d2p1": {
+                  "css": "",
+                  "text": "12 Jun 2019"
+                }
+              }
+            },
+            "div-s1d1d1d2d2": {
+              "css": "md:flex-grow",
+              "heading-s1d1d1d2d2h1": {
+                "css": "text-2xl font-medium text-black   mb-2",
+                "text": "Bitters hashtag waistcoat fashion axe chia unicorn",
+                "type": "h2"
+              },
+              "paragraph-s1d1d1d2d2p1": {
+                "css": "leading-relaxed",
+                "text": "Glossier echo park pug, church-key sartorial biodiesel vexillologist pop-up snackwave ramps cornhole. Marfa 3 wolf moon party messenger bag selfies, poke vaporware kombucha lumbersexual pork belly polaroid hoodie portland craft beer."
+              },
+              "a-s1d1d1d2d2a1": {
+                "css": "text-indigo-400 inline-flex items-center mt-4",
+                "href": "#",
+                "paragraph-s1d1d1d2d2a1p1": {
+                  "css": "",
+                  "text": "Learn More"
+                }
+              }
+            }
+          },
+          "div-s1d1d1d3": {
+            "css": "py-8 flex border-t-2 border-gray-800 flex-wrap md:flex-nowrap",
+            "div-s1d1d1d3d1": {
+              "css": "md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col",
+              "div-s1d1d1d3d1d1": {
+                "css": "font-semibold   text-black",
+                "paragraph-s1d1d1d3d1d1p1": {
+                  "css": "",
+                  "text": "CATEGORY"
+                }
+              },
+              "div-s1d1d1d3d1d2": {
+                "css": "mt-1 text-gray-500 text-sm",
+                "paragraph-s1d1d1d3d1d2p1": {
+                  "css": "",
+                  "text": "12 Jun 2019"
+                }
+              }
+            },
+            "div-s1d1d1d3d2": {
+              "css": "md:flex-grow",
+              "heading-s1d1d1d3d2h1": {
+                "css": "text-2xl font-medium text-black   mb-2",
+                "text": "Bitters hashtag waistcoat fashion axe chia unicorn",
+                "type": "h2"
+              },
+              "paragraph-s1d1d1d3d2p1": {
+                "css": "leading-relaxed",
+                "text": "Glossier echo park pug, church-key sartorial biodiesel vexillologist pop-up snackwave ramps cornhole. Marfa 3 wolf moon party messenger bag selfies, poke vaporware kombucha lumbersexual pork belly polaroid hoodie portland craft beer."
+              },
+              "a-s1d1d1d3d2a1": {
+                "css": "text-indigo-400 inline-flex items-center mt-4",
+                "href": "#",
+                "paragraph-s1d1d1d3d2a1p1": {
+                  "css": "",
+                  "text": "Learn More"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

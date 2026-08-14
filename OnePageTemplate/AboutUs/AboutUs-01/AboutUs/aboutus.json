@@ -1,0 +1,301 @@
+{
+    "main": {
+        "css": "container mx-auto",
+        "section-1": {
+            "css": "mb-16 text-center mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8",
+            "heading-s1h1": {
+                "css": "mb-4 text-4xl font-bold text-gray-900",
+                "text": "About Us",
+                "type": "h1"
+            },
+            "paragraph-s1p1": {
+                "css": "mx-auto max-w-2xl text-xl text-gray-600",
+                "text": "We are a passionate team of digital innovators dedicated\n                to helping businesses succeed in the digital age."
+            }
+        },
+        "section-2": {
+            "css": "mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8 mb-16 grid grid-cols-1 gap-12 lg:grid-cols-2",
+            "div-s2d1": {
+                "css": "",
+                "heading-s2d1h1": {
+                    "css": "mb-6 text-3xl font-bold text-gray-900",
+                    "text": "Our Story",
+                    "type": "h2"
+                },
+                "paragraph-s2d1p1": {
+                    "css": "mb-4 text-gray-600",
+                    "text": "Founded in 2018, we started as a small team of developers and designers\n                    with a shared vision: to create digital solutions that make a real difference for businesses and\n                    their customers."
+                },
+                "paragraph-s2d1p2": {
+                    "css": "mb-4 text-gray-600",
+                    "text": "Over the years, we've grown into a full-service digital agency, but our\n                    core values remain the same. We believe in the power of technology to transform businesses and\n                    create meaningful connections between brands and their audiences."
+                },
+                "paragraph-s2d1p3": {
+                    "css": "text-gray-600",
+                    "text": "Today, we're proud to have helped over 500 businesses across various industries\n                    achieve their digital goals and continue to push the boundaries of what's possible in the digital\n                    realm."
+                }
+            },
+            "div-s2d2": {
+                "css": "h-96 rounded-lg bg-cover bg-center"
+            }
+        },
+        "section-3": {
+            "css": "mb-16 rounded-lg bg-white p-8 shadow-md mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8",
+            "heading-s3h1": {
+                "css": "mb-8 text-center text-3xl font-bold text-gray-900",
+                "text": "Our Mission",
+                "type": "h2"
+            },
+            "div-s3d1": {
+                "css": "grid grid-cols-1 gap-8 md:grid-cols-3",
+                "div-s3d1d1": {
+                    "css": "text-center",
+                    "div-s3d1d1d1": {
+                        "css": "mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-blue-100",
+                        "svg-s3d1d1d1svg1": {
+                            "css": "h-8 w-8 text-blue-600",
+                            "class": "h-8 w-8 text-blue-600",
+                            "fill": "none",
+                            "stroke": "currentColor",
+                            "viewbox": "0 0 24 24",
+                            "path-s3d1d1d1svg1path1": {
+                                "stroke-linecap": "round",
+                                "stroke-linejoin": "round",
+                                "stroke-width": "2",
+                                "d": "M13 10V3L4 14h7v7l9-11h-7z"
+                            }
+                        }
+                    },
+                    "heading-s3d1d1h1": {
+                        "css": "mb-2 text-xl font-semibold text-gray-900",
+                        "text": "Innovation",
+                        "type": "h3"
+                    },
+                    "paragraph-s3d1d1p1": {
+                        "css": "text-gray-600",
+                        "text": "We constantly explore new technologies and methodologies to deliver\n                        cutting-edge solutions that give our clients a competitive advantage."
+                    }
+                },
+                "div-s3d1d2": {
+                    "css": "text-center",
+                    "div-s3d1d2d1": {
+                        "css": "mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-green-100",
+                        "svg-s3d1d2d1svg1": {
+                            "css": "h-8 w-8 text-green-600",
+                            "class": "h-8 w-8 text-green-600",
+                            "fill": "none",
+                            "stroke": "currentColor",
+                            "viewbox": "0 0 24 24",
+                            "path-s3d1d2d1svg1path1": {
+                                "stroke-linecap": "round",
+                                "stroke-linejoin": "round",
+                                "stroke-width": "2",
+                                "d": "M5 13l4 4L19 7"
+                            }
+                        }
+                    },
+                    "heading-s3d1d2h1": {
+                        "css": "mb-2 text-xl font-semibold text-gray-900",
+                        "text": "Quality",
+                        "type": "h3"
+                    },
+                    "paragraph-s3d1d2p1": {
+                        "css": "text-gray-600",
+                        "text": "We maintain the highest standards in everything we do, from code quality to\n                        user experience, ensuring our clients receive exceptional results."
+                    }
+                },
+                "div-s3d1d3": {
+                    "css": "text-center",
+                    "div-s3d1d3d1": {
+                        "css": "mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-purple-100",
+                        "svg-s3d1d3d1svg1": {
+                            "css": "h-8 w-8 text-purple-600",
+                            "class": "h-8 w-8 text-purple-600",
+                            "fill": "none",
+                            "stroke": "currentColor",
+                            "viewbox": "0 0 24 24",
+                            "path-s3d1d3d1svg1path1": {
+                                "stroke-linecap": "round",
+                                "stroke-linejoin": "round",
+                                "stroke-width": "2",
+                                "d": "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"
+                            }
+                        }
+                    },
+                    "heading-s3d1d3h1": {
+                        "css": "mb-2 text-xl font-semibold text-gray-900",
+                        "text": "Partnership",
+                        "type": "h3"
+                    },
+                    "paragraph-s3d1d3p1": {
+                        "css": "text-gray-600",
+                        "text": "We believe in building long-term relationships with our clients, working as\n                        an extension of their team to achieve shared success."
+                    }
+                }
+            }
+        },
+        "section-4": {
+            "css": "mb-16",
+            "heading-s4h1": {
+                "css": "mb-8 text-center text-3xl font-bold text-gray-900",
+                "text": "Meet Our Team",
+                "type": "h2"
+            },
+            "div-s4d1": {
+                "css": "grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4",
+                "div-s4d1d1": {
+                    "css": "rounded-lg bg-white p-6 text-center shadow-md",
+                    "div-s4d1d1d1": {
+                        "css": "mx-auto mb-4 h-24 w-24 rounded-full bg-cover bg-center"
+                    },
+                    "heading-s4d1d1h1": {
+                        "css": "mb-2 text-xl font-semibold text-gray-900",
+                        "text": "John Smith",
+                        "type": "h3"
+                    },
+                    "paragraph-s4d1d1p1": {
+                        "css": "mb-2 text-gray-600",
+                        "text": "CEO & Founder"
+                    },
+                    "paragraph-s4d1d1p2": {
+                        "css": "text-sm text-gray-500",
+                        "text": "Leading the vision and strategy with 10+ years of experience in\n                        digital innovation."
+                    }
+                },
+                "div-s4d1d2": {
+                    "css": "rounded-lg bg-white p-6 text-center shadow-md",
+                    "div-s4d1d2d1": {
+                        "css": "mx-auto mb-4 h-24 w-24 rounded-full bg-cover bg-center"
+                    },
+                    "heading-s4d1d2h1": {
+                        "css": "mb-2 text-xl font-semibold text-gray-900",
+                        "text": "Sarah Johnson",
+                        "type": "h3"
+                    },
+                    "paragraph-s4d1d2p1": {
+                        "css": "mb-2 text-gray-600",
+                        "text": "CTO"
+                    },
+                    "paragraph-s4d1d2p2": {
+                        "css": "text-sm text-gray-500",
+                        "text": "Architecting robust solutions and leading our talented development\n                        team."
+                    }
+                },
+                "div-s4d1d3": {
+                    "css": "rounded-lg bg-white p-6 text-center shadow-md",
+                    "div-s4d1d3d1": {
+                        "css": "mx-auto mb-4 h-24 w-24 rounded-full bg-cover bg-center"
+                    },
+                    "heading-s4d1d3h1": {
+                        "css": "mb-2 text-xl font-semibold text-gray-900",
+                        "text": "Mike Chen",
+                        "type": "h3"
+                    },
+                    "paragraph-s4d1d3p1": {
+                        "css": "mb-2 text-gray-600",
+                        "text": "Design Director"
+                    },
+                    "paragraph-s4d1d3p2": {
+                        "css": "text-sm text-gray-500",
+                        "text": "Creating beautiful and functional designs that enhance user\n                        experiences."
+                    }
+                },
+                "div-s4d1d4": {
+                    "css": "rounded-lg bg-white p-6 text-center shadow-md",
+                    "div-s4d1d4d1": {
+                        "css": "mx-auto mb-4 h-24 w-24 rounded-full bg-cover bg-center"
+                    },
+                    "heading-s4d1d4h1": {
+                        "css": "mb-2 text-xl font-semibold text-gray-900",
+                        "text": "Emily Davis",
+                        "type": "h3"
+                    },
+                    "paragraph-s4d1d4p1": {
+                        "css": "mb-2 text-gray-600",
+                        "text": "Marketing Manager"
+                    },
+                    "paragraph-s4d1d4p2": {
+                        "css": "text-sm text-gray-500",
+                        "text": "Driving growth through strategic marketing and client relationship\n                        management."
+                    }
+                }
+            }
+        },
+        "section-5": {
+            "css": "mb-16 rounded-lg bg-white p-8 shadow-md mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8",
+            "heading-s5h1": {
+                "css": "mb-8 text-center text-3xl font-bold text-gray-900",
+                "text": "Our Values",
+                "type": "h2"
+            },
+            "div-s5d1": {
+                "css": "grid grid-cols-1 gap-8 md:grid-cols-2",
+                "div-s5d1d1": {
+                    "css": "",
+                    "heading-s5d1d1h1": {
+                        "css": "mb-3 text-xl font-semibold text-gray-900",
+                        "text": "Transparency",
+                        "type": "h3"
+                    },
+                    "paragraph-s5d1d1p1": {
+                        "css": "text-gray-600",
+                        "text": "We believe in open communication and honest relationships with our clients,\n                        keeping them informed every step of the way."
+                    }
+                },
+                "div-s5d1d2": {
+                    "css": "",
+                    "heading-s5d1d2h1": {
+                        "css": "mb-3 text-xl font-semibold text-gray-900",
+                        "text": "Excellence",
+                        "type": "h3"
+                    },
+                    "paragraph-s5d1d2p1": {
+                        "css": "text-gray-600",
+                        "text": "We strive for excellence in everything we do, from the smallest detail to\n                        the biggest project deliverable."
+                    }
+                },
+                "div-s5d1d3": {
+                    "css": "",
+                    "heading-s5d1d3h1": {
+                        "css": "mb-3 text-xl font-semibold text-gray-900",
+                        "text": "Creativity",
+                        "type": "h3"
+                    },
+                    "paragraph-s5d1d3p1": {
+                        "css": "text-gray-600",
+                        "text": "We embrace creative thinking and innovative approaches to solve complex\n                        challenges and deliver unique solutions."
+                    }
+                },
+                "div-s5d1d4": {
+                    "css": "",
+                    "heading-s5d1d4h1": {
+                        "css": "mb-3 text-xl font-semibold text-gray-900",
+                        "text": "Growth",
+                        "type": "h3"
+                    },
+                    "paragraph-s5d1d4p1": {
+                        "css": "text-gray-600",
+                        "text": "We are committed to continuous learning and growth, both for our team and\n                        our clients' businesses."
+                    }
+                }
+            }
+        },
+        "section-6": {
+            "css": "rounded-lg bg-gradient-to-r from-blue-600 to-purple-600 p-8 text-center text-white shadow-md mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8",
+            "heading-s6h1": {
+                "css": "mb-4 text-3xl font-bold",
+                "text": "Join Our Journey",
+                "type": "h2"
+            },
+            "paragraph-s6p1": {
+                "css": "mb-8 text-xl",
+                "text": "Ready to work with a team that's passionate about your success? Let's create\n                something amazing together."
+            },
+            "a-s6a1": {
+                "css": "rounded-lg bg-white px-8 py-3 font-medium text-blue-600 transition-colors hover:bg-gray-100",
+                "text": "Get\n                In Touch",
+                "href": "#"
+            }
+        }
+    }
+}

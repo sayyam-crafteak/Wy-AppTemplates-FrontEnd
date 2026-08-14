@@ -1,0 +1,209 @@
+{
+  "main": {
+    "css": "container mx-auto",
+    "section-1": {
+      "css": "text-gray-600  ",
+      "div-s1d1": {
+        "css": "container px-5 py-24 mx-auto flex flex-wrap",
+        "div-s1d1d1": {
+          "css": "flex relative pt-10 pb-20 sm:items-center md:w-2/3 mx-auto",
+          "div-s1d1d1d1": {
+            "css": "h-full w-6 absolute inset-0 flex items-center justify-center",
+            "div-s1d1d1d1d1": {
+              "css": "h-full w-1 bg-gray-200 pointer-events-none"
+            }
+          },
+          "div-s1d1d1d2": {
+            "css": "flex-shrink-0 w-6 h-6 rounded-full mt-10 sm:mt-0 inline-flex items-center justify-center bg-indigo-500 text-white relative z-10   font-medium text-sm",
+            "paragraph-s1d1d1d2p1": {
+              "css": "",
+              "text": "1"
+            }
+          },
+          "div-s1d1d1d3": {
+            "css": "flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row",
+            "div-s1d1d1d3d1": {
+              "css": "flex-shrink-0 w-20 h-20 bg-indigo-100 text-indigo-500 rounded-full inline-flex items-center justify-center text-sm",
+              "svg-s1d1d1d3d1svg1": {
+                "css": "w-7 h-7",
+                "fill": "none",
+                "stroke": "currentColor",
+                "stroke_linecap": "round",
+                "stroke_linejoin": "round",
+                "stroke_width": "2",
+                "class": "w-12 h-12",
+                "viewbox": "0 0 24 24",
+                "path-s1d1d1d3d1svg1path1": {
+                  "d": "M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"
+                }
+              }
+            },
+            "div-s1d1d1d3d2": {
+              "css": "flex-grow sm:pl-6 mt-6 sm:mt-0",
+              "heading-s1d1d1d3d2h1": {
+                "css": "font-medium   text-gray-900 mb-1 text-xl",
+                "text": "Shooting Stars",
+                "type": "h2"
+              },
+              "paragraph-s1d1d1d3d2p1": {
+                "css": "leading-relaxed",
+                "text": "VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal."
+              }
+            }
+          }
+        },
+        "div-s1d1d2": {
+          "css": "flex relative pb-20 sm:items-center md:w-2/3 mx-auto",
+          "div-s1d1d2d1": {
+            "css": "h-full w-6 absolute inset-0 flex items-center justify-center",
+            "div-s1d1d2d1d1": {
+              "css": "h-full w-1 bg-gray-200 pointer-events-none"
+            }
+          },
+          "div-s1d1d2d2": {
+            "css": "flex-shrink-0 w-6 h-6 rounded-full mt-10 sm:mt-0 inline-flex items-center justify-center bg-indigo-500 text-white relative z-10   font-medium text-sm",
+            "paragraph-s1d1d2d2p1": {
+              "css": "",
+              "text": "2"
+            }
+          },
+          "div-s1d1d2d3": {
+            "css": "flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row",
+            "div-s1d1d2d3d1": {
+              "css": "flex-shrink-0 w-20 h-20 bg-indigo-100 text-indigo-500 rounded-full inline-flex items-center justify-center text-sm",
+              "svg-s1d1d2d3d1svg1": {
+                "css": "w-7 h-7",
+                "fill": "none",
+                "stroke": "currentColor",
+                "stroke_linecap": "round",
+                "stroke_linejoin": "round",
+                "stroke_width": "2",
+                "class": "w-12 h-12",
+                "viewbox": "0 0 24 24",
+                "path-s1d1d2d3d1svg1path1": {
+                  "d": "M22 12h-4l-3 9L9 3l-3 9H2"
+                }
+              }
+            },
+            "div-s1d1d2d3d2": {
+              "css": "flex-grow sm:pl-6 mt-6 sm:mt-0",
+              "heading-s1d1d2d3d2h1": {
+                "css": "font-medium   text-gray-900 mb-1 text-xl",
+                "text": "The Catalyzer",
+                "type": "h2"
+              },
+              "paragraph-s1d1d2d3d2p1": {
+                "css": "leading-relaxed",
+                "text": "VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal."
+              }
+            }
+          }
+        },
+        "div-s1d1d3": {
+          "css": "flex relative pb-20 sm:items-center md:w-2/3 mx-auto",
+          "div-s1d1d3d1": {
+            "css": "h-full w-6 absolute inset-0 flex items-center justify-center",
+            "div-s1d1d3d1d1": {
+              "css": "h-full w-1 bg-gray-200 pointer-events-none"
+            }
+          },
+          "div-s1d1d3d2": {
+            "css": "flex-shrink-0 w-6 h-6 rounded-full mt-10 sm:mt-0 inline-flex items-center justify-center bg-indigo-500 text-white relative z-10   font-medium text-sm",
+            "paragraph-s1d1d3d2p1": {
+              "css": "",
+              "text": "3"
+            }
+          },
+          "div-s1d1d3d3": {
+            "css": "flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row",
+            "div-s1d1d3d3d1": {
+              "css": "flex-shrink-0 w-20 h-20 bg-indigo-100 text-indigo-500 rounded-full inline-flex items-center justify-center text-sm",
+              "svg-s1d1d3d3d1svg1": {
+                "css": "w-7 h-7",
+                "fill": "none",
+                "stroke": "currentColor",
+                "stroke_linecap": "round",
+                "stroke_linejoin": "round",
+                "stroke_width": "2",
+                "class": "w-12 h-12",
+                "viewbox": "0 0 24 24",
+                "circle-s1d1d3d3d1svg1circle1": {
+                  "cx": "12",
+                  "cy": "5",
+                  "r": "3"
+                },
+                "path-s1d1d3d3d1svg1path1": {
+                  "d": "M12 22V8M5 12H2a10 10 0 0020 0h-3"
+                }
+              }
+            },
+            "div-s1d1d3d3d2": {
+              "css": "flex-grow sm:pl-6 mt-6 sm:mt-0",
+              "heading-s1d1d3d3d2h1": {
+                "css": "font-medium   text-gray-900 mb-1 text-xl",
+                "text": "The 400 Blows",
+                "type": "h2"
+              },
+              "paragraph-s1d1d3d3d2p1": {
+                "css": "leading-relaxed",
+                "text": "VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal."
+              }
+            }
+          }
+        },
+        "div-s1d1d4": {
+          "css": "flex relative pb-10 sm:items-center md:w-2/3 mx-auto",
+          "div-s1d1d4d1": {
+            "css": "h-full w-6 absolute inset-0 flex items-center justify-center",
+            "div-s1d1d4d1d1": {
+              "css": "h-full w-1 bg-gray-200 pointer-events-none"
+            }
+          },
+          "div-s1d1d4d2": {
+            "css": "flex-shrink-0 w-6 h-6 rounded-full mt-10 sm:mt-0 inline-flex items-center justify-center bg-indigo-500 text-white relative z-10   font-medium text-sm",
+            "paragraph-s1d1d4d2p1": {
+              "css": "",
+              "text": "4"
+            }
+          },
+          "div-s1d1d4d3": {
+            "css": "flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row",
+            "div-s1d1d4d3d1": {
+              "css": "flex-shrink-0 w-20 h-20 bg-indigo-100 text-indigo-500 rounded-full inline-flex items-center justify-center text-sm",
+              "svg-s1d1d4d3d1svg1": {
+                "css": "w-7 h-7",
+                "fill": "none",
+                "stroke": "currentColor",
+                "stroke_linecap": "round",
+                "stroke_linejoin": "round",
+                "stroke_width": "2",
+                "class": "w-12 h-12",
+                "viewbox": "0 0 24 24",
+                "path-s1d1d4d3d1svg1path1": {
+                  "d": "M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"
+                },
+                "circle-s1d1d4d3d1svg1circle1": {
+                  "cx": "12",
+                  "cy": "7",
+                  "r": "4"
+                }
+              }
+            },
+            "div-s1d1d4d3d2": {
+              "css": "flex-grow sm:pl-6 mt-6 sm:mt-0",
+              "heading-s1d1d4d3d2h1": {
+                "css": "font-medium   text-gray-900 mb-1 text-xl",
+                "text": "Neptune",
+                "type": "h2"
+              },
+              "paragraph-s1d1d4d3d2p1": {
+                "css": "leading-relaxed",
+                "text": "VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

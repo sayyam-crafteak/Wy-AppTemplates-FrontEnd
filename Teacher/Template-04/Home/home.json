@@ -1,0 +1,368 @@
+{
+  "main": {
+    "css": "min-h-screen",
+    "section-1": {
+      "name": "herosection",
+      "css": "sm:px-16 md:px-4 md:py-2 px-4 py-2 bg-gradient-to-b from-orange-200 to-orange-100",
+      "div-s1d1": {
+        "css": "flex sm:flex-row sm:space-x-5 flex-col md:px-2 md:py-5 px-2 sm:py-16 py-5",
+        "div-s1d1d1": {
+          "css": "flex flex-col",
+          "div-s1d1d1d1": {
+            "css": "flex flex-col space-y-2 sm:mb-16 md:mb-8 mb-8 sm:flex-row sm:space-x-8 sm:space-y-0",
+            "div-s1d1d1d1d1": {
+              "css": "flex items-center space-x-4 cursor-pointer",
+              "paragraph-s1d1d1d1d1p1": {
+                "css": "text-neutral-900 font-bold text-base tracking-tight",
+                "text": "Young Learners 🧒"
+              }
+            },
+            "div-s1d1d1d1d2": {
+              "css": "flex items-center space-x-4 cursor-pointer",
+              "paragraph-s1d1d1d1d2p1": {
+                "css": "text-neutral-900 font-bold text-base tracking-tight",
+                "text": "Working Professionals 🏢"
+              }
+            },
+            "div-s1d1d1d1d3": {
+              "css": "flex items-center space-x-4 cursor-pointer",
+              "paragraph-s1d1d1d1d3p1": {
+                "css": "text-neutral-900 font-bold text-base tracking-tight",
+                "text": "Educational Institutions 🏫"
+              }
+            }
+          },
+          "paragraph-s1d1d1p1": {
+            "css": "sm:mb-12 md:mb-5 mb-5 text-2xl",
+            "text": "Learning Beyond Boundaries1"
+          },
+          "heading-s1d1d1h1": {
+            "type": "h1",
+            "css": "sm:text-7xl text-[38px] md:mb-4 mb-4 font-medium text-gray-900 sm:leading-[80px] leading-[50px] text-left",
+            "text": "Your Personalized  \u003Cbr /\u003EeLearning \u003Cbr /\u003ESolution"
+          },
+          "div-s1d1d1d2": {
+            "css": "cursor-pointer sm:px-8 md:p-4 px-4 py-4 text-white bg-orange-800 border-white border-2 w-fit rounded-3xl  flex items-center sm:mt-10 sm:mb-0 mb-10",
+            "paragraph-s1d1d1d2p1": {
+              "css": " rounded-xl text-xl mr-6",
+              "text": "Start Today"
+            },
+            "svg-s1d1d1d2svg1": {
+              "stroke": "currentColor",
+              "fill": "currentColor",
+              "stroke_width": "0",
+              "viewBox": "0 0 20 20",
+              "height": "1rem",
+              "width": "1rem",
+              "xmlns": "http://www.w3.org/2000/svg",
+              "css": "w-5 h-5 text-white font-semibold",
+              "path-s1d1d1d2svg1path1": {
+                "d": "M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z"
+              },
+              "path-s1d1d1d2svg1path2": {
+                "d": "M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z"
+              }
+            }
+          }
+        },
+        "div-s1d1d2": {
+          "css": "flex flex-col rounded-lg sm:w-1/2 w-full sm:mx-auto",
+          "iframe-s1d1d2iframe1": {
+            "css": "w-[75%] h-full aspect-video sm:mx-auto cursor-pointer mb-10 transition-transform hover:scale-105",
+            "directly_added_other_attributes": "autoPlay muted loop",
+            "src": "https://drive.google.com/file/d/1HQZiGm-E5Vff7g8TfcGAIlMm6sk916UE/preview?usp=sharing"
+          },
+          "div-s1d1d2d1": {
+            "css": "grid grid-cols-1 sm:grid-cols-3 gap-6 mt-4",
+            "div-s1d1d2d1d1": {
+              "css": "flex flex-col items-start border  border-orange-900 space-y-3 p-5 border rounded-3xl bg-orange-50 shadow-md hover:shadow-xl hover:bg-orange-100 cursor-pointer transition-all",
+              "type":"card",
+              "paragraph-s1d1d2d1d1p1": {
+                "css": "bg-orange-200 text-blue-900 rounded-full px-4 py-1 w-fit font-semibold",
+                "text": "1."
+              },
+              "heading-s1d1d2d1d1h1": {
+                "type": "h3",
+                "css": "text-xl font-semibold  text-gray-800",
+                "text": "Speak"
+              },
+              "paragraph-s1d1d2d1d1p2": {
+                "css": "text-gray-600 text-sm",
+                "text": "Explore conversation courses tailored to your needs."
+              }
+            },
+            "div-s1d1d2d1d2": {
+              "css": "flex flex-col items-start border border-orange-900 space-y-3 p-5 border rounded-3xl bg-orange-50 shadow-md hover:shadow-xl hover:bg-orange-100 cursor-pointer transition-all",
+               "type":"card",
+              "paragraph-s1d1d2d1d2p1": {
+                "css": "bg-orange-200 text-blue-900 rounded-full px-4 py-1 w-fit font-semibold",
+                "text": "2."
+              },
+              "heading-s1d1d2d1d2h1": {
+                "type": "h3",
+                "css": "text-xl font-semibold    text-gray-800",
+                "text": "Read"
+              },
+              "paragraph-s1d1d2d1d2p2": {
+                "css": "text-gray-600 text-sm",
+                "text": "Discover engaging reading courses for all levels."
+              }
+            },
+            "div-s1d1d2d1d3": {
+              "css": "flex flex-col items-start border  border-orange-900 space-y-3 p-5 border rounded-3xl bg-orange-50 shadow-md hover:shadow-xl hover:bg-orange-100 cursor-pointer transition-all",
+               "type":"card",
+              "paragraph-s1d1d2d1d3p1": {
+                "css": "bg-orange-200 text-blue-900 rounded-full px-4 py-1 w-fit font-semibold",
+                "text": "3."
+              },
+              "heading-s1d1d2d1d3h1": {
+                "type": "h3",
+                "css": "text-xl  font-semibold text-gray-800",
+                "text": "Write"
+              },
+              "paragraph-s1d1d2d1d3p2": {
+                "css": "text-gray-600 text-sm",
+                "text": "Improve your writing skills with expert guidance."
+              }
+            }
+          }
+        }
+      }
+    },
+    "section-2": {
+      "name": "",
+      "css": "w-full py-16 px-8 bg-gradient-to-b from-orange-100 to-orange-50",
+      "div-s2d1": {
+        "css": "flex flex-col items-center justify-center space-y-8 mb-12",
+        "paragraph-s2d1p1": {
+          "css": "text-xl sm:text-3xl text-center font-medium text-gray-800",
+          "text": "Effortlessly connect with educators and unlock online opportunities"
+        },
+        "heading-s2d1h1": {
+          "type": "h1",
+          "css": "text-4xl sm:text-6xl text-center font-extrabold leading-tight text-gray-900 tracking-tight",
+          "text": "A Revolution in Online Learning"
+        }
+      },
+      "div-s2d2": {
+        "css": "px-8 py-10 bg-orange-200 rounded-xl shadow-xl",
+        "paragraph-s2d2p1": {
+          "css": "text-lg sm:text-xl text-gray-800 font-medium mb-6",
+          "text": "Welcome visitors to your platform. Explain your purpose, values, and uniqueness in a clear and concise way."
+        },
+        "paragraph-s2d2p2": {
+          "css": "text-lg sm:text-xl text-gray-800 font-medium mb-6",
+          "text": "Provide insights about the team behind the initiative and the vision that drives it forward."
+        },
+        "paragraph-s2d2p3": {
+          "css": "text-lg sm:text-xl text-gray-800 font-medium",
+          "text": "Highlight what makes your courses or services stand out and the value they bring to learners."
+        }
+      },
+      "div-s2d3": {
+        "css": "relative h-[70vh] sm:h-[90vh] flex items-center justify-center mt-8",
+        "div-s2d3d1": {
+          "css": "absolute inset-0 z-10",
+          "Image-s2d3d1img1": {
+            "src": "Image-s2d3d1img1.jpg",
+            "alt": "Innovative Learning Background",
+            "directly_added_other_attributes": "fill priority",
+            "css": "object-cover w-full h-full rounded-xl shadow-xl"
+          }
+        }
+      }
+    },
+    "section-3": {
+      "name": "",
+      "css": "w-full sm:py-24 sm:px-16 p-8 bg-gradient-to-br from-orange-50 via-orange-100 to-yellow-50",
+      "div-s3d1": {
+        "css": "flex flex-col sm:flex-row max-w-8xl mx-auto gap-12",
+        "div-s3d1d1": {
+          "css": "flex flex-col items-left justify-center sm:w-1/2",
+          "heading-s3d1d1h1": {
+            "type": "h2",
+            "css": "sm:text-7xl text-5xl font-extrabold mb-6 sm:w-[80%] sm:leading-[85px] leading-[60px] bg-gradient-to-r from-orange-600 to-orange-800 bg-clip-text text-transparent",
+            "text": "Transform Your Learning Journey"
+          }
+        },
+        "div-s3d1d2": {
+          "css": "flex flex-col sm:flex-row sm:w-2/3 p-4 gap-6",
+          "div-s3d1d2d1": {
+            "css": "grid grid-cols-1 sm:grid-cols-2 gap-6 w-full",
+            "div-s3d1d2d1d1": {
+              "css": "flex flex-col px-8 py-6 bg-white border-2 border-orange-200 hover:border-orange-400 cursor-pointer rounded-xl hover:shadow-xl transition-all duration-300 items-left justify-center",
+               "type":"card",
+              "heading-s3d1d2d1d1h1": {
+                "type": "h3",
+                "css": "text-2xl font-bold mb-3 text-gray-900",
+                "text": "Intuitive Platform"
+              },
+              "paragraph-s3d1d2d1d1p1": {
+                "css": "text-gray-700 text-lg font-medium",
+                "text": "Easy-to-navigate interface designed for seamless learning experience"
+              }
+            },
+            "div-s3d1d2d1d2": {
+              "css": "flex flex-col px-8 py-6 bg-white border-2 border-orange-200 hover:border-orange-400 cursor-pointer rounded-xl hover:shadow-xl transition-all duration-300 items-left justify-center",
+               "type":"card",
+              "heading-s3d1d2d1d2h1": {
+                "type": "h3",
+                "css": "text-2xl font-bold mb-3 text-gray-900",
+                "text": "Instant Support"
+              },
+              "paragraph-s3d1d2d1d2p1": {
+                "css": "text-gray-700 text-lg font-medium",
+                "text": "Round-the-clock assistance from our dedicated support team"
+              }
+            },
+            "div-s3d1d2d1d3": {
+              "css": "flex flex-col px-8 py-6 bg-white border-2 border-orange-200 hover:border-orange-400 cursor-pointer rounded-xl hover:shadow-xl transition-all duration-300 items-left justify-center",
+               "type":"card",
+              "heading-s3d1d2d1d3h1": {
+                "type": "h3",
+                "css": "text-2xl font-bold mb-3 text-gray-900",
+                "text": "Affordable Plans"
+              },
+              "paragraph-s3d1d2d1d3p1": {
+                "css": "text-gray-700 text-lg font-medium",
+                "text": "Flexible pricing options tailored to fit your learning goals"
+              }
+            },
+            "div-s3d1d2d1d4": {
+              "css": "flex flex-col px-8 py-6 bg-white border-2 border-orange-200 hover:border-orange-400 cursor-pointer rounded-xl hover:shadow-xl transition-all duration-300 items-left justify-center",
+               "type":"card",
+              "heading-s3d1d2d1d4h1": {
+                "type": "h3",
+                "css": "text-2xl font-bold mb-3 text-gray-900",
+                "text": "Growth-Ready"
+              },
+              "paragraph-s3d1d2d1d4p1": {
+                "css": "text-gray-700 text-lg font-medium",
+                "text": "Adaptable learning paths that evolve with your progress"
+              }
+            }
+          }
+        }
+      }
+    },
+    "section-4": {
+      "name": "features",
+      "css": "sm:py-20 py-16 px-6 bg-gradient-to-b from-orange-50 to-white",
+      "div-s4d1": {
+        "css": "max-w-8xl mx-auto sm:px-8",
+        "heading-s4d1h1": {
+          "type": "h2",
+          "css": "text-5xl sm:text-7xl font-extrabold text-center mb-20 bg-clip-text text-transparent bg-gradient-to-r from-orange-500 to-orange-700",
+          "text": "Features That Set Us Apart"
+        },
+        "div-s4d1d1": {
+          "css": "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-2 border  border-orange-900 sm:p-24 p-12 rounded-[2.5rem] bg-gradient-to-br from-[#1D233E] to-[#2A3356] shadow-2xl",
+          "div-s4d1d1d1": {
+            "css": "sm:px-8 sm:py-10 p-8 border  border-orange-900 cursor-pointer text-center hover:shadow-2xl hover:scale-105 transition-all duration-300 bg-white rounded-xl",
+             "type":"card",
+            "svg-s4d1d1d1svg1": {
+              "stroke": "currentColor",
+              "fill": "currentColor",
+              "stroke_width": "0",
+              "viewBox": "0 0 512 512",
+              "height": "1rem",
+              "width": "1rem",
+              "xmlns": "http://www.w3.org/2000/svg",
+              "css": "w-16 h-16 mx-auto mb-6 text-orange-600",
+              "path-s4d1d1d1svg1path1": {
+                "d": "M256 89.61L22.486 177.18 256 293.937l111.22-55.61-104.337-31.9A16 16 0 0 1 256 208a16 16 0 0 1-16-16 16 16 0 0 1 16-16l-2.646 8.602 18.537 5.703a16 16 0 0 1 .008.056l27.354 8.365L455 246.645v12.146a16 16 0 0 0-7 13.21 16 16 0 0 0 7.293 13.406C448.01 312.932 448 375.383 448 400c16 10.395 16 10.775 32 0 0-24.614-.008-87.053-7.29-114.584A16 16 0 0 0 480 272a16 16 0 0 0-7-13.227v-25.42L413.676 215.1l75.838-37.92L256 89.61zM119.623 249L106.5 327.74c26.175 3.423 57.486 18.637 86.27 36.627 16.37 10.232 31.703 21.463 44.156 32.36 7.612 6.66 13.977 13.05 19.074 19.337 5.097-6.288 11.462-12.677 19.074-19.337 12.453-10.897 27.785-22.128 44.156-32.36 28.784-17.99 60.095-33.204 86.27-36.627L392.375 249h-6.25L256 314.063 125.873 249h-6.25z"
+              }
+            },
+            "heading-s4d1d1d1h1": {
+              "type": "h3",
+              "css": "text-2xl font-bold mb-4 text-gray-900",
+              "text": "Interactive Learning"
+            },
+            "paragraph-s4d1d1d1p1": {
+              "css": "text-lg text-gray-700 font-medium",
+              "text": "Engage with dynamic content and real-time feedback systems"
+            }
+          },
+          "div-s4d1d1d2": {
+            "css": "sm:px-8 sm:py-10 p-8 cursor-pointer border  border-orange-900 text-center hover:shadow-2xl hover:scale-105 transition-all duration-300 bg-white rounded-xl",
+             "type":"card",
+            "svg-s4d1d1d2svg1": {
+              "stroke": "currentColor",
+              "fill": "currentColor",
+              "stroke_width": "0",
+              "viewBox": "0 0 24 24",
+              "height": "1rem",
+              "width": "1rem",
+              "xmlns": "http://www.w3.org/2000/svg",
+              "css": "w-16 h-16 mx-auto mb-6 text-orange-500",
+              "path-s4d1d1d2svg1path1": {
+                "d": "M11.25 4.533A9.707 9.707 0 0 0 6 3a9.735 9.735 0 0 0-3.25.555.75.75 0 0 0-.5.707v14.25a.75.75 0 0 0 1 .707A8.237 8.237 0 0 1 6 18.75c1.995 0 3.823.707 5.25 1.886V4.533ZM12.75 20.636A8.214 8.214 0 0 1 18 18.75c.966 0 1.89.166 2.75.47a.75.75 0 0 0 1-.708V4.262a.75.75 0 0 0-.5-.707A9.735 9.735 0 0 0 18 3a9.707 9.707 0 0 0-5.25 1.533v16.103Z"
+              }
+            },
+            "heading-s4d1d1d2h1": {
+              "type": "h3",
+              "css": "text-2xl font-bold mb-4 text-gray-900",
+              "text": "Certified Courses"
+            },
+            "paragraph-s4d1d1d2p1": {
+              "css": "text-lg text-gray-700 font-medium",
+              "text": "Industry-recognized certifications and accredited programs"
+            }
+          },
+          "div-s4d1d1d3": {
+            "css": "sm:px-8 sm:py-10 p-8 cursor-pointer border  border-orange-900 text-center hover:shadow-2xl hover:scale-105 transition-all duration-300 bg-white rounded-xl",
+             "type":"card",
+            "svg-s4d1d1d3svg1": {
+              "stroke": "currentColor",
+              "fill": "currentColor",
+              "stroke_width": "0",
+              "viewBox": "0 0 20 20",
+              "height": "1rem",
+              "width": "1rem",
+              "xmlns": "http://www.w3.org/2000/svg",
+              "css": "w-16 h-16 mx-auto mb-6 text-orange-400",
+              "path-s4d1d1d3svg1path1": {
+                "d": "M7 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6ZM14.5 9a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5ZM1.615 16.428a1.224 1.224 0 0 1-.569-1.175 6.002 6.002 0 0 1 11.908 0c.058.467-.172.92-.57 1.174A9.953 9.953 0 0 1 7 18a9.953 9.953 0 0 1-5.385-1.572ZM14.5 16h-.106c.07-.297.088-.611.048-.933a7.47 7.47 0 0 0-1.588-3.755 4.502 4.502 0 0 1 5.874 2.636.818.818 0 0 1-.36.98A7.465 7.465 0 0 1 14.5 16Z"
+              }
+            },
+            "heading-s4d1d1d3h1": {
+              "type": "h3",
+              "css": "text-2xl font-bold mb-4 text-gray-900",
+              "text": "Global Community"
+            },
+            "paragraph-s4d1d1d3p1": {
+              "css": "text-lg text-gray-700 font-medium",
+              "text": "Connect with learners and educators worldwide"
+            }
+          },
+          "div-s4d1d1d4": {
+            "css": "sm:px-8 sm:py-10 p-8 cursor-pointer border  border-orange-900 text-center hover:shadow-2xl hover:scale-105 transition-all duration-300 bg-white rounded-xl",
+            "type":"card",
+            "svg-s4d1d1d4svg1": {
+              "stroke": "currentColor",
+              "fill": "currentColor",
+              "stroke_width": "0",
+              "viewBox": "0 0 16 16",
+              "height": "1rem",
+              "width": "1rem",
+              "xmlns": "http://www.w3.org/2000/svg",
+              "css": "w-16 h-16 mx-auto mb-6 text-orange-600",
+              "path-s4d1d1d4svg1path1": {
+                "d": "M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71z"
+              }
+            },
+            "heading-s4d1d1d4h1": {
+              "type": "h3",
+              "css": "text-2xl font-bold mb-4 text-gray-900",
+              "text": "24/7 Support"
+            },
+            "paragraph-s4d1d1d4p1": {
+              "css": "text-lg text-gray-700 font-medium",
+              "text": "Round-the-clock assistance and technical support"
+            }
+          }
+        }
+      }
+    }
+  }
+}

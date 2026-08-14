@@ -1,0 +1,14 @@
+{
+    "organizationName": "NEXTJS14",
+    "organizationLogo": "",
+    "pages": [
+        {
+            "pageName": "Home",
+            "pageId": "Home"
+        },
+        {
+            "pageName": "Footer",
+            "pageId": "Footer"
+        }
+    ]
+}

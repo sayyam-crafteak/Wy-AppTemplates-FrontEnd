@@ -1,0 +1,184 @@
+{
+    "main": {
+        "css": "container mx-auto",
+        "section-1": {
+            "css": "relative overflow-hidden py-12 sm:py-16 md:py-20 lg:py-32 bg-gradient-to-b from-orange-100 to-orange-50 text-orange-900 font-[Collier,sans-serif]",
+            "div-s1d1": {
+                "css": "container mx-auto px-4 sm:px-6 lg:px-8 relative z-10",
+                "div-s1d1d1": {
+                    "css": "max-w-3xl mx-auto text-center",
+                    "heading-s1d1d1h1": {
+                        "css": "text-3xl sm:text-4xl md:text-5xl text-orange-600 font-bold tracking-tight mb-4 sm:mb-6",
+                        "text": "MY CORE VALUES",
+                        "type": "h1"
+                    },
+                    "paragraph-s1d1d1p1": {
+                        "css": "text-base sm:text-xl max-w-2xl mx-auto text-orange-700",
+                        "text": "The principles that guide my approach to training and wellness"
+                    }
+                }
+            },
+            "div-s1d2": {
+                "css": "absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-t from-orange-50 to-transparent"
+            }
+        },
+        "section-2": {
+            "css": "py-10 sm:py-16 md:py-20 bg-orange-50 text-orange-900 font-[Collier,sans-serif]",
+            "div-s2d1": {
+                "css": "container mx-auto px-4 sm:px-6 lg:px-8",
+                "div-s2d1d1": {
+                    "css": "space-y-16 sm:space-y-20 md:space-y-24",
+                    "div-s2d1d1d1": {
+                        "css": "grid md:grid-cols-2 gap-6 sm:gap-8 md:gap-12 items-center",
+                        "div-s2d1d1d1d1": {
+                            "css": "relative h-[250px] sm:h-[300px] md:h-[400px] rounded-xl overflow-hidden shadow-xl",
+                            "Image-s2d1d1d1d1img1": {
+                                "src": "Image-s2d1d1d1d1img1.jpeg",
+                                "alt": "Fitness for Every Body",
+                                "css": "object-cover w-full h-full",
+                                "text": ""
+                            }
+                        },
+                        "div-s2d1d1d1d2": {
+                            "css": "space-y-4 sm:space-y-6",
+                            "heading-s2d1d1d1d2h1": {
+                                "css": "text-2xl sm:text-3xl font-bold text-orange-600 font-[Collier,sans-serif]",
+                                "text": "Fitness for Every Body",
+                                "type": "h2"
+                            },
+                            "paragraph-s2d1d1d1d2p1": {
+                                "css": "text-base sm:text-lg leading-relaxed text-orange-700",
+                                "text": "I believe that functional training is for everyone — all ages, all genders, all backgrounds. There's no one-size-fits-all here. Whether you're just starting out or getting back on track, I'll meet you where you are and support you every step of the way."
+                            }
+                        }
+                    },
+                    "div-s2d1d1d2": {
+                        "css": "grid md:grid-cols-2 gap-6 sm:gap-8 md:gap-12 items-center",
+                        "div-s2d1d1d2d1": {
+                            "css": "space-y-4 sm:space-y-6 md:order-1 order-2",
+                            "heading-s2d1d1d2d1h1": {
+                                "css": "text-2xl sm:text-3xl font-bold text-orange-600 font-[Collier,sans-serif]",
+                                "text": "Progress Over Perfection",
+                                "type": "h2"
+                            },
+                            "paragraph-s2d1d1d2d1p1": {
+                                "css": "text-base sm:text-lg leading-relaxed text-orange-700",
+                                "text": "Perfection isn't the goal — progress is. I focus on building sustainable habits that lead to real, lasting change. It's not about being perfect every day; it's about showing up, staying consistent, and giving yourself grace along the way."
+                            },
+                            "div-s2d1d1d2d1d1": {
+                                "css": "pt-4"
+                            }
+                        },
+                        "div-s2d1d1d2d2": {
+                            "css": "relative h-[250px] sm:h-[300px] md:h-[400px] rounded-xl overflow-hidden shadow-xl md:order-2 order-1",
+                            "Image-s2d1d1d2d2img1": {
+                                "src": "Image-s2d1d1d2d2img1.jpeg",
+                                "alt": "Progress Over Perfection",
+                                "css": "object-cover w-full h-full",
+                                "text": ""
+                            }
+                        }
+                    },
+                    "div-s2d1d1d3": {
+                        "css": "grid md:grid-cols-2 gap-6 sm:gap-8 md:gap-12 items-center",
+                        "div-s2d1d1d3d1": {
+                            "css": "relative h-[250px] sm:h-[300px] md:h-[400px] rounded-xl overflow-hidden shadow-xl",
+                            "Image-s2d1d1d3d1img1": {
+                                "src": "Image-s2d1d1d3d1img1.jpeg",
+                                "alt": "A Holistic Approach",
+                                "css": "object-cover w-full h-full",
+                                "text": ""
+                            }
+                        },
+                        "div-s2d1d1d3d2": {
+                            "css": "space-y-4 sm:space-y-6",
+                            "heading-s2d1d1d3d2h1": {
+                                "css": "text-2xl sm:text-3xl font-bold text-orange-600 font-[Collier,sans-serif]",
+                                "text": "A Holistic Approach",
+                                "type": "h2"
+                            },
+                            "paragraph-s2d1d1d3d2p1": {
+                                "css": "text-base sm:text-lg leading-relaxed text-orange-700",
+                                "text": "True wellness goes beyond reps and macros. My training approach connects mind, body, and soul, because real transformation starts from within. We'll work on physical strength, mental resilience, and emotional balance — together."
+                            },
+                            "div-s2d1d1d3d2d1": {
+                                "css": "pt-4"
+                            }
+                        }
+                    },
+                    "div-s2d1d1d4": {
+                        "css": "grid md:grid-cols-2 gap-6 sm:gap-8 md:gap-12 items-center",
+                        "div-s2d1d1d4d1": {
+                            "css": "space-y-4 sm:space-y-6 md:order-1 order-2",
+                            "heading-s2d1d1d4d1h1": {
+                                "css": "text-2xl sm:text-3xl font-bold text-orange-600 font-[Collier,sans-serif]",
+                                "text": "Support & Empowerment",
+                                "type": "h2"
+                            },
+                            "paragraph-s2d1d1d4d1p1": {
+                                "css": "text-base sm:text-lg leading-relaxed text-orange-700",
+                                "text": "This journey is yours, but you're never alone. I'm here to guide, encourage, and empower you to become the strongest version of yourself — inside and out."
+                            },
+                            "div-s2d1d1d4d1d1": {
+                                "css": "pt-4"
+                            }
+                        },
+                        "div-s2d1d1d4d2": {
+                            "css": "relative h-[250px] sm:h-[300px] md:h-[400px] rounded-xl overflow-hidden shadow-xl md:order-2 order-1",
+                            "Image-s2d1d1d4d2img1": {
+                                "src": "Image-s2d1d1d4d2img1.jpeg",
+                                "alt": "Support & Empowerment",
+                                "css": "object-cover w-full h-full",
+                                "text": ""
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "section-3": {
+            "css": "py-10 sm:py-16 md:py-20 bg-orange-100",
+            "div-s3d1": {
+                "css": "container mx-auto px-4 sm:px-6 lg:px-8",
+                "div-s3d1d1": {
+                    "css": "max-w-4xl mx-auto rounded-2xl p-4 sm:p-6 md:p-8 lg:p-12 shadow-xl bg-gradient-to-r from-orange-600 to-orange-700",
+                    "div-s3d1d1d1": {
+                        "css": "grid md:grid-cols-2 gap-4 sm:gap-6 md:gap-8 items-center",
+                        "div-s3d1d1d1d1": {
+                            "css": "text-white space-y-4",
+                            "heading-s3d1d1d1d1h1": {
+                                "css": "text-2xl sm:text-3xl font-bold font-[Collier,sans-serif]",
+                                "text": "Ready to experience my approach?",
+                                "type": "h2"
+                            },
+                            "paragraph-s3d1d1d1d1p1": {
+                                "css": "text-orange-50",
+                                "text": "Let's work together to create a training plan that aligns with your goals and values."
+                            },
+                            "div-s3d1d1d1d1d1": {
+                                "css": "mt-4",
+                                "a-s3d1d1d1d1d1a1": {
+                                    "target": "_blank",
+                                    "href": "#",
+                                    "css": "w-full sm:w-auto px-4 py-2 text-white underline",
+                                    "paragraph-s3d1d1d1d1d1a1p1": {
+                                        "text": "BOOK A FREE INTAKE"
+                                    }
+                                }
+                            }
+                        },
+                        "div-s3d1d1d1d2": {
+                            "css": "relative h-[150px] sm:h-[180px] md:h-[200px] rounded-xl overflow-hidden",
+                            "Image-s3d1d1d1d2img1": {
+                                "src": "Image-s3d1d1d1d2img1.jpeg",
+                                "alt": "Personal Training Consultation",
+                                "css": "object-cover w-full h-full",
+                                "text": ""
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

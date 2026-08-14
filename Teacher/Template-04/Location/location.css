@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#main {
+    @apply min-h-screen py-10 px-4 bg-gradient-to-r from-orange-200 to-orange-100
+}
+
+#section-1 {
+    @apply 
+}
+
+#div-s1d1 {
+    @apply max-w-[1400px] mx-auto sm:px-20 sm:py-10 rounded-3xl bg-transparent
+}
+
+#heading-s1d1h1 {
+    @apply text-4xl sm:text-6xl font-semibold text-center mb-12 text-black
+}
+
+#div-s1d1d1 {
+    @apply mb-12 bg-transparent rounded-lg overflow-hidden
+}
+
+#iframe-s1d1d1iframe1 {
+    @apply bg-transparent
+}

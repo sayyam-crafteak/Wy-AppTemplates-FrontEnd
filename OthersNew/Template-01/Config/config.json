@@ -1,0 +1,70 @@
+{
+  "colors": {
+    "text": {
+      "textPrimary": "gray-800",
+      "textSecondary": "gray-600",
+      "textTertiary": "white"
+    },
+    "background": {
+      "backgroundPrimary": "white",
+      "backgroundSecondary": "gray-50",
+      "backgroundTertiary": "gray-100",
+      "backgroundQuaternary": "gray-200",
+      "backgroundQuinary": "gray-900"
+    
+    }
+  },
+  "fontSize": {
+    "p": {
+      "fontSize": "base",
+      "mdfontSize": "lg",
+      "lgfontSize": "xl",
+      "smFontSize": "lg"
+    },
+    "h1": {
+      "fontSize": "4xl",
+      "mdfontSize": "6xl",
+      "lgfontSize": "7xl",
+      "smFontSize": "6xl"
+    },
+    "h2": {
+      "fontSize": "3xl",
+      "mdfontSize": "4xl",
+      "lgfontSize": "5xl",
+      "smFontSize": "4xl"
+    }
+  },
+  "fontWeight": {
+    "p": {
+      "fontWeight": "normal"
+    },
+    "h1": {
+      "fontWeight": "bold"
+    },
+    "h2": {
+      "fontWeight": "semibold"
+    }
+  },
+  "italic": {
+    "p": {
+      "italic": "italic"
+    },
+    "h1": {
+      "italic": "italic"
+    },
+    "h2": {
+      "italic": "italic"
+    }
+  },
+  "underline": {
+    "p": {
+      "underline": "underline"
+    },
+    "h1": {
+      "underline": "underline"
+    },
+    "h2": {
+      "underline": "underline"
+    }
+  }
+}

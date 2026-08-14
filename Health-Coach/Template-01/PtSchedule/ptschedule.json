@@ -1,0 +1,199 @@
+{
+  "section-1": {
+    "div-s1d1": {
+      "css": "relative min-h-screen flex flex-col items-center justify-center overflow-hidden",
+      "div-s1d1d1": {
+        "css": "bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 flex-grow container mx-auto sm:px-10 sm:py-10 py-5 px-5",
+        "div-s1d1d1d1": {
+          "css": "sm:p-10 p-5 rounded-lg",
+          "div-s1d1d1d1d1": {
+            "css": "flex flex-col items-center text-center mb-20 mt-0",
+            "heading-s1d1d1d1d1h1": {
+              "css": "font-bold sm:text-5xl text-3xl mb-5",
+              "type": "h1",
+              "text": "Choose the right plan for you"
+            },
+            "paragraph-s1d1d1d1d1p1": {
+              "css": "sm:w-1/2 w-full text-lg text-zinc-200",
+              "text": "Choose an affordable plan that’s packed with the best features for engaging your audience, creating customer loyalty, and driving sales."
+            }
+          },
+          "div-s1d1d1d1d2": {
+            "css": "sm:px-5 mb-5",
+            "div-s1d1d1d1d2d1": {
+              "css": "grid grid-cols-1 sm:grid-cols-3 gap-5 cursor-pointer",
+              "div-s1d1d1d1d2d1d1": {
+                "css": "flex flex-col relative group bg-white shadow-md overflow-hidden",
+                "div-s1d1d1d1d2d1d1d1": {
+                  "css": "items-center text-center py-8 bg-amber-500",
+                  "paragraph-s1d1d1d1d2d1d1d1p1": {
+                    "css": "text-white text-2xl uppercase font-bold",
+                    "text": "Light Weight Training"
+                  }
+                },
+                "div-s1d1d1d1d2d1d1d2": {
+                  "css": "text-neutral-700 items-center text-left sm:px-5 px-3 py-6",
+                  "div-s1d1d1d1d2d1d1d2d1": {
+                    "css": "list-outside",
+                    "div-s1d1d1d1d2d1d1d2d1d1": {
+                      "css": "flex space-x-2",
+                      "div-s1d1d1d1d2d1d1d2d1d1d1": {
+                        "css": "w-5 h-5 mt-1"
+                      },
+                      "paragraph-s1d1d1d1d2d1d1d2d1d1p1": {
+                        "css": "text-lg font-semibold mb-3",
+                        "text": "3 Times Per Week"
+                      }
+                    },
+                    "div-s1d1d1d1d2d1d1d2d1d2": {
+                      "css": "flex space-x-2",
+                      "div-s1d1d1d1d2d1d1d2d1d2d1": {
+                        "css": "w-5 h-5 mt-1"
+                      },
+                      "paragraph-s1d1d1d1d2d1d1d2d1d2p1": {
+                        "css": "text-lg font-semibold mb-3",
+                        "text": "Personalized Coach Access"
+                      }
+                    },
+                    "div-s1d1d1d1d2d1d1d2d1d3": {
+                      "css": "flex space-x-2",
+                      "div-s1d1d1d1d2d1d1d2d1d3d1": {
+                        "css": "w-5 h-5 mt-1"
+                      },
+                      "paragraph-s1d1d1d1d2d1d1d2d1d3p1": {
+                        "css": "text-lg font-semibold mb-3",
+                        "text": "24/7 Gym Access"
+                      }
+                    },
+                    "div-s1d1d1d1d2d1d1d2d1d4": {
+                      "css": "flex space-x-2",
+                      "div-s1d1d1d1d2d1d1d2d1d4d1": {
+                        "css": "w-5 h-5 mt-1"
+                      },
+                      "paragraph-s1d1d1d1d2d1d1d2d1d4p1": {
+                        "css": "text-lg font-semibold mb-3",
+                        "text": "Weekly Progress Report"
+                      }
+                    }
+                  }
+                }
+              },
+              "div-s1d1d1d1d2d1d2": {
+                "css": "flex flex-col relative group bg-white shadow-md overflow-hidden",
+                "div-s1d1d1d1d2d1d2d1": {
+                  "css": "items-center text-center py-8 bg-sky-500",
+                  "paragraph-s1d1d1d1d2d1d2d1p1": {
+                    "css": "text-white text-2xl uppercase font-bold",
+                    "text": "Regular Weight Training"
+                  }
+                },
+                "div-s1d1d1d1d2d1d2d2": {
+                  "css": "text-neutral-700 items-center text-left sm:px-5 px-3 py-6",
+                  "div-s1d1d1d1d2d1d2d2d1": {
+                    "css": "list-outside",
+                    "div-s1d1d1d1d2d1d2d2d1d1": {
+                      "css": "flex space-x-2",
+                      "div-s1d1d1d1d2d1d2d2d1d1d1": {
+                        "css": "w-5 h-5 mt-1"
+                      },
+                      "paragraph-s1d1d1d1d2d1d2d2d1d1p1": {
+                        "css": "text-lg font-semibold mb-3",
+                        "text": "2 Times Per Week"
+                      }
+                    },
+                    "div-s1d1d1d1d2d1d2d2d1d2": {
+                      "css": "flex space-x-2",
+                      "div-s1d1d1d1d2d1d2d2d1d2d1": {
+                        "css": "w-5 h-5 mt-1"
+                      },
+                      "paragraph-s1d1d1d1d2d1d2d2d1d2p1": {
+                        "css": "text-lg font-semibold mb-3",
+                        "text": "2 Times Per Week"
+                      }
+                    },
+                    "div-s1d1d1d1d2d1d2d2d1d3": {
+                      "css": "flex space-x-2",
+                      "div-s1d1d1d1d2d1d2d2d1d3d1": {
+                        "css": "w-5 h-5 mt-1"
+                      },
+                      "paragraph-s1d1d1d1d2d1d2d2d1d3p1": {
+                        "css": "text-lg font-semibold mb-3",
+                        "text": "2 Times Per Week"
+                      }
+                    },
+                    "div-s1d1d1d1d2d1d2d2d1d4": {
+                      "css": "flex space-x-2",
+                      "div-s1d1d1d1d2d1d2d2d1d4d1": {
+                        "css": "w-5 h-5 mt-1"
+                      },
+                      "paragraph-s1d1d1d1d2d1d2d2d1d4p1": {
+                        "css": "text-lg font-semibold mb-3",
+                        "text": "2 Times Per Week"
+                      }
+                    }
+                  }
+                }
+              },
+              "div-s1d1d1d1d2d1d3": {
+                "css": "flex flex-col relative group bg-white shadow-md overflow-hidden",
+                "div-s1d1d1d1d2d1d2d1": {
+                  "css": "items-center text-center py-8 bg-red-500",
+                  "paragraph-s1d1d1d1d2d1d2d1p1": {
+                    "css": "text-white text-2xl uppercase font-bold",
+                    "text": "Extreme Weight Training"
+                  }
+                },
+                "div-s1d1d1d1d2d1d2d3": {
+                  "css": "text-neutral-700 items-center text-left sm:px-5 px-3 py-6",
+                  "div-s1d1d1d1d2d1d2d3d1": {
+                    "css": "list-outside",
+                    "div-s1d1d1d1d2d1d2d3d1d1": {
+                      "css": "flex space-x-2",
+                      "div-s1d1d1d1d2d1d2d3d1d1d1": {
+                        "css": "w-5 h-5 mt-1"
+                      },
+                      "paragraph-s1d1d1d1d2d1d2d3d1d1p1": {
+                        "css": "text-lg font-semibold mb-3",
+                        "text": "3 Times Per Week"
+                      }
+                    },
+                    "div-s1d1d1d1d2d1d2d3d1d2": {
+                      "css": "flex space-x-2",
+                      "div-s1d1d1d1d2d1d2d3d1d2d1": {
+                        "css": "w-5 h-5 mt-1"
+                      },
+                      "paragraph-s1d1d1d1d2d1d2d3d1d2p1": {
+                        "css": "text-lg font-semibold mb-3",
+                        "text": "3 Times Per Week"
+                      }
+                    },
+                    "div-s1d1d1d1d2d1d2d3d1d3": {
+                      "css": "flex space-x-2",
+                      "div-s1d1d1d1d2d1d2d2d1d3d1": {
+                        "css": "w-5 h-5 mt-1"
+                      },
+                      "paragraph-s1d1d1d1d2d1d2d3d1d3p1": {
+                        "css": "text-lg font-semibold mb-3",
+                        "text": "3 Times Per Week"
+                      }
+                    },
+                    "div-s1d1d1d1d2d1d2d3d1d4": {
+                      "css": "flex space-x-2",
+                      "div-s1d1d1d1d2d1d2d2d1d4d1": {
+                        "css": "w-5 h-5 mt-1"
+                      },
+                      "paragraph-s1d1d1d1d2d1d2d3d1d4p1": {
+                        "css": "text-lg font-semibold mb-3",
+                        "text": "3 Times Per Week"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

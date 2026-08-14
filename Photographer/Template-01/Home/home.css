@@ -1,0 +1,279 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#main {
+  @apply container mx-auto;
+}
+
+#section-1 {
+  @apply relative h-screen overflow-hidden;
+}
+
+#div-s1d1 {
+  @apply absolute inset-0 bg-cover bg-center;
+}
+
+#div-s1d1d1 {
+  @apply absolute inset-0 bg-cover bg-center;
+}
+
+#div-s1d1d1d1 {
+  @apply absolute inset-0 bg-black bg-opacity-50;
+}
+
+#div-s1d1d2 {
+  @apply absolute inset-0 flex items-center justify-center;
+}
+
+#div-s1d1d2d1 {
+  @apply text-center text-white px-4;
+}
+
+#heading-s1d1d2d1h1 {
+  @apply text-5xl md:text-6xl font-bold mb-6;
+}
+
+#paragraph-s1d1d2d1p1 {
+  @apply text-xl md:text-2xl mb-8 lg:mx-20;
+}
+
+#a-s1d1d2d1a1 {
+  @apply bg-blue-600 text-white font-bold py-3 px-8 rounded-full text-lg transition duration-300 inline-block shadow-lg hover:bg-blue-700;
+}
+
+#section-2 {
+  @apply py-20 text-gray-600 body-font;
+}
+
+#div-s2d1 {
+  @apply container px-5 mx-auto;
+}
+
+#heading-s2d1h1 {
+  @apply text-4xl font-bold text-center mb-12;
+}
+
+#div-s2d1d1 {
+  @apply flex flex-wrap -m-4;
+}
+
+#div-s2d1d1d1 {
+  @apply p-4 w-full;
+}
+
+#div-s2d1d1d1d1 {
+  @apply grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8;
+}
+
+#div-s2d1d1d1d1d1 {
+  @apply group relative overflow-hidden rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-xl;
+}
+
+#Image-s2d1d1d1d1d1img1 {
+  @apply w-full h-64 object-cover transition-all duration-500 hover:brightness-110;
+}
+
+#div-s2d1d1d1d1d1d1 {
+  @apply absolute inset-0 bg-black bg-opacity-60 flex items-center justify-center transition-all duration-300 ease-in-out;
+}
+
+#div-s2d1d1d1d1d1d1d1 {
+  @apply text-center p-4 transform transition-all duration-300 translate-y-2 group-hover:translate-y-0;
+}
+
+#heading-s2d1d1d1d1d1d1d1h1 {
+  @apply text-xl font-bold text-white mb-2;
+}
+
+#paragraph-s2d1d1d1d1d1d1d1p1 {
+  @apply text-gray-200;
+}
+
+#div-s2d1d1d1d1d2 {
+  @apply group relative overflow-hidden rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-xl;
+}
+
+#Image-s2d1d1d1d1d2img1 {
+  @apply w-full h-64 object-cover transition-all duration-500 hover:brightness-110;
+}
+
+#div-s2d1d1d1d1d2d1 {
+  @apply absolute inset-0 bg-black bg-opacity-60 flex items-center justify-center transition-all duration-300 ease-in-out;
+}
+
+#div-s2d1d1d1d1d2d1d1 {
+  @apply text-center p-4 transform transition-all duration-300 translate-y-2 group-hover:translate-y-0;
+}
+
+#heading-s2d1d1d1d1d2d1d1h1 {
+  @apply text-xl font-bold text-white mb-2;
+}
+
+#paragraph-s2d1d1d1d1d2d1d1p1 {
+  @apply text-gray-200;
+}
+
+#div-s2d1d1d1d1d3 {
+  @apply group relative overflow-hidden rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-xl;
+}
+
+#Image-s2d1d1d1d1d3img1 {
+  @apply w-full h-64 object-cover transition-all duration-500 hover:brightness-110;
+}
+
+#div-s2d1d1d1d1d3d1 {
+  @apply absolute inset-0 bg-black bg-opacity-60 flex items-center justify-center transition-all duration-300 ease-in-out;
+}
+
+#div-s2d1d1d1d1d3d1d1 {
+  @apply text-center p-4 transform transition-all duration-300 translate-y-2 group-hover:translate-y-0;
+}
+
+#heading-s2d1d1d1d1d3d1d1h1 {
+  @apply text-xl font-bold text-white mb-2;
+}
+
+#paragraph-s2d1d1d1d1d3d1d1p1 {
+  @apply text-gray-200;
+}
+
+#div-s2d1d1d1d1d4 {
+  @apply group relative overflow-hidden rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-xl;
+}
+
+#Image-s2d1d1d1d1d4img1 {
+  @apply w-full h-64 object-cover transition-all duration-500 hover:brightness-110;
+}
+
+#div-s2d1d1d1d1d4d1 {
+  @apply absolute inset-0 bg-black bg-opacity-60 flex items-center justify-center transition-all duration-300 ease-in-out;
+}
+
+#div-s2d1d1d1d1d4d1d1 {
+  @apply text-center p-4 transform transition-all duration-300 translate-y-2 group-hover:translate-y-0;
+}
+
+#heading-s2d1d1d1d1d4d1d1h1 {
+  @apply text-xl font-bold text-white mb-2;
+}
+
+#paragraph-s2d1d1d1d1d4d1d1p1 {
+  @apply text-gray-200;
+}
+
+#section-3 {
+  @apply py-20 bg-gray-50 text-gray-600 body-font;
+}
+
+#div-s3d1 {
+  @apply container px-5 mx-auto;
+}
+
+#div-s3d1d1 {
+  @apply flex flex-wrap -m-4;
+}
+
+#div-s3d1d1d1 {
+  @apply p-4 w-full;
+}
+
+#div-s3d1d1d1d1 {
+  @apply grid grid-cols-1 lg:grid-cols-2 gap-16 items-center;
+}
+
+#div-s3d1d1d1d1d1 {
+  @apply relative overflow-hidden rounded-lg shadow-2xl transform hover:scale-[1.02] transition duration-300;
+}
+
+#Image-s3d1d1d1d1d1img1 {
+  @apply rounded-lg w-full h-auto;
+}
+
+#div-s3d1d1d1d1d2 {
+  @apply pl-4 md:pl-8;
+}
+
+#heading-s3d1d1d1d1d2h1 {
+  @apply text-4xl font-bold mb-6 relative after:content-[''] after:absolute after:h-1 after:w-20 after:bg-gray-800 after:bottom-0 after:left-0 after:mt-2;
+}
+
+#paragraph-s3d1d1d1d1d2p1 {
+  @apply text-gray-600 mb-6 text-lg;
+}
+
+#paragraph-s3d1d1d1d1d2p2 {
+  @apply text-gray-600 mb-8 text-lg;
+}
+
+#section-4 {
+  @apply py-20 text-gray-700 body-font;
+}
+
+#div-s4d1 {
+  @apply container px-5 mx-auto;
+}
+
+#heading-s4d1h1 {
+  @apply text-4xl font-bold text-center mb-12 text-gray-900;
+}
+
+#div-s4d1d1 {
+  @apply flex flex-col items-center justify-center;
+}
+
+#paragraph-s4d1d1p1 {
+  @apply text-lg text-center max-w-2xl mb-8 text-gray-800;
+}
+
+#a-s4d1d1a1 {
+  @apply bg-blue-600 text-white font-extrabold py-3 px-8 rounded-full text-lg transition duration-300 inline-block shadow-lg hover:bg-blue-700;
+}
+
+#paragraph-s4d1d1p2 {
+  @apply mt-4 text-sm text-gray-800;
+}
+
+#section-5 {
+  @apply bg-gray-900 text-white py-12;
+}
+
+#div-s5d1 {
+  @apply container px-5 mx-auto;
+}
+
+#div-s5d1d1 {
+  @apply flex flex-wrap -m-4;
+}
+
+#div-s5d1d1d1 {
+  @apply p-4 w-full;
+}
+
+#div-s5d1d1d1d1 {
+  @apply flex flex-col items-center;
+}
+
+#div-s5d1d1d1d1d1 {
+  @apply flex items-center space-x-6 mb-8;
+}
+
+#a-s5d1d1d1d1d1a1 {
+  @apply hover:text-gray-300 transition;
+}
+
+#a-s5d1d1d1d1d1a2 {
+  @apply hover:text-gray-300 transition;
+}
+
+#a-s5d1d1d1d1d1a3 {
+  @apply hover:text-gray-300 transition;
+}
+
+#a-s5d1d1d1d1d1a4 {
+  @apply hover:text-gray-300 transition;
+}
+
+#paragraph-s5d1d1d1d1p1 {
+  @apply text-gray-400 text-center;
+}

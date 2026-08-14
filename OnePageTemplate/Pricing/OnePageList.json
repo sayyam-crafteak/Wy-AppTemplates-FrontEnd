@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Pricing-01",
+    "description": "Pricing1",
+    "cost": "$200 USD",
+    "thumbnailUrls": ["thumbnail.svg"],
+    "tags": ["Personal Portfolio", "work", "Photos", "template", "professional"]
+    
+  }
+]

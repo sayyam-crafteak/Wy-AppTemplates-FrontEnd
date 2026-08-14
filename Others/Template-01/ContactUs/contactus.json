@@ -1,0 +1,134 @@
+{
+    "main": {
+        "css": "min-h-screen pt-16",
+        "section-1": {
+            "css": "bg-gray-50 py-16 border-b border-gray-200",
+            "div-s1d1": {
+                "css": "max-w-7xl mx-auto px-4",
+                "div-s1d1d1": {
+                    "css": "text-center",
+                    "heading-s1d1d1h1": {
+                        "css": "text-4xl font-bold text-gray-900 mb-6",
+                        "text": "Get in Touch",
+                        "type": "h1"
+                    },
+                    "paragraph-s1d1d1p1": {
+                        "css": "text-xl text-gray-600 max-w-2xl mx-auto",
+                        "text": "We'd love to hear from you. Whether you have a question about our services,\n              pricing, or anything else, our team is ready to answer all your questions."
+                    }
+                }
+            }
+        },
+        "section-2": {
+            "css": "py-16 bg-white border-b border-gray-200",
+            "div-s2d1": {
+                "css": "max-w-7xl mx-auto px-4",
+                "div-s2d1d1": {
+                    "css": "grid grid-cols-1 md:grid-cols-3 gap-8",
+                    "div-s2d1d1d1": {
+                        "css": "text-center p-6 bg-white rounded-lg shadow-md border border-gray-200",
+                        "svg-s2d1d1d1svg1": {
+                            "src": "",
+                            "alt": "",
+                            "width": "60",
+                            "height": "60",
+                            "css": "mx-auto pl-6  font-bold text-lg ",
+                            "directly_added_other_attributes": "viewBox=\"0 0 24 24\"",
+                            "stroke": "currentColor",
+                            "fill": "none",
+                            "xmlns": "http://www.w3.org/2000/svg",
+                            "path-svgpath": {
+                                "d": "M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"
+                            },
+                            "circle-svgcircle": {
+                                "cx": "12",
+                                "cy": "10",
+                                "r": "3"
+                            }
+                        },
+                        "heading-s2d1d1d1h1": {
+                            "css": "text-xl font-semibold mb-2 ",
+                            "text": "Visit Us",
+                            "type": "h3"
+                        },
+                        "paragraph-s2d1d1d1p1": {
+                            "css": "text-gray-600",
+                            "text": "123 Design Street, Creative City, ST 12345"
+                        }
+                    },
+                    "div-s2d1d1d2": {
+                        "css": "text-center p-6 bg-white rounded-lg shadow-md border border-gray-200",
+                        "svg-s2d1d1d2svg1": {
+                            "src": "",
+                            "alt": "",
+                            "width": "60",
+                            "height": "60",
+                            "css": "mx-auto pl-6  font-bold text-lg",
+                            "directly_added_other_attributes": "viewBox=\"0 0 24 24\"",
+                            "stroke": "currentColor",
+                            "fill": "none",
+                            "xmlns": "http://www.w3.org/2000/svg",
+                            "path-svgpath": {
+                                "d": "M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"
+                            }
+                        },
+                        "heading-s2d1d1d2h1": {
+                            "css": "text-xl font-semibold mb-2",
+                            "text": "Call Us",
+                            "type": "h3"
+                        },
+                        "paragraph-s2d1d1d2p1": {
+                            "css": "text-gray-600",
+                            "text": "+1 (555) 123-4567"
+                        }
+                    },
+                    "div-s2d1d1d3": {
+                        "css": "text-center p-6 bg-white rounded-lg shadow-md border border-gray-200",
+                        "svg-s2d1d1d3svg1": {
+                            "src": "",
+                            "alt": "",
+                            "width": "60",
+                            "height": "60",
+                            "css": "mx-auto pl-6  font-bold text-lg",
+                            "directly_added_other_attributes": "viewBox=\"0 0 24 24\"",
+                            "stroke": "currentColor",
+                            "fill": "none",
+                            "xmlns": "http://www.w3.org/2000/svg",
+                            "path-svgpath": {
+                                "d": "M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"
+                            },
+                            "polyline-svgpolyline": {
+                                "points": "22,6 12,13 2,6"
+                            }
+                        },
+                        "heading-s2d1d1d3h1": {
+                            "css": "text-xl font-semibold mb-2",
+                            "text": "Email Us",
+                            "type": "h3"
+                        },
+                        "paragraph-s2d1d1d3p1": {
+                            "css": "text-gray-600",
+                            "text": "info@interiorcraft.com"
+                        }
+                    }
+                }
+            }
+        },
+        "section-3": {
+            "css": "py-16 bg-gray-50",
+            "div-s3d1": {
+                "css": "max-w-7xl mx-auto px-4",
+                "div-s3d1d1": {
+                    "css": "w-full h-[700px] rounded-lg overflow-hidden shadow-md border border-gray-200",
+                    "iframe-s3d1d1i1": {
+                        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387193.30596073366!2d-74.25986548248684!3d40.69714941932609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2s!4v1645564749872!5m2!1sen!2s",
+                        "width": "100%",
+                        "height": "600",
+                        "css": "",
+                        "directly_added_other_attributes": "style=\"border:0\" allowfullscreen loading=\"lazy\" title=\"Google Maps\""
+                    }
+                }
+            }
+        }
+    }
+}

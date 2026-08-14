@@ -1,0 +1,243 @@
+{
+    "main": {
+        "css": "",
+        "section-1": {
+            "css": "relative h-screen overflow-hidden",
+            "div-s1d1": {
+                "css": "absolute inset-0",
+                "Image-s1d1img1": {
+                    "src": "Image-s1d1img1.jpg",
+                    "css": "h-full w-full object-cover object-center"
+                }
+            },
+            "div-s1d2": {
+                "css": "relative z-10 mt-10 p-2 pt-12 text-center",
+                "heading-s1d2h2": {
+                    "css": "mb-8 text-fontSize leading-tight font-fontWeight text-italic text-underline text-textPrimary sm:text-smFontSize",
+                    "text": "🌟 Our Mission",
+                    "type": "h2"
+                },
+                "paragraph-s1d2p1": {
+                    "css": "mx-auto max-w-3xl text-fontSize leading-relaxed text-textSecondary",
+                    "text": "We're dedicated to transforming lives through personalized nutrition guidance and sustainable lifestyle changes.Our approach goes beyond mere dieting – it's about creating a lasting impact on health and well-being.We empower individuals with the knowledge and tools they need to make informed decisions about their nutrition.By combining the latest science with practical advice, we help people achieve their health goals, one step at a time.Together, we strive to build a healthier, happier community where everyone can thrive.."
+                }
+            }
+        },
+        "section-2": {
+            "css": "bg-backgroundSecondary px-4 py-36",
+            "div-s2d1": {
+                "css": "mx-auto max-w-6xl px-6",
+                "heading-s2d1h3": {
+                    "css": "mb-20 text-center text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                    "text": "👥 Our Expert Team",
+                    "type": "h3"
+                },
+                "div-s2d1d1": {
+                    "css": "grid grid-cols-1 gap-16 sm:grid-cols-3",
+                    "div-s2d1d1d1": {
+                        "css": "flex flex-col items-center rounded-2xl bg-backgroundPrimary p-10 shadow-lg transition-all duration-300 hover:-translate-y-1 hover:shadow-xl",
+                        "Image-s2d1d1d1img1": {
+                            "src": "Image-s2d1d1d1img1.jpeg",
+                            "alt": "Lead Nutritionist",
+                            "width": "192",
+                            "height": "192",
+                            "css": "mb-8 h-48 w-48 rounded-full border-4 border-white object-cover shadow-md"
+                        },
+                        "heading-s2d1d1d1h4": {
+                            "css": "mb-2 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                            "text": "Expert Name",
+                            "type": "h4"
+                        },
+                        "paragraph-s2d1d1d1p1": {
+                            "css": "text-fontSize font-fontWeight text-italic text-underline text-textSecondary",
+                            "text": "🥗 Lead Nutritionist"
+                        }
+                    },
+                    "div-s2d1d1d2": {
+                        "css": "flex flex-col items-center rounded-2xl bg-backgroundPrimary p-10 shadow-lg transition-all duration-300 hover:-translate-y-1 hover:shadow-xl",
+                        "Image-s2d1d1d2img1": {
+                            "src": "Image-s2d1d1d2img1.jpeg",
+                            "alt": "Sports Nutrition Specialist",
+                            "width": "192",
+                            "height": "192",
+                            "css": "mb-8 h-48 w-48 rounded-full border-4 border-white object-cover shadow-md"
+                        },
+                        "heading-s2d1d1d2h4": {
+                            "css": "mb-2 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                            "text": "Expert Name",
+                            "type": "h4"
+                        },
+                        "paragraph-s2d1d1d2p1": {
+                            "css": "text-fontSize font-fontWeight text-italic text-underline text-textSecondary",
+                            "text": "🏋️‍♂️ Sports Nutrition Specialist"
+                        }
+                    },
+                    "div-s2d1d1d3": {
+                        "css": "flex flex-col items-center rounded-2xl bg-backgroundPrimary p-10 shadow-lg transition-all duration-300 hover:-translate-y-1 hover:shadow-xl",
+                        "Image-s2d1d1d3img1": {
+                            "src": "Image-s2d1d1d3img1.jpeg",
+                            "alt": "Clinical Dietitian",
+                            "width": "192",
+                            "height": "192",
+                            "css": "mb-8 h-48 w-48 rounded-full border-4 border-white object-cover shadow-md"
+                        },
+                        "heading-s2d1d1d3h4": {
+                            "css": "mb-2 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                            "text": "Expert Name",
+                            "type": "h4"
+                        },
+                        "paragraph-s2d1d1d3p1": {
+                            "css": "text-fontSize font-fontWeight text-italic text-underline text-textSecondary",
+                            "text": "👨‍⚕️ Clinical Dietitian"
+                        }
+                    }
+                }
+            }
+        },
+        "section-3": {
+            "css": "bg-backgroundPrimary px-4 py-36",
+            "div-s3d1": {
+                "css": "mx-auto max-w-6xl px-6",
+                "div-s3d1d1": {
+                    "css": "grid grid-cols-1 gap-16 sm:grid-cols-2",
+                    "div-s3d1d1d1": {
+                        "css": "rounded-2xl bg-backgroundSecondary p-12 shadow-lg transition-all duration-300 hover:shadow-xl",
+                        "heading-s3d1d1d1h3": {
+                            "css": "mb-10 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                            "text": "💎 Our Values",
+                            "type": "h3"
+                        },
+                        "div-s3d1d1d1d1": {
+                            "css": "space-y-10",
+                            "div-s3d1d1d1d1d1": {
+                                "css": "flex items-start gap-6",
+                                "paragraph-s3d1d1d1d1d1p1": {
+                                    "css": "text-fontSize",
+                                    "text": "🏆"
+                                },
+                                "div-s3d1d1d1d1d1d1": {
+                                    "css": "",
+                                    "heading-s3d1d1d1d1d1d1h4": {
+                                        "css": "mb-2 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                                        "text": "Excellence",
+                                        "type": "h4"
+                                    },
+                                    "paragraph-s3d1d1d1d1d1d1p1": {
+                                        "css": "leading-relaxed text-textSecondary",
+                                        "text": "Committed to providing the highest quality nutrition guidance"
+                                    }
+                                }
+                            },
+                            "div-s3d1d1d1d1d2": {
+                                "css": "flex items-start gap-6",
+                                "paragraph-s3d1d1d1d1d2p1": {
+                                    "css": "text-fontSize",
+                                    "text": "🤝"
+                                },
+                                "div-s3d1d1d1d1d2d1": {
+                                    "css": "",
+                                    "heading-s3d1d1d1d1d2d1h4": {
+                                        "css": "mb-2 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                                        "text": "Integrity",
+                                        "type": "h4"
+                                    },
+                                    "paragraph-s3d1d1d1d1d2d1p1": {
+                                        "css": "leading-relaxed text-textSecondary",
+                                        "text": "Honest, transparent advice based on scientific evidence"
+                                    }
+                                }
+                            },
+                            "div-s3d1d1d1d1d3": {
+                                "css": "flex items-start gap-6",
+                                "paragraph-s3d1d1d1d1d3p1": {
+                                    "css": "text-fontSize",
+                                    "text": "💡"
+                                },
+                                "div-s3d1d1d1d1d3d1": {
+                                    "css": "",
+                                    "heading-s3d1d1d1d1d3d1h4": {
+                                        "css": "mb-2 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                                        "text": "Innovation",
+                                        "type": "h4"
+                                    },
+                                    "paragraph-s3d1d1d1d1d3d1p1": {
+                                        "css": "leading-relaxed text-textSecondary",
+                                        "text": "Staying current with the latest nutrition research"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "div-s3d1d1d2": {
+                        "css": "rounded-2xl bg-backgroundSecondary p-12 shadow-lg transition-all duration-300 hover:shadow-xl",
+                        "heading-s3d1d1d2h3": {
+                            "css": "mb-10 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                            "text": "🎯 Our Approach",
+                            "type": "h3"
+                        },
+                        "div-s3d1d1d2d1": {
+                            "css": "space-y-10",
+                            "div-s3d1d1d2d1d1": {
+                                "css": "flex items-start gap-6",
+                                "paragraph-s3d1d1d2d1d1p1": {
+                                    "css": "text-fontSize",
+                                    "text": "👤"
+                                },
+                                "div-s3d1d1d2d1d1d1": {
+                                    "css": "",
+                                    "heading-s3d1d1d2d1d1d1h4": {
+                                        "css": "mb-2 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                                        "text": "Personalized Care",
+                                        "type": "h4"
+                                    },
+                                    "paragraph-s3d1d1d2d1d1d1p1": {
+                                        "css": "leading-relaxed text-textSecondary",
+                                        "text": "Tailored nutrition plans for your unique needs"
+                                    }
+                                }
+                            },
+                            "div-s3d1d1d2d1d2": {
+                                "css": "flex items-start gap-6",
+                                "paragraph-s3d1d1d2d1d2p1": {
+                                    "css": "text-fontSize",
+                                    "text": "📊"
+                                },
+                                "div-s3d1d1d2d1d2d1": {
+                                    "css": "",
+                                    "heading-s3d1d1d2d1d2d1h4": {
+                                        "css": "mb-2 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                                        "text": "Data-Driven",
+                                        "type": "h4"
+                                    },
+                                    "paragraph-s3d1d1d2d1d2d1p1": {
+                                        "css": "leading-relaxed text-textSecondary",
+                                        "text": "Evidence-based recommendations and tracking"
+                                    }
+                                }
+                            },
+                            "div-s3d1d1d2d1d3": {
+                                "css": "flex items-start gap-6",
+                                "paragraph-s3d1d1d2d1d3p1": {
+                                    "css": "text-fontSize",
+                                    "text": "🌱"
+                                },
+                                "div-s3d1d1d2d1d3d1": {
+                                    "css": "",
+                                    "heading-s3d1d1d2d1d3d1h4": {
+                                        "css": "mb-2 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                                        "text": "Sustainable Results",
+                                        "type": "h4"
+                                    },
+                                    "paragraph-s3d1d1d2d1d3d1p1": {
+                                        "css": "leading-relaxed text-textSecondary",
+                                        "text": "Long-term solutions, not quick fixes"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

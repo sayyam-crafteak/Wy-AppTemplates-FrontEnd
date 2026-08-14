@@ -1,0 +1,113 @@
+{
+    "main": {
+        "css": "min-h-screen bg-gradient-to-b from-green-50 to-white",
+        "section-1": {
+            "css": "container mx-auto px-4 py-12",
+            "div-s1d1": {
+                "css": "text-center",
+                "heading-s1d1h1": {
+                    "css": "text-4xl font-bold text-green-800 mb-8",
+                    "text": "Our Nutrition Center Location",
+                    "type": "h1"
+                }
+            }
+        },
+        "section-2": {
+            "css": "container mx-auto px-4",
+            "div-s2d1": {
+                "css": "bg-white rounded-lg shadow-xl overflow-hidden",
+                "div-s2d1d1": {
+                    "css": "aspect-w-16 aspect-h-9",
+                    "iframe-s2d1d1iframe1": {
+    "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.2412648718453!2d-73.98784368459395!3d40.74844797932847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9b3117469%3A0xd134e199a405a163!2sEmpire%20State%20Building!5e0!3m2!1sen!2sus!4v1642277641896!5m2!1sen!2sus",
+    "alt": "",
+    "width": "80%",
+    "height": "80%",
+    "css": "h-screen w-screen",
+    "directly_added_other_attributes": "",
+    "loading": "lazy"
+}
+
+                },
+                "div-s2d1d2": {
+                    "css": "p-6 md:p-8",
+                    "div-s2d1d2d1": {
+                        "css": "grid md:grid-cols-2 gap-8",
+                        "div-s2d1d2d1d1": {
+                            "css": "",
+                            "heading-s2d1d2d1d1h1": {
+                                "css": "text-2xl font-semibold text-green-700 mb-4",
+                                "text": "Address",
+                                "type": "h2"
+                            },
+                            "paragraph-s2d1d2d1d1p1": {
+                                "css": "text-gray-600",
+                                "text": "350 Fifth Avenue\n                  New York, NY 10118"
+                            },
+                            "heading-s2d1d2d1d1h2": {
+                                "css": "text-2xl font-semibold text-green-700 mt-6 mb-4",
+                                "text": "Contact",
+                                "type": "h2"
+                            },
+                            "paragraph-s2d1d2d1d1p2": {
+                                "css": "text-gray-600",
+                                "text": "Phone: 212 736-3100\n                  Email: nutrition@example.com"
+                            }
+                        },
+                        "div-s2d1d2d1d2": {
+                            "css": "",
+                            "heading-s2d1d2d1d2h1": {
+                                "css": "text-2xl font-semibold text-green-700 mb-4",
+                                "text": "Hours of Operation",
+                                "type": "h2"
+                            },
+                            "div-s2d1d2d1d2d1": {
+                                "css": "text-gray-600 space-y-2",
+                                "paragraph-s2d1d2d1d2d1p1": {
+                                    "css": "",
+                                    "text": "Monday - Friday: 8AM - 7PM"
+                                },
+                                "paragraph-s2d1d2d1d2d1p2": {
+                                    "css": "",
+                                    "text": "Saturday: 9AM - 5PM"
+                                },
+                                "paragraph-s2d1d2d1d2d1p3": {
+                                    "css": "",
+                                    "text": "Sunday: Closed"
+                                }
+                            },
+                            "heading-s2d1d2d1d2h2": {
+                                "css": "text-2xl font-semibold text-green-700 mt-6 mb-4",
+                                "text": "Public Transit",
+                                "type": "h2"
+                            },
+                            "paragraph-s2d1d2d1d2p1": {
+                                "css": "text-gray-600",
+                                "text": "Subway: 34 St - Penn Station\n                  Bus: M34-SBS"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "section-3": {
+            "css": "container mx-auto px-4 py-12",
+            "div-s3d1": {
+                "css": "mt-12 bg-green-100 rounded-lg p-6 md:p-8 shadow-md",
+                "heading-s3d1h1": {
+                    "css": "text-2xl font-semibold text-green-800 mb-4",
+                    "text": "About Our Location",
+                    "type": "h2"
+                },
+                "paragraph-s3d1p1": {
+                    "css": "text-gray-700 mb-4",
+                    "text": "Our nutrition center is conveniently located in the heart of New York City, making it easily accessible for all our clients. The modern facility is equipped with state-of-the-art nutritional assessment tools and comfortable consultation rooms."
+                },
+                "paragraph-s3d1p2": {
+                    "css": "text-gray-700",
+                    "text": "We're surrounded by healthy cafes and grocery stores, making it easy for our clients to put their nutritional plans into action right away. Our central location also allows us to serve a diverse clientele from all boroughs of New York."
+                }
+            }
+        }
+    }
+}
