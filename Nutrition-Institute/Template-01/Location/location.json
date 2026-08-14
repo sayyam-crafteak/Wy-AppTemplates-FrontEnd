@@ -1,102 +1,103 @@
 {
     "main": {
-      "css": "container mx-auto px-4 py-16 space-y-24 bg-green-50 min-h-screen",
-      "section-1": {
-        "name": "Hero Section",
-        "css": "mx-auto max-w-3xl text-center space-y-6",
-        "heading-s1h1": {
-          "css": "text-5xl font-bold tracking-tight sm:text-6xl text-green-800",
-          "text": "Our Location",
-          "type": "h1"
-        },
-        "paragraph-s1p1": {
-          "css": "text-xl text-green-700 leading-relaxed",
-          "text": "Visit our Nutrition Center for personalized consultations and expert guidance."
-        }
-      },
-      "section-2": {
-        "name": "Map Section",
-        "css": "mt-16",
-        "div-s2d1": {
-          "css": "bg-white rounded-xl shadow-lg overflow-hidden",
-          "div-s2d1d1": {
-            "css": "aspect-w-16 aspect-h-9",
-            "iframe-s2d1d1i1": {
-              "css": "w-full h-[75%]",
-              "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.67890!2d-73.123456!3d40.123456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDA3JzM0LjQiTiA3M8KwMDcnMjQuNCJX!5e0!3m2!1sen!2sus!4v1234567890123!5m2!1sen!2sus",
-              "width": "600",
-              "height": "450",
-              "style": "border:0;",
-              "allowfullscreen": "",
-              "loading": "lazy",
-              "referrerpolicy": "no-referrer-when-downgrade"
-            }
-          }
-        }
-      },
-      "section-3": {
-        "name": "Address and Hours",
-        "css": "mt-16 grid md:grid-cols-2 gap-16 mx-11 ",
-        "div-s3d1": {
-          "css": " rounded-xl shadow-lg p-4 bg-yellow-50",
-          "heading-s3d1h1": {
-            "css": "text-2xl font-semibold text-green-800 mb-4",
-            "text": "Our Address",
-            "type": "h2"
-          },
-          "paragraph-s3d1p1": {
-            "css": "text-green-700 mb-2",
-            "text": "123 Nutrition Street"
-          },
-          "paragraph-s3d1p2": {
-            "css": "text-green-700 mb-2",
-            "text": "Healthy City, HC 12345"
-          },
-          "paragraph-s3d1p3": {
-            "css": "text-green-700",
-            "text": "United States"
-          }
-        },
-        "div-s3d2": {
-          "css": "bg-yellow-50 rounded-lg shadow-lg p-8",
-          "heading-s3d2h1": {
-            "css": "text-2xl font-semibold text-green-800 mb-4",
-            "text": "Hours of Operation",
-            "type": "h2"
-          },
-          "ul-s3d2u1": {
-            "css": "text-green-700 space-y-2",
-            "li-s3d2u1l1": {
-              "text": "Monday - Friday: 9:00 AM - 6:00 PM"
+        "css": "",
+        "section-1": {
+            "css": "mx-auto max-w-3xl space-y-6 text-center",
+            "heading-s1h1": {
+                "css": "text-fontSize font-fontWeight text-italic text-underline mt-8 tracking-tight text-textPrimary sm:text-smFontSize",
+                "text": "Our Location",
+                "type": "h1"
             },
-            "li-s3d2u1l2": {
-              "text": "Saturday: 10:00 AM - 4:00 PM"
-            },
-            "li-s3d2u1l3": {
-              "text": "Sunday: Closed"
+            "paragraph-s1p1": {
+                "css": "text-fontSize leading-relaxed text-textSecondary",
+                "text": "Visit our Nutrition Center for personalized consultations and expert guidance."
             }
-          }
-        }
-      },
-      
-      "section-5": {
-        "name": "Call to Action",
-        "css": "mt-16 text-center",
-        "heading-s5h1": {
-          "css": "text-3xl font-bold mb-4 text-green-800",
-          "text": "Ready to Visit Us?",
-          "type": "h2"
         },
-        "paragraph-s5p1": {
-          "css": "text-xl text-green-700 mb-8",
-          "text": "Schedule your in-person consultation today and take the first step towards better nutrition."
+        "section-2": {
+            "css": "mt-16",
+            "div-s2d1": {
+                "css": "overflow-hidden rounded-xl bg-backgroundSecondary shadow-lg",
+                "div-s2d1d1": {
+                    "css": "aspect-w-16 aspect-h-9",
+                    "iframe-s2d1d1i1": {
+                        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.67890!2d-73.123456!3d40.123456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDA3JzM0LjQiTiA3M8KwMDcnMjQuNCJX!5e0!3m2!1sen!2sus!4v1234567890123!5m2!1sen!2sus",
+                        "width": "600",
+                        "height": "450",
+                        "loading": "lazy",
+                        "css": "h-[75%] w-full"
+                    }
+                }
+            }
         },
-        "button-s5b1": {
-          "css": "inline-flex items-center justify-center rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-green-600 text-white hover:bg-green-700 h-12 px-6 py-2",
-          "text": "Book Your Visit"
+        "section-3": {
+            "css": "mx-11 mt-16 grid gap-16 sm:grid-cols-2",
+            "div-s3d1": {
+                "css": "rounded-xl bg-backgroundPrimary p-4 shadow-lg",
+                "heading-s3d1h2": {
+                    "css": "mb-4 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                    "text": "Our Address",
+                    "type": "h2"
+                },
+                "paragraph-s3d1p1": {
+                    "css": "mb-2 text-textSecondary",
+                    "text": "123 Nutrition Street"
+                },
+                "paragraph-s3d1p2": {
+                    "css": "mb-2 text-textSecondary",
+                    "text": "Healthy City, HC 12345"
+                },
+                "paragraph-s3d1p3": {
+                    "css": "text-textSecondary",
+                    "text": "United States"
+                }
+            },
+            "div-s3d2": {
+                "css": "rounded-lg bg-backgroundPrimary p-8 shadow-lg",
+                "heading-s3d2h2": {
+                    "css": "mb-4 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                    "text": "Hours of Operation",
+                    "type": "h2"
+                },
+                "ul-s3d2u1": {
+                    "css": "space-y-2",
+                    "li-s3d2u1li1": {
+                        "css": "text-textSecondary undefined",
+                        "text": "Monday - Friday: 9:00 AM - 6:00 PM",
+                        "paragraph-s3d2u1li1p1": {
+                            "css": "",
+                            "text": "Monday - Friday: 9:00 AM - 6:00 PM"
+                        }
+                    },
+                    "li-s3d2u1li2": {
+                        "css": "text-textSecondary undefined",
+                        "text": "Saturday: 10:00 AM - 4:00 PM",
+                        "paragraph-s3d2u1li2p1": {
+                            "css": "",
+                            "text": "Saturday: 10:00 AM - 4:00 PM"
+                        }
+                    },
+                    "li-s3d2u1li3": {
+                        "css": "text-textSecondary undefined",
+                        "text": "Sunday: Closed",
+                        "paragraph-s3d2u1li3p1": {
+                            "css": "",
+                            "text": "Sunday: Closed"
+                        }
+                    }
+                }
+            }
+        },
+        "section-4": {
+            "css": "mt-16 text-center",
+            "heading-s4h2": {
+                "css": "mb-4 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                "text": "Ready to Visit Us?",
+                "type": "h2"
+            },
+            "paragraph-s4p1": {
+                "css": "mb-8 text-fontSize text-textSecondary",
+                "text": "Schedule your in-person consultation today and take the first step towards better nutrition."
+            }
         }
-      }
     }
-  }
-  
-  
+}

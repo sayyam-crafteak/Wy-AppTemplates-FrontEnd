@@ -7,22 +7,16 @@
             "pageId": "Home"
         },
         {
-            "pageName": "Methods",
-            "pageId": "Methods"
+            "pageName": "Location",
+            "pageId": "Location"
         },
         {
-            "pageName": "Values",
-            "pageId": "Values"
-        }
-        ,
+            "pageName": "About",
+            "pageId": "AboutUs"
+        },
         {
             "pageName": "Contact",
             "pageId": "ContactUs"
-        },
-       
-        {
-            "pageName": "Reviews",
-            "pageId": "Reviews"
         }
     ]
 }

@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "aboutUs-01",
+    "name": "AboutUs-01",
     "description": "AboutUs",
     "cost": "$200 USD",
     "thumbnailUrls": ["thumbnail.svg"],
