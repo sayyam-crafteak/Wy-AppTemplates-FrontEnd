@@ -1,0 +1,469 @@
+{
+    "main": {
+        "css": "container mx-auto",
+        "section-1": {
+            "css": "relative mb-16 overflow-hidden rounded-2xl text-center",
+            "div-s1d1": {
+                "css": "absolute inset-0 bg-gradient-to-r from-blue-800 to-purple-800"
+            },
+            "div-s1d2": {
+                "css": "absolute inset-0"
+            },
+            "div-s1d3": {
+                "css": "relative z-10 px-8 py-20 text-white",
+                "heading-s1d3h1": {
+                    "css": "mb-4 text-4xl font-bold",
+                    "text": "What Our Clients Say",
+                    "type": "h1"
+                },
+                "paragraph-s1d3p1": {
+                    "css": "mx-auto max-w-2xl text-xl opacity-90",
+                    "text": "Don't just take our word for it. Here's what our satisfied clients have to say about working with us."
+                }
+            }
+        },
+        "section-2": {
+            "css": "mb-16 grid grid-cols-1 gap-8 lg:grid-cols-2 mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8",
+            "div-s2d1": {
+                "css": "rounded-lg bg-white p-8 shadow-md transition-shadow hover:shadow-lg",
+                "div-s2d1d1": {
+                    "css": "mb-6 flex items-center",
+                    "Image-s2d1d1img1": {
+                        "src": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                        "alt": "David Wilson",
+                        "css": "mr-4 h-12 w-12 rounded-full object-cover",
+                        "text": ""
+                    },
+                    "div-s2d1d1d1": {
+                        "css": "",
+                        "heading-s2d1d1d1h1": {
+                            "css": "text-lg font-semibold text-gray-900",
+                            "text": "David Wilson",
+                            "type": "h3"
+                        },
+                        "paragraph-s2d1d1d1p1": {
+                            "css": "text-gray-600",
+                            "text": "CEO, TechStart Inc."
+                        }
+                    }
+                },
+                "paragraph-s2d1p1": {
+                    "css": "mb-4 text-gray-700",
+                    "text": "\"Working with this team has been absolutely transformative for our business. They delivered a web application that exceeded our expectations and helped us increase our conversion rate by 150%. Their attention to detail and commitment to quality is unmatched.\""
+                },
+                "div-s2d1d2": {
+                    "css": "flex text-yellow-400",
+                    "svg-s2d1d2svg1": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d1d2svg1path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    },
+                    "svg-s2d1d2svg2": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d1d2svg2path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    },
+                    "svg-s2d1d2svg3": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d1d2svg3path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    },
+                    "svg-s2d1d2svg4": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d1d2svg4path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    },
+                    "svg-s2d1d2svg5": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d1d2svg5path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    }
+                }
+            },
+            "div-s2d2": {
+                "css": "rounded-lg bg-white p-8 shadow-md transition-shadow hover:shadow-lg",
+                "div-s2d2d1": {
+                    "css": "mb-6 flex items-center",
+                    "Image-s2d2d1img1": {
+                        "src": "https://images.unsplash.com/photo-1494790108755-2616c80e26e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                        "alt": "Maria Garcia",
+                        "css": "mr-4 h-12 w-12 rounded-full object-cover",
+                        "text": ""
+                    },
+                    "div-s2d2d1d1": {
+                        "css": "",
+                        "heading-s2d2d1d1h1": {
+                            "css": "text-lg font-semibold text-gray-900",
+                            "text": "Maria Garcia",
+                            "type": "h3"
+                        },
+                        "paragraph-s2d2d1d1p1": {
+                            "css": "text-gray-600",
+                            "text": "Marketing Director, Creative Agency"
+                        }
+                    }
+                },
+                "paragraph-s2d2p1": {
+                    "css": "mb-4 text-gray-700",
+                    "text": "\"The mobile app they developed for us has been a game-changer. It's user-friendly, fast, and has helped us reach a whole new audience. The team was professional, responsive, and delivered on time. I couldn't be happier with the results.\""
+                },
+                "div-s2d2d2": {
+                    "css": "flex text-yellow-400",
+                    "svg-s2d2d2svg1": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d2d2svg1path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    },
+                    "svg-s2d2d2svg2": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d2d2svg2path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    },
+                    "svg-s2d2d2svg3": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d2d2svg3path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    },
+                    "svg-s2d2d2svg4": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d2d2svg4path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    },
+                    "svg-s2d2d2svg5": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d2d2svg5path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    }
+                }
+            },
+            "div-s2d3": {
+                "css": "rounded-lg bg-white p-8 shadow-md transition-shadow hover:shadow-lg",
+                "div-s2d3d1": {
+                    "css": "mb-6 flex items-center",
+                    "Image-s2d3d1img1": {
+                        "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                        "alt": "James Thompson",
+                        "css": "mr-4 h-12 w-12 rounded-full object-cover",
+                        "text": ""
+                    },
+                    "div-s2d3d1d1": {
+                        "css": "",
+                        "heading-s2d3d1d1h1": {
+                            "css": "text-lg font-semibold text-gray-900",
+                            "text": "James Thompson",
+                            "type": "h3"
+                        },
+                        "paragraph-s2d3d1d1p1": {
+                            "css": "text-gray-600",
+                            "text": "Founder, E-commerce Solutions"
+                        }
+                    }
+                },
+                "paragraph-s2d3p1": {
+                    "css": "mb-4 text-gray-700",
+                    "text": "\"Our e-commerce platform was completely redesigned by their team, and the results speak for themselves. Sales have increased by 200% and customer satisfaction has never been higher. They truly understand what it takes to build a successful online business.\""
+                },
+                "div-s2d3d2": {
+                    "css": "flex text-yellow-400",
+                    "svg-s2d3d2svg1": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d3d2svg1path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    },
+                    "svg-s2d3d2svg2": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d3d2svg2path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    },
+                    "svg-s2d3d2svg3": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d3d2svg3path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    },
+                    "svg-s2d3d2svg4": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d3d2svg4path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    },
+                    "svg-s2d3d2svg5": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d3d2svg5path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    }
+                }
+            },
+            "div-s2d4": {
+                "css": "rounded-lg bg-white p-8 shadow-md transition-shadow hover:shadow-lg",
+                "div-s2d4d1": {
+                    "css": "mb-6 flex items-center",
+                    "Image-s2d4d1img1": {
+                        "src": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+                        "alt": "Lisa Chen",
+                        "css": "mr-4 h-12 w-12 rounded-full object-cover",
+                        "text": ""
+                    },
+                    "div-s2d4d1d1": {
+                        "css": "",
+                        "heading-s2d4d1d1h1": {
+                            "css": "text-lg font-semibold text-gray-900",
+                            "text": "Lisa Chen",
+                            "type": "h3"
+                        },
+                        "paragraph-s2d4d1d1p1": {
+                            "css": "text-gray-600",
+                            "text": "Operations Manager, FinTech Startup"
+                        }
+                    }
+                },
+                "paragraph-s2d4p1": {
+                    "css": "mb-4 text-gray-700",
+                    "text": "\"The digital marketing strategy they developed for us has been incredibly effective. Our online presence has grown significantly, and we're seeing consistent leads and conversions. Their expertise in SEO and social media marketing is outstanding.\""
+                },
+                "div-s2d4d2": {
+                    "css": "flex text-yellow-400",
+                    "svg-s2d4d2svg1": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d4d2svg1path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    },
+                    "svg-s2d4d2svg2": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d4d2svg2path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    },
+                    "svg-s2d4d2svg3": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d4d2svg3path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    },
+                    "svg-s2d4d2svg4": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d4d2svg4path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    },
+                    "svg-s2d4d2svg5": {
+                        "css": "h-5 w-5 fill-current",
+                        "class": "h-5 w-5 fill-current",
+                        "viewbox": "0 0 20 20",
+                        "path-s2d4d2svg5path1": {
+                            "d": "M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"
+                        }
+                    }
+                }
+            }
+        },
+        "section-3": {
+            "css": "mb-16 rounded-lg bg-white p-8 shadow-md mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8",
+            "heading-s3h1": {
+                "css": "mb-8 text-center text-3xl font-bold text-gray-900",
+                "text": "Success Stories",
+                "type": "h2"
+            },
+            "div-s3d1": {
+                "css": "grid grid-cols-1 gap-8 md:grid-cols-3",
+                "div-s3d1d1": {
+                    "css": "text-center",
+                    "div-s3d1d1d1": {
+                        "css": "mb-2 text-4xl font-bold text-blue-600"
+                    },
+                    "heading-s3d1d1h1": {
+                        "css": "mb-2 text-xl font-semibold text-gray-900",
+                        "text": "Happy Clients",
+                        "type": "h3"
+                    },
+                    "paragraph-s3d1d1p1": {
+                        "css": "text-gray-600",
+                        "text": "Businesses we've helped grow and succeed"
+                    }
+                },
+                "div-s3d1d2": {
+                    "css": "text-center",
+                    "div-s3d1d2d1": {
+                        "css": "mb-2 text-4xl font-bold text-green-600"
+                    },
+                    "heading-s3d1d2h1": {
+                        "css": "mb-2 text-xl font-semibold text-gray-900",
+                        "text": "Satisfaction Rate",
+                        "type": "h3"
+                    },
+                    "paragraph-s3d1d2p1": {
+                        "css": "text-gray-600",
+                        "text": "Client satisfaction with our services"
+                    }
+                },
+                "div-s3d1d3": {
+                    "css": "text-center",
+                    "div-s3d1d3d1": {
+                        "css": "mb-2 text-4xl font-bold text-purple-600"
+                    },
+                    "heading-s3d1d3h1": {
+                        "css": "mb-2 text-xl font-semibold text-gray-900",
+                        "text": "Average Growth",
+                        "type": "h3"
+                    },
+                    "paragraph-s3d1d3p1": {
+                        "css": "text-gray-600",
+                        "text": "Average business growth after our solutions"
+                    }
+                }
+            }
+        },
+        "section-4": {
+            "css": "mb-16",
+            "heading-s4h1": {
+                "css": "mb-8 text-center text-3xl font-bold text-gray-900",
+                "text": "Industry Recognition",
+                "type": "h2"
+            },
+            "div-s4d1": {
+                "css": "grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4",
+                "div-s4d1d1": {
+                    "css": "rounded-lg bg-white p-6 text-center shadow-md",
+                    "div-s4d1d1d1": {
+                        "css": "mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-yellow-100",
+                        "div-s4d1d1d1d1": {
+                            "css": "h-8 w-8 rounded bg-yellow-500"
+                        }
+                    },
+                    "heading-s4d1d1h1": {
+                        "css": "mb-2 text-lg font-semibold text-gray-900",
+                        "text": "Best Digital Agency",
+                        "type": "h3"
+                    },
+                    "paragraph-s4d1d1p1": {
+                        "css": "text-gray-600",
+                        "text": "Web Excellence Awards 2024"
+                    }
+                },
+                "div-s4d1d2": {
+                    "css": "rounded-lg bg-white p-6 text-center shadow-md",
+                    "div-s4d1d2d1": {
+                        "css": "mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-blue-100",
+                        "div-s4d1d2d1d1": {
+                            "css": "h-8 w-8 rounded bg-blue-500"
+                        }
+                    },
+                    "heading-s4d1d2h1": {
+                        "css": "mb-2 text-lg font-semibold text-gray-900",
+                        "text": "Top Web Developer",
+                        "type": "h3"
+                    },
+                    "paragraph-s4d1d2p1": {
+                        "css": "text-gray-600",
+                        "text": "Tech Innovation Awards 2024"
+                    }
+                },
+                "div-s4d1d3": {
+                    "css": "rounded-lg bg-white p-6 text-center shadow-md",
+                    "div-s4d1d3d1": {
+                        "css": "mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-green-100",
+                        "div-s4d1d3d1d1": {
+                            "css": "h-8 w-8 rounded bg-green-500"
+                        }
+                    },
+                    "heading-s4d1d3h1": {
+                        "css": "mb-2 text-lg font-semibold text-gray-900",
+                        "text": "Excellence in Design",
+                        "type": "h3"
+                    },
+                    "paragraph-s4d1d3p1": {
+                        "css": "text-gray-600",
+                        "text": "Design Masters Awards 2024"
+                    }
+                },
+                "div-s4d1d4": {
+                    "css": "rounded-lg bg-white p-6 text-center shadow-md",
+                    "div-s4d1d4d1": {
+                        "css": "mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-purple-100",
+                        "div-s4d1d4d1d1": {
+                            "css": "h-8 w-8 rounded bg-purple-500"
+                        }
+                    },
+                    "heading-s4d1d4h1": {
+                        "css": "mb-2 text-lg font-semibold text-gray-900",
+                        "text": "Client Choice Award",
+                        "type": "h3"
+                    },
+                    "paragraph-s4d1d4p1": {
+                        "css": "text-gray-600",
+                        "text": "Business Excellence Awards 2024"
+                    }
+                }
+            }
+        },
+        "section-5": {
+            "css": "rounded-lg bg-gradient-to-r from-blue-600 to-purple-600 p-8 text-center text-white shadow-md mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8",
+            "heading-s5h1": {
+                "css": "mb-4 text-3xl font-bold",
+                "text": "Ready to Join Our Success Stories?",
+                "type": "h2"
+            },
+            "paragraph-s5p1": {
+                "css": "mb-8 text-xl",
+                "text": "Let's work together to create the next great success story for your business."
+            },
+            "a-s5a1": {
+                "css": "rounded-lg bg-white px-8 py-3 font-medium text-blue-600 transition-colors hover:bg-gray-100",
+                "text": "Start Your Project",
+                "href": "#"
+            }
+        }
+    }
+}

@@ -1,0 +1,456 @@
+{
+    "main": {
+        "css": "",
+        "section-1": {
+            "css": "relative h-screen overflow-hidden",
+            "div-s1d1": {
+                "css": "absolute inset-0",
+                "Image-s1d1img1": {
+                    "src": "Image-s1d1img1.jpeg",
+                    "css": "h-full w-full object-cover object-center z-0"
+                },
+                "div-s1d1d1": {
+                    "css": "absolute inset-0 bg-black bg-opacity-50 z-10"
+                },
+                "div-s1d1d2": {
+                    "css": "absolute inset-0 flex items-center justify-center z-20",
+                    "div-s1d1d2d1": {
+                        "css": "px-4 text-center",
+                        "heading-s1d1d2d1h1": {
+                            "css": "mb-6 text-5xl font-bold sm:text-6xl text-white",
+                            "text": "Transform Your Space",
+                            "type": "h1"
+                        },
+                        "paragraph-s1d1d2d1p1": {
+                            "css": "mb-8 text-xl sm:mx-20 sm:text-2xl text-white",
+                            "text": "Create the home of your dreams with our expert interior design services, tailored to transform your spaces into a perfect blend of comfort and elegance. Let us bring your dream home to life!"
+                        }
+                    }
+                }
+            }
+        },
+        "section-2": {
+            "css": "border-b border-gray-200 bg-white py-16",
+            "div-s2d1": {
+                "css": "mx-auto max-w-7xl px-4",
+                "heading-s2d1h2": {
+                    "css": "mb-16 text-center text-4xl font-bold",
+                    "text": "Our Services",
+                    "type": "h2"
+                },
+                "div-s2d1d1": {
+                    "css": "grid grid-cols-1 gap-8 sm:grid-cols-4",
+                    "div-s2d1d1d1": {
+                        "css": "flex flex-col items-center rounded-lg border-2 border-gray-300 bg-white p-6 text-center shadow-md",
+                        "div-s2d1d1d1d1": {
+                            "css": "flex h-24 w-24 items-center justify-center",
+                            "svg-s2d1d1d1d1svg1": {
+                                "stroke": "currentColor",
+                                "fill": "none",
+                                "stroke-width": "3",
+                                "height": "24",
+                                "width": "24",
+                                "xmlns": "http://www.w3.org/2000/svg",
+                                "css": "stroke-[3]",
+                                "path-s2d1d1d1d1svg1path1": {
+                                    "d": "M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z",
+                                    "css": ""
+                                },
+                                "path-s2d1d1d1d1svg1path2": {
+                                    "d": "M9 22V12h6v10",
+                                    "css": ""
+                                }
+                            }
+                        },
+                        "heading-s2d1d1d1h3": {
+                            "css": "mb-3 text-xl font-semibold",
+                            "text": "Interior Design",
+                            "type": "h3"
+                        },
+                        "paragraph-s2d1d1d1p1": {
+                            "css": "text-gray-600",
+                            "text": "Complete design solutions tailored to your lifestyle and preferences."
+                        }
+                    },
+                    "div-s2d1d1d2": {
+                        "css": "flex flex-col items-center rounded-lg border-2 border-gray-300 bg-white p-6 text-center shadow-md",
+                        "div-s2d1d1d2d1": {
+                            "css": "flex h-24 w-24 items-center justify-center",
+                            "svg-s2d1d1d2d1svg1": {
+                                "stroke": "currentColor",
+                                "fill": "none",
+                                "stroke-width": "3",
+                                "height": "24",
+                                "width": "24",
+                                "xmlns": "http://www.w3.org/2000/svg",
+                                "css": "stroke-[3]",
+                                "rect-s2d1d1d2d1svg1rect1": {
+                                    "width": "18",
+                                    "height": "18",
+                                    "x": "3",
+                                    "y": "3",
+                                    "rx": "2",
+                                    "css": ""
+                                }
+                            }
+                        },
+                        "heading-s2d1d1d2h3": {
+                            "css": "mb-3 text-xl font-semibold",
+                            "text": "Space Planning",
+                            "type": "h3"
+                        },
+                        "paragraph-s2d1d1d2p1": {
+                            "css": "text-gray-600",
+                            "text": "Optimize your space for both functionality and aesthetic appeal."
+                        }
+                    },
+                    "div-s2d1d1d3": {
+                        "css": "flex flex-col items-center rounded-lg border-2 border-gray-300 bg-white p-6 text-center shadow-md",
+                        "div-s2d1d1d3d1": {
+                            "css": "flex h-24 w-24 items-center justify-center",
+                            "svg-s2d1d1d3d1svg1": {
+                                "stroke": "currentColor",
+                                "fill": "none",
+                                "stroke-width": "3",
+                                "height": "24",
+                                "width": "24",
+                                "xmlns": "http://www.w3.org/2000/svg",
+                                "css": "stroke-[3]",
+                                "rect-s2d1d1d3d1svg1rect1": {
+                                    "width": "16",
+                                    "height": "16",
+                                    "x": "4",
+                                    "y": "4",
+                                    "rx": "2",
+                                    "css": ""
+                                },
+                                "rect-s2d1d1d3d1svg1rect2": {
+                                    "width": "6",
+                                    "height": "6",
+                                    "x": "9",
+                                    "y": "9",
+                                    "css": ""
+                                }
+                            }
+                        },
+                        "heading-s2d1d1d3h3": {
+                            "css": "mb-3 text-xl font-semibold",
+                            "text": "Furniture Selection",
+                            "type": "h3"
+                        },
+                        "paragraph-s2d1d1d3p1": {
+                            "css": "text-gray-600",
+                            "text": "Curated furniture choices that complement your space perfectly."
+                        }
+                    },
+                    "div-s2d1d1d4": {
+                        "css": "flex flex-col items-center rounded-lg border-2 border-gray-300 bg-white p-6 text-center shadow-md",
+                        "div-s2d1d1d4d1": {
+                            "css": "flex h-24 w-24 items-center justify-center font-bold",
+                            "svg-s2d1d1d4d1svg1": {
+                                "stroke": "currentColor",
+                                "fill": "none",
+                                "stroke-width": "3",
+                                "height": "30",
+                                "width": "30",
+                                "xmlns": "http://www.w3.org/2000/svg",
+                                "css": "stroke-[3]",
+                                "circle-s2d1d1d4d1svg1circle1": {
+                                    "cx": "12",
+                                    "cy": "12",
+                                    "r": "5",
+                                    "css": ""
+                                },
+                                "path-s2d1d1d4d1svg1path1": {
+                                    "d": "M12 1v2",
+                                    "css": ""
+                                },
+                                "path-s2d1d1d4d1svg1path2": {
+                                    "d": "M12 21v2",
+                                    "css": ""
+                                },
+                                "path-s2d1d1d4d1svg1path3": {
+                                    "d": "M4.22 4.22l1.42 1.42",
+                                    "css": ""
+                                },
+                                "path-s2d1d1d4d1svg1path4": {
+                                    "d": "M18.36 18.36l1.42 1.42",
+                                    "css": ""
+                                },
+                                "path-s2d1d1d4d1svg1path5": {
+                                    "d": "M1 12h2",
+                                    "css": ""
+                                },
+                                "path-s2d1d1d4d1svg1path6": {
+                                    "d": "M21 12h2",
+                                    "css": ""
+                                },
+                                "path-s2d1d1d4d1svg1path7": {
+                                    "d": "M4.22 19.78l1.42-1.42",
+                                    "css": ""
+                                },
+                                "path-s2d1d1d4d1svg1path8": {
+                                    "d": "M18.36 5.64l1.42-1.42",
+                                    "css": ""
+                                }
+                            }
+                        },
+                        "heading-s2d1d1d4h3": {
+                            "css": "mb-3 text-xl font-semibold",
+                            "text": "Lighting Design",
+                            "type": "h3"
+                        },
+                        "paragraph-s2d1d1d4p1": {
+                            "css": "text-gray-600",
+                            "text": "Strategic lighting solutions to enhance your interior atmosphere."
+                        }
+                    }
+                }
+            }
+        },
+        "section-3": {
+            "css": "border-b border-gray-200 bg-gray-50 py-16",
+            "div-s3d1": {
+                "css": "mx-auto max-w-7xl px-4",
+                "heading-s3d1h2": {
+                    "css": "mb-16 text-center text-4xl font-bold",
+                    "text": "Our Projects",
+                    "type": "h2"
+                },
+                "div-s3d1d1": {
+                    "css": "grid grid-cols-1 gap-8 sm:grid-cols-3",
+                    "div-s3d1d1d1": {
+                        "css": "group relative overflow-hidden rounded-lg",
+                        "Image-s3d1d1d1img1": {
+                            "src": "Image-s3d1d1d1img1.jpeg",
+                            "alt": "Modern Minimalist Living",
+                            "width": "100%",
+                            "height": "80",
+                            "css": "h-80 w-full transform object-cover transition duration-500 group-hover:scale-110"
+                        },
+                        "div-s3d1d1d1d1": {
+                            "css": "absolute inset-0 flex flex-col justify-end bg-gradient-to-t from-black/70 to-transparent p-6",
+                            "heading-s3d1d1d1d1h3": {
+                                "css": "text-xl font-semibold text-white",
+                                "text": "Modern Minimalist Living",
+                                "type": "h3"
+                            }
+                        }
+                    },
+                    "div-s3d1d1d2": {
+                        "css": "group relative overflow-hidden rounded-lg",
+                        "Image-s3d1d1d2img1": {
+                            "src": "Image-s3d1d1d2img1.jpeg",
+                            "alt": "Contemporary Kitchen Design",
+                            "width": "100%",
+                            "height": "80",
+                            "css": "h-80 w-full transform object-cover transition duration-500 group-hover:scale-110"
+                        },
+                        "div-s3d1d1d2d1": {
+                            "css": "absolute inset-0 flex flex-col justify-end bg-gradient-to-t from-black/70 to-transparent p-6",
+                            "heading-s3d1d1d2d1h3": {
+                                "css": "text-xl font-semibold text-white",
+                                "text": "Contemporary Kitchen Design",
+                                "type": "h3"
+                            }
+                        }
+                    },
+                    "div-s3d1d1d3": {
+                        "css": "group relative overflow-hidden rounded-lg",
+                        "Image-s3d1d1d3img1": {
+                            "src": "Image-s3d1d1d3img1.jpeg",
+                            "alt": "Luxury Master Suite",
+                            "width": "100%",
+                            "height": "80",
+                            "css": "h-80 w-full transform object-cover transition duration-500 group-hover:scale-110"
+                        },
+                        "div-s3d1d1d3d1": {
+                            "css": "absolute inset-0 flex flex-col justify-end bg-gradient-to-t from-black/70 to-transparent p-6",
+                            "heading-s3d1d1d3d1h3": {
+                                "css": "text-xl font-semibold text-white",
+                                "text": "Luxury Master Suite",
+                                "type": "h3"
+                            }
+                        }
+                    },
+                    "div-s3d1d1d4": {
+                        "css": "group relative overflow-hidden rounded-lg",
+                        "Image-s3d1d1d4img1": {
+                            "src": "Image-s3d1d1d4img1.jpeg",
+                            "alt": "Luxury Master Suite",
+                            "width": "100%",
+                            "height": "80",
+                            "css": "h-80 w-full transform object-cover transition duration-500 group-hover:scale-110"
+                        },
+                        "div-s3d1d1d4d1": {
+                            "css": "absolute inset-0 flex flex-col justify-end bg-gradient-to-t from-black/70 to-transparent p-6",
+                            "heading-s3d1d1d4d1h3": {
+                                "css": "text-xl font-semibold text-white",
+                                "text": "Luxury Master Suite",
+                                "type": "h3"
+                            }
+                        }
+                    },
+                    "div-s3d1d1d5": {
+                        "css": "group relative overflow-hidden rounded-lg",
+                        "Image-s3d1d1d5img1": {
+                            "src": "Image-s3d1d1d5img1.jpeg",
+                            "alt": "Contemporary Kitchen Design",
+                            "width": "100%",
+                            "height": "80",
+                            "css": "h-80 w-full transform object-cover transition duration-500 group-hover:scale-110"
+                        },
+                        "div-s3d1d1d5d1": {
+                            "css": "absolute inset-0 flex flex-col justify-end bg-gradient-to-t from-black/70 to-transparent p-6",
+                            "heading-s3d1d1d5d1h3": {
+                                "css": "text-xl font-semibold text-white",
+                                "text": "Luxury Master Suite",
+                                "type": "h3"
+                            }
+                        }
+                    },
+                    "div-s3d1d1d6": {
+                        "css": "group relative overflow-hidden rounded-lg",
+                        "Image-s3d1d1d6img1": {
+                            "src": "Image-s3d1d1d6img1.jpeg",
+                            "alt": "Modern Minimalist Living",
+                            "width": "100%",
+                            "height": "80",
+                            "css": "h-80 w-full transform object-cover transition duration-500 group-hover:scale-110"
+                        },
+                        "div-s3d1d1d6d1": {
+                            "css": "absolute inset-0 flex flex-col justify-end bg-gradient-to-t from-black/70 to-transparent p-6",
+                            "heading-s3d1d1d6d1h3": {
+                                "css": "text-xl font-semibold text-white",
+                                "text": "Modern Minimalist Living",
+                                "type": "h3"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "section-4": {
+            "css": "bg-white py-16",
+            "div-s4d1": {
+                "css": "mx-auto max-w-7xl px-4",
+                "heading-s4d1h2": {
+                    "css": "mb-16 text-center text-4xl font-bold",
+                    "text": "Client Testimonials",
+                    "type": "h2"
+                },
+                "div-s4d1d1": {
+                    "css": "grid grid-cols-1 gap-8 sm:grid-cols-3",
+                    "div-s4d1d1d1": {
+                        "css": "rounded-lg border-2 border-gray-300 bg-white p-6 text-center shadow-md",
+                        "div-s4d1d1d1d1": {
+                            "css": "mb-4 flex items-center justify-center",
+                            "paragraph-s4d1d1d1d1p1": {
+                                "css": "mb-6 text-gray-600",
+                                "text": "⭐⭐⭐⭐⭐"
+                            }
+                        },
+                        "paragraph-s4d1d1d1p1": {
+                            "css": "mb-6 text-gray-600",
+                            "text": "The transformation of our home exceeded all expectations. The attention to detail and understanding of our vision was remarkable."
+                        },
+                        "div-s4d1d1d1d2": {
+                            "css": "flex items-center justify-center",
+                            "Image-s4d1d1d1d2img1": {
+                                "src": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+                                "alt": "Emily Thompson",
+                                "width": "12",
+                                "height": "12",
+                                "css": "mr-4 h-12 w-12 rounded-full object-cover"
+                            },
+                            "div-s4d1d1d1d2d1": {
+                                "css": "",
+                                "heading-s4d1d1d1d2d1h4": {
+                                    "css": "font-semibold",
+                                    "text": "Emily Thompson",
+                                    "type": "h4"
+                                },
+                                "paragraph-s4d1d1d1d2d1p1": {
+                                    "css": "text-sm text-gray-600",
+                                    "text": "Homeowner"
+                                }
+                            }
+                        }
+                    },
+                    "div-s4d1d1d2": {
+                        "css": "rounded-lg border-2 border-gray-300 bg-white p-6 text-center shadow-md",
+                        "div-s4d1d1d2d1": {
+                            "css": "mb-4 flex items-center justify-center",
+                            "paragraph-s4d1d1d2d1p1": {
+                                "css": "mb-6 text-gray-600",
+                                "text": "⭐⭐⭐⭐⭐"
+                            }
+                        },
+                        "paragraph-s4d1d1d2p1": {
+                            "css": "mb-6 text-gray-600",
+                            "text": "They helped design our office space, creating a perfect balance between professionalism and comfort. Highly recommended!"
+                        },
+                        "div-s4d1d1d2d2": {
+                            "css": "flex items-center justify-center",
+                            "Image-s4d1d1d2d2img1": {
+                                "src": "Image-s4d1d1d2d2img1.jpeg",
+                                "alt": "Michael Chen",
+                                "width": "12",
+                                "height": "12",
+                                "css": "mr-4 h-12 w-12 rounded-full object-cover"
+                            },
+                            "div-s4d1d1d2d2d1": {
+                                "css": "",
+                                "heading-s4d1d1d2d2d1h4": {
+                                    "css": "font-semibold",
+                                    "text": "Michael Chen",
+                                    "type": "h4"
+                                },
+                                "paragraph-s4d1d1d2d2d1p1": {
+                                    "css": "text-sm text-gray-600",
+                                    "text": "Business Owner"
+                                }
+                            }
+                        }
+                    },
+                    "div-s4d1d1d3": {
+                        "css": "rounded-lg border-2 border-gray-300 bg-white p-6 text-center shadow-md",
+                        "div-s4d1d1d3d1": {
+                            "css": "mb-4 flex items-center justify-center",
+                            "paragraph-s4d1d1d3d1p1": {
+                                "css": "mb-6 text-gray-600",
+                                "text": "⭐⭐⭐⭐⭐"
+                            }
+                        },
+                        "paragraph-s4d1d1d3p1": {
+                            "css": "mb-6 text-gray-600",
+                            "text": "Working with InteriorCraft has been amazing. Their designs significantly increase property values and attract buyers quickly."
+                        },
+                        "div-s4d1d1d3d2": {
+                            "css": "flex items-center justify-center",
+                            "Image-s4d1d1d3d2img1": {
+                                "src": "Image-s4d1d1d3d2img1.jpeg",
+                                "alt": "Sarah Williams",
+                                "width": "12",
+                                "height": "12",
+                                "css": "mr-4 h-12 w-12 rounded-full object-cover"
+                            },
+                            "div-s4d1d1d3d2d1": {
+                                "css": "",
+                                "heading-s4d1d1d3d2d1h4": {
+                                    "css": "font-semibold",
+                                    "text": "Sarah Williams",
+                                    "type": "h4"
+                                },
+                                "paragraph-s4d1d1d3d2d1p1": {
+                                    "css": "text-sm text-gray-600",
+                                    "text": "Real Estate Agent"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

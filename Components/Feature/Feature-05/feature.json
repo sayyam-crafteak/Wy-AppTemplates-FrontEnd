@@ -1,0 +1,200 @@
+{
+  "main": {
+    "css": "container mx-auto",
+    "section-1": {
+      "css": "text-gray-600  ",
+      "div-s1d1": {
+        "css": "container px-5 py-24 mx-auto",
+        "div-s1d1d1": {
+          "css": "text-center mb-20",
+          "heading-s1d1d1h1": {
+            "css": "sm:text-3xl text-2xl font-medium text-center   text-gray-900 mb-4",
+            "text": "Raw Denim Heirloom Man Braid",
+            "type": "h1"
+          },
+          "paragraph-s1d1d1p1": {
+            "css": "text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto",
+            "text": "Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine, ramps microdosing banh mi pug."
+          }
+        },
+        "div-s1d1d2": {
+          "css": "flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2",
+          "div-s1d1d2d1": {
+            "css": "p-2 sm:w-1/2 w-full",
+            "div-s1d1d2d1d1": {
+              "css": "bg-gray-100 rounded flex p-4 h-full items-center",
+              "svg-s1d1d2d1d1svg1": {
+                "css": "text-indigo-500 w-6 h-6 flex-shrink-0 mr-4",
+                "fill": "none",
+                "stroke": "currentColor",
+                "stroke_linecap": "round",
+                "stroke_linejoin": "round",
+                "stroke_width": "3",
+                "class": "text-indigo-500 w-6 h-6 flex-shrink-0 mr-4",
+                "viewbox": "0 0 24 24",
+                "path-s1d1d2d1d1svg1path1": {
+                  "d": "M22 11.08V12a10 10 0 11-5.93-9.14"
+                },
+                "path-s1d1d2d1d1svg1path2": {
+                  "d": "M22 4L12 14.01l-3-3"
+                }
+              },
+              "div-s1d1d2d1d1d1": {
+                "css": "  font-medium",
+                "paragraph-s1d1d2d1d1d1p1": {
+                  "css": "",
+                  "text": "Authentic Cliche Forage"
+                }
+              }
+            }
+          },
+          "div-s1d1d2d2": {
+            "css": "p-2 sm:w-1/2 w-full",
+            "div-s1d1d2d2d1": {
+              "css": "bg-gray-100 rounded flex p-4 h-full items-center",
+              "svg-s1d1d2d2d1svg1": {
+                "css": "text-indigo-500 w-6 h-6 flex-shrink-0 mr-4",
+                "fill": "none",
+                "stroke": "currentColor",
+                "stroke_linecap": "round",
+                "stroke_linejoin": "round",
+                "stroke_width": "3",
+                "class": "text-indigo-500 w-6 h-6 flex-shrink-0 mr-4",
+                "viewbox": "0 0 24 24",
+                "path-s1d1d2d2d1svg1path1": {
+                  "d": "M22 11.08V12a10 10 0 11-5.93-9.14"
+                },
+                "path-s1d1d2d2d1svg1path2": {
+                  "d": "M22 4L12 14.01l-3-3"
+                }
+              },
+              "div-s1d1d2d2d1d1": {
+                "css": "  font-medium",
+                "paragraph-s1d1d2d2d1d1p1": {
+                  "css": "",
+                  "text": "Kinfolk Chips Snackwave"
+                }
+              }
+            }
+          },
+          "div-s1d1d2d3": {
+            "css": "p-2 sm:w-1/2 w-full",
+            "div-s1d1d2d3d1": {
+              "css": "bg-gray-100 rounded flex p-4 h-full items-center",
+              "svg-s1d1d2d3d1svg1": {
+                "css": "text-indigo-500 w-6 h-6 flex-shrink-0 mr-4",
+                "fill": "none",
+                "stroke": "currentColor",
+                "stroke_linecap": "round",
+                "stroke_linejoin": "round",
+                "stroke_width": "3",
+                "class": "text-indigo-500 w-6 h-6 flex-shrink-0 mr-4",
+                "viewbox": "0 0 24 24",
+                "path-s1d1d2d3d1svg1path1": {
+                  "d": "M22 11.08V12a10 10 0 11-5.93-9.14"
+                },
+                "path-s1d1d2d3d1svg1path2": {
+                  "d": "M22 4L12 14.01l-3-3"
+                }
+              },
+              "div-s1d1d2d3d1d1": {
+                "css": "  font-medium",
+                "paragraph-s1d1d2d3d1d1p1": {
+                  "css": "",
+                  "text": "Coloring Book Ethical"
+                }
+              }
+            }
+          },
+          "div-s1d1d2d4": {
+            "css": "p-2 sm:w-1/2 w-full",
+            "div-s1d1d2d4d1": {
+              "css": "bg-gray-100 rounded flex p-4 h-full items-center",
+              "svg-s1d1d2d4d1svg1": {
+                "css": "text-indigo-500 w-6 h-6 flex-shrink-0 mr-4",
+                "fill": "none",
+                "stroke": "currentColor",
+                "stroke_linecap": "round",
+                "stroke_linejoin": "round",
+                "stroke_width": "3",
+                "class": "text-indigo-500 w-6 h-6 flex-shrink-0 mr-4",
+                "viewbox": "0 0 24 24",
+                "path-s1d1d2d4d1svg1path1": {
+                  "d": "M22 11.08V12a10 10 0 11-5.93-9.14"
+                },
+                "path-s1d1d2d4d1svg1path2": {
+                  "d": "M22 4L12 14.01l-3-3"
+                }
+              },
+              "div-s1d1d2d4d1d1": {
+                "css": "  font-medium",
+                "paragraph-s1d1d2d4d1d1p1": {
+                  "css": "",
+                  "text": "Typewriter Polaroid Cray"
+                }
+              }
+            }
+          },
+          "div-s1d1d2d5": {
+            "css": "p-2 sm:w-1/2 w-full",
+            "div-s1d1d2d5d1": {
+              "css": "bg-gray-100 rounded flex p-4 h-full items-center",
+              "svg-s1d1d2d5d1svg1": {
+                "css": "text-indigo-500 w-6 h-6 flex-shrink-0 mr-4",
+                "fill": "none",
+                "stroke": "currentColor",
+                "stroke_linecap": "round",
+                "stroke_linejoin": "round",
+                "stroke_width": "3",
+                "class": "text-indigo-500 w-6 h-6 flex-shrink-0 mr-4",
+                "viewbox": "0 0 24 24",
+                "path-s1d1d2d5d1svg1path1": {
+                  "d": "M22 11.08V12a10 10 0 11-5.93-9.14"
+                },
+                "path-s1d1d2d5d1svg1path2": {
+                  "d": "M22 4L12 14.01l-3-3"
+                }
+              },
+              "div-s1d1d2d5d1d1": {
+                "css": "  font-medium",
+                "paragraph-s1d1d2d5d1d1p1": {
+                  "css": "",
+                  "text": "Truffaut Blue"
+                }
+              }
+            }
+          },
+          "div-s1d1d2d6": {
+            "css": "p-2 sm:w-1/2 w-full",
+            "div-s1d1d2d6d1": {
+              "css": "bg-gray-100 rounded flex p-4 h-full items-center",
+              "svg-s1d1d2d6d1svg1": {
+                "css": "text-indigo-500 w-6 h-6 flex-shrink-0 mr-4",
+                "fill": "none",
+                "stroke": "currentColor",
+                "stroke_linecap": "round",
+                "stroke_linejoin": "round",
+                "stroke_width": "3",
+                "class": "text-indigo-500 w-6 h-6 flex-shrink-0 mr-4",
+                "viewbox": "0 0 24 24",
+                "path-s1d1d2d6d1svg1path1": {
+                  "d": "M22 11.08V12a10 10 0 11-5.93-9.14"
+                },
+                "path-s1d1d2d6d1svg1path2": {
+                  "d": "M22 4L12 14.01l-3-3"
+                }
+              },
+              "div-s1d1d2d6d1d1": {
+                "css": "  font-medium",
+                "paragraph-s1d1d2d6d1d1p1": {
+                  "css": "",
+                  "text": "The Catcher In The Rye"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

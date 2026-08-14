@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f8f9fa" rx="5" ry="5"/>
+  
+  <!-- Main Heading - bolder/larger skeleton -->
+  <rect x="200" y="20" width="400" height="30" rx="5" ry="5" fill="#e0e0e0"/>
+  
+  <!-- Paragraph text skeleton lines -->
+  <rect x="150" y="80" width="500" height="12" rx="3" ry="3" fill="#eeeeee"/>
+  <rect x="100" y="100" width="600" height="12" rx="3" ry="3" fill="#eeeeee"/>
+  <rect x="180" y="120" width="440" height="12" rx="3" ry="3" fill="#eeeeee"/>
+  <rect x="250" y="140" width="300" height="12" rx="3" ry="3" fill="#eeeeee"/>
+  
+  <!-- Card containers -->
+  <rect x="50" y="200" width="150" height="200" rx="5" ry="5" fill="#f1f1f1" stroke="#e0e0e0" stroke-width="1"/>
+  <rect x="230" y="200" width="150" height="200" rx="5" ry="5" fill="#f1f1f1" stroke="#e0e0e0" stroke-width="1"/>
+  <rect x="410" y="200" width="150" height="200" rx="5" ry="5" fill="#f1f1f1" stroke="#e0e0e0" stroke-width="1"/>
+  <rect x="590" y="200" width="150" height="200" rx="5" ry="5" fill="#f1f1f1" stroke="#e0e0e0" stroke-width="1"/>
+  
+  <!-- Card headings - bolder skeleton -->
+  <rect x="65" y="220" width="120" height="20" rx="3" ry="3" fill="#e0e0e0"/>
+  <rect x="245" y="220" width="120" height="20" rx="3" ry="3" fill="#e0e0e0"/>
+  <rect x="425" y="220" width="120" height="20" rx="3" ry="3" fill="#e0e0e0"/>
+  <rect x="605" y="220" width="120" height="20" rx="3" ry="3" fill="#e0e0e0"/>
+  
+  <!-- Card content text skeleton lines -->
+  <rect x="65" y="260" width="120" height="10" rx="3" ry="3" fill="#eeeeee"/>
+  <rect x="65" y="280" width="120" height="10" rx="3" ry="3" fill="#eeeeee"/>
+  <rect x="65" y="300" width="120" height="10" rx="3" ry="3" fill="#eeeeee"/>
+  
+  <rect x="245" y="260" width="120" height="10" rx="3" ry="3" fill="#eeeeee"/>
+  <rect x="245" y="280" width="120" height="10" rx="3" ry="3" fill="#eeeeee"/>
+  <rect x="245" y="300" width="120" height="10" rx="3" ry="3" fill="#eeeeee"/>
+  
+  <rect x="425" y="260" width="120" height="10" rx="3" ry="3" fill="#eeeeee"/>
+  <rect x="425" y="280" width="120" height="10" rx="3" ry="3" fill="#eeeeee"/>
+  <rect x="425" y="300" width="120" height="10" rx="3" ry="3" fill="#eeeeee"/>
+  
+  <rect x="605" y="260" width="120" height="10" rx="3" ry="3" fill="#eeeeee"/>
+  <rect x="605" y="280" width="120" height="10" rx="3" ry="3" fill="#eeeeee"/>
+  <rect x="605" y="300" width="120" height="10" rx="3" ry="3" fill="#eeeeee"/>
+  
+  <!-- "Learn More" button/link areas -->
+  <rect x="65" y="350" width="80" height="15" rx="3" ry="3" fill="#e0e0e0"/>
+  <rect x="245" y="350" width="80" height="15" rx="3" ry="3" fill="#e0e0e0"/>
+  <rect x="425" y="350" width="80" height="15" rx="3" ry="3" fill="#e0e0e0"/>
+  <rect x="605" y="350" width="80" height="15" rx="3" ry="3" fill="#e0e0e0"/>
+</svg>

@@ -1,0 +1,10 @@
+{
+  "organizationName": "WyApp",
+  "organizationLogo": "",
+  "pages": [
+    {
+      "pageName": "Home",
+      "pageId": "Home"
+    }
+  ]
+}

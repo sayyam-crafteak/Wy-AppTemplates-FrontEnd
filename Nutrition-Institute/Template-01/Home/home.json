@@ -1,0 +1,393 @@
+{
+    "main": {
+      "css": "container mx-auto px-6 pb-16 pt-6 space-y-4 bg-gradient-to-b from-green-50 to-yellow-50",
+      "section-1": {
+        "css": "flex flex-col sm:flex-row items-center justify-center gap-3 h-screen mb-8",
+        "div-s1d1": {
+          "css": "flex-1 space-y-3 max-w-2xl text-center sm:text-left",
+          "heading-s1d1h1": {
+            "text": "Transform Lives Through Nutrition",
+            "type": "h1",
+            "css": "text-6xl font-extrabold text-green-900  leading-tight"
+          },
+          "paragraph-s1d1p1": {
+            "text": "Empowering nutrition professionals with cutting-edge tools and resources for better client care and education.",
+            "css": "text-2xl font-bold text-gray-800 dark:text-gray-200 leading-relaxed"
+          }
+        },
+        "div-s1d2": {
+          "css": "flex-1 relative h-[500px] w-full rounded-3xl overflow-hidden shadow-2xl border border-gray-200",
+          "Image-s1d2img1": {
+            "src": "Image-s1d2img1.jpg",
+            "alt": "Nutrition Professional",
+            "width": "",
+            "height": "",
+            "css": "w-full h-full object-cover object-center transform hover:scale-105 transition-transform duration-300",
+            "directly_added_other_attributes": ""
+          }
+        }
+      },
+      "section-2": {
+        "css": "mb-8 px-4 sm:px-8",
+        "div-s2d1": {
+          "css": "flex flex-wrap justify-center gap-3",
+          "div-s2d1d1": {
+            "css": "text-center p-8 hover:shadow-xl transition-all duration-300 bg-white rounded-2xl flex flex-col items-center transform hover:-translate-y-2 border border-gray-200",
+            "div-s2d1d1d1": {
+              "css": "mx-auto w-16 h-16 rounded-full bg-green-100 dark:bg-green-900 flex items-center justify-center text-green-600 dark:text-green-400 mb-6",
+              "svg-s2d1d1d1svg1": {
+                "xmlns": "http://www.w3.org/2000/svg",
+                "width": "32",
+                "height": "32",
+                "viewBox": "0 0 24 24",
+                "fill": "none",
+                "stroke": "currentColor",
+                "stroke-width": "2",
+                "stroke-linecap": "round",
+                "stroke-linejoin": "round",
+                "class": "lucide lucide-users h-8 w-8",
+                "path-s2d1d1d1svg1path1": {
+                  "d": "M17 21v-2a4 4 0 0 0-4-4H7a4 4 0 0 0-4 4v2"
+                },
+                "circle-s2d1d1d1svg1circle1": {
+                  "cx": "9",
+                  "cy": "7",
+                  "r": "4"
+                },
+                "path-s2d1d1d1svg1path2": {
+                  "d": "M23 21v-2a4 4 0 0 0-3-3.87"
+                },
+                "path-s2d1d1d1svg1path3": {
+                  "d": "M16 3.13a4 4 0 0 1 0 7.75"
+                }
+              }
+            },
+            "heading-s2d1d1h1": {
+              "text": "10K+",
+              "type": "h3",
+              "css": "text-4xl font-bold text-gray-900 dark:text-white mb-3"
+            },
+            "paragraph-s2d1d1p1": {
+              "text": "Active Users",
+              "css": "text-lg font-bold text-gray-800 dark:text-gray-200"
+            }
+          },
+          "div-s2d1d2": {
+            "css": "text-center p-8 hover:shadow-xl transition-all duration-300 bg-white rounded-2xl flex flex-col items-center transform hover:-translate-y-2 border border-gray-200",
+            "div-s2d1d2d1": {
+              "css": "mx-auto w-16 h-16 rounded-full bg-green-100 dark:bg-green-900 flex items-center justify-center text-green-600 dark:text-green-400 mb-6",
+              "svg-s2d1d2d1svg1": {
+                "xmlns": "http://www.w3.org/2000/svg",
+                "width": "32",
+                "height": "32",
+                "viewBox": "0 0 24 24",
+                "fill": "none",
+                "stroke": "currentColor",
+                "stroke-width": "2",
+                "stroke-linecap": "round",
+                "stroke-linejoin": "round",
+                "class": "lucide lucide-users h-8 w-8",
+                "path-s2d1d2d1svg1path1": {
+                  "d": "m15.477 12.89 1.515 8.526a.5.5 0 0 1-.81.47l-3.58-2.687a1 1 0 0 0-1.197 0l-3.586 2.686a.5.5 0 0 1-.81-.469l1.514-8.526"
+                },
+                "circle-s2d1d2d1svg1circle1": {
+                  "cx": "12",
+                  "cy": "8",
+                  "r": "6"
+                }
+              }
+            },
+            "heading-s2d1d2h1": {
+              "text": "95%",
+              "type": "h3",
+              "css": "text-4xl font-bold text-gray-900 dark:text-white mb-3"
+            },
+            "paragraph-s2d1d2p1": {
+              "text": "Success Rate",
+              "css": "text-lg font-bold text-gray-800 dark:text-gray-200"
+            }
+          },
+          "div-s2d1d3": {
+            "css": "text-center p-8 hover:shadow-xl transition-all duration-300 bg-white rounded-2xl flex flex-col items-center transform hover:-translate-y-2 border border-gray-200",
+            "div-s2d1d3d1": {
+              "css": "mx-auto w-16 h-16 rounded-full bg-green-100 dark:bg-green-900 flex items-center justify-center text-green-600 dark:text-green-400 mb-6",
+              "svg-s2d1d3d1svg1": {
+                "xmlns": "http://www.w3.org/2000/svg",
+                "width": "32",
+                "height": "32",
+                "viewBox": "0 0 24 24",
+                "fill": "none",
+                "stroke": "currentColor",
+                "stroke-width": "2",
+                "stroke-linecap": "round",
+                "stroke-linejoin": "round",
+                "class": "lucide lucide-users h-8 w-8",
+                "polyline-s2d1d3d1svg1polyline1": {
+                  "points": "23 6 13.5 15.5 8.5 10.5 1 18"
+                },
+                "polyline-s2d1d3d1svg1polyline2": {
+                  "points": "17 6 23 6 23 12"
+                }
+              }
+            },
+            "heading-s2d1d3h1": {
+              "text": "50+",
+              "type": "h3",
+              "css": "text-4xl font-bold text-gray-900 dark:text-white mb-3"
+            },
+            "paragraph-s2d1d3p1": {
+              "text": "Countries",
+              "css": "text-lg font-bold text-gray-800 dark:text-gray-200"
+            }
+          }
+        },
+        "section-3": {
+          "css": "py-10",
+          "heading-s3h1": {
+            "text": "Why Choose Us",
+            "type": "h2",
+            "css": "text-4xl font-bold text-center my-12 text-green-900 "
+          },
+          "div-s3d1": {
+            "css": "grid sm:grid-cols-3 gap-3",
+            "div-s3d1d1": {
+              "css": "group hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 bg-white rounded-2xl p-8 border border-gray-200",
+              "type":"card",
+              "div-s3d1d1d1": {
+                "css": "text-center space-y-3",
+                "div-s3d1d1d1d1": {
+                  "css": "mx-auto w-16 h-16 rounded-full bg-green-100  flex items-center justify-center text-green-600  group-hover:scale-110 transition-transform duration-300",
+                  "svg-s3d1d1d1d1svg1": {
+                    "xmlns": "http://www.w3.org/2000/svg",
+                    "width": "32",
+                    "height": "32",
+                    "viewBox": "0 0 24 24",
+                    "fill": "none",
+                    "stroke": "currentColor",
+                    "stroke-width": "2",
+                    "stroke-linecap": "round",
+                    "stroke-linejoin": "round",
+                    "class": "lucide lucide-brain h-10 w-10",
+                    "path-s3d1d1d1d1svg1path1": {
+                      "d": "M15 8a3 3 0 0 0-2-2.83"
+                    },
+                    "path-s3d1d1d1d1svg1path2": {
+                      "d": "M9 8a3 3 0 0 1 2-2.83"
+                    },
+                    "path-s3d1d1d1d1svg1path3": {
+                      "d": "M15 16a3 3 0 0 1-2 2.83"
+                    },
+                    "path-s3d1d1d1d1svg1path4": {
+                      "d": "M9 16a3 3 0 0 0 2 2.83"
+                    },
+                    "path-s3d1d1d1d1svg1path5": {
+                      "d": "M8 12h8"
+                    },
+                    "path-s3d1d1d1d1svg1path6": {
+                      "d": "M10 9v6"
+                    },
+                    "path-s3d1d1d1d1svg1path7": {
+                      "d": "M14 9v6"
+                    },
+                    "path-s3d1d1d1d1svg1path8": {
+                      "d": "M17.73 19.73A2 2 0 0 0 20 18v-5.5a5 5 0 0 0-5-5H9a5 5 0 0 0-5 5V18a2 2 0 0 0 2.27 1.73"
+                    }
+                  }
+                },
+                "heading-s3d1d1d1h1": {
+                  "text": "Expert Knowledge",
+                  "type": "h3",
+                  "css": "text-2xl font-bold text-gray-900 dark:text-white mb-3"
+                },
+                "paragraph-s3d1d1d1p1": {
+                  "text": "Access to cutting-edge nutrition research and educational resources.",
+                  "css": "text-lg font-bold text-gray-800 dark:text-gray-200"
+                }
+              }
+            },
+            "div-s3d1d2": {
+              "css": "group hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 bg-white rounded-2xl p-8 border border-gray-200",
+              "type":"card",
+              "div-s3d1d2d1": {
+                "css": "text-center space-y-3",
+                "div-s3d1d2d1d1": {
+                  "css": "mx-auto w-16 h-16 rounded-full bg-green-100 dark:bg-green-900 flex items-center justify-center text-green-600 dark:text-green-400 group-hover:scale-110 transition-transform duration-300",
+                  "svg-s3d1d2d1d1svg1": {
+                    "xmlns": "http://www.w3.org/2000/svg",
+                    "width": "32",
+                    "height": "32",
+                    "viewBox": "0 0 24 24",
+                    "fill": "none",
+                    "stroke": "currentColor",
+                    "stroke-width": "2",
+                    "stroke-linecap": "round",
+                    "stroke-linejoin": "round",
+                    "class": "lucide lucide-heart h-10 w-10",
+                    "path-s3d1d2d1d1svg1path1": {
+                      "d": "M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.6l-1-1a5.5 5.5 0 1 0-7.8 7.8l1 1L12 21l7.8-7.8 1-1a5.5 5.5 0 0 0 0-7.8z"
+                    }
+                  }
+                },
+                "heading-s3d1d2d1h1": {
+                  "text": "Client-Centered",
+                  "type": "h3",
+                  "css": "text-2xl font-bold text-gray-900 dark:text-white mb-3"
+                },
+                "paragraph-s3d1d2d1p1": {
+                  "text": "Personalized solutions for effective client management and care.",
+                  "css": "text-lg font-bold text-gray-800 dark:text-gray-200"
+                }
+              }
+            },
+            "div-s3d1d3": {
+              "css": "group hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 bg-white rounded-2xl p-8 border border-gray-200",
+              "type":"card",
+              "div-s3d1d3d1": {
+                "css": "text-center space-y-3",
+                "div-s3d1d3d1d1": {
+                  "css": "mx-auto w-16 h-16 rounded-full bg-green-100 dark:bg-green-900 flex items-center justify-center text-green-600 dark:text-green-400 group-hover:scale-110 transition-transform duration-300",
+                  "svg-s3d1d1d1d1svg1": {
+                    "xmlns": "http://www.w3.org/2000/svg",
+                    "width": "32",
+                    "height": "32",
+                    "viewBox": "0 0 24 24",
+                    "fill": "none",
+                    "stroke": "currentColor",
+                    "stroke-width": "2",
+                    "stroke-linecap": "round",
+                    "stroke-linejoin": "round",
+                    "class": "lucide lucide-sprout h-10 w-10",
+                    "path-s3d1d1d1d1svg1path1": {
+                      "d": "M7 20h10"
+                    },
+                    "path-s3d1d1d1d1svg1path2": {
+                      "d": "M10 20c5.5-2.5.8-6.4 0-10"
+                    },
+                    "path-s3d1d1d1d1svg1path3": {
+                      "d": "M14 20c-5.5-2.5-.8-6.4 0-10"
+                    },
+                    "path-s3d1d1d1d1svg1path4": {
+                      "d": "M9 4a3 3 0 0 0 6 0"
+                    }
+                  }
+                },
+                "heading-s3d1d3d1h1": {
+                  "text": "Growth Focus",
+                  "type": "h3",
+                  "css": "text-2xl font-bold text-gray-900 dark:text-white mb-3"
+                },
+                "paragraph-s3d1d3d1p1": {
+                  "text": "Continuous learning and development opportunities for professionals.",
+                  "css": "text-lg font-bold text-gray-800 dark:text-gray-200"
+                }
+              }
+            }
+          }
+        },
+      "section-4": {
+        "css": "mb-8",
+        "heading-s4h1": {
+          "text": "Nutrition Facts",
+          "type": "h2",
+          "css": "text-4xl font-bold text-center mb-8 text-gray-900 "
+        },
+        "div-s4d1": {
+          "css": "grid grid-cols-1 sm:grid-cols-3 gap-3 max-w-7xl mx-auto",
+          "div-s4d1d1": {
+            "css": "transition-transform transform hover:scale-105 duration-300",
+            "type":"card",
+            "div-s4d1d1d1": {
+              "css": "overflow-hidden shadow-xl hover:shadow-2xl transition-shadow duration-300 bg-white rounded-2xl border border-gray-200 h-[28rem]",
+              "Image-s4d1d1d1img1": {
+                "src": "Image-s4d1d1d1img1.jpeg",
+                "alt": "Balanced Diet",
+                "width": "",
+                "height": "",
+                "css": "w-full h-64 object-cover object-center rounded-t-2xl",
+                "directly_added_other_attributes": ""
+              },
+              "div-s4d1d1d1d1": {
+                "css": "p-8 text-center",
+                "heading-s4d1d1d1d1h1": {
+                  "text": "Balanced Diet",
+                  "type": "h3",
+                  "css": "text-2xl font-bold mb-4 text-gray-900 dark:text-white"
+                },
+                "paragraph-s4d1d1d1d1p1": {
+                  "text": "A balanced diet includes over 40 different nutrients for good health.",
+                  "css": "text-lg font-bold text-gray-800 dark:text-gray-200"
+                }
+              }
+            }
+          },
+          "div-s4d1d2": {
+            "css": "transition-transform transform hover:scale-105 duration-300",
+            "type":"card",
+            "div-s4d1d2d1": {
+              "css": "overflow-hidden shadow-xl hover:shadow-2xl transition-shadow duration-300 bg-white rounded-2xl border border-gray-200 h-[28rem]",
+              "Image-s4d1d2d1img1": {
+                "src": "Image-s4d1d2d1img1.jpg",
+                "alt": "Hydration",
+                "width": "",
+                "height": "",
+                "css": "w-full h-64 object-cover object-center rounded-t-2xl",
+                "directly_added_other_attributes": ""
+              },
+              "div-s4d1d2d1d1": {
+                "css": "p-8 text-center",
+                "heading-s4d1d2d1d1h1": {
+                  "text": "Hydration",
+                  "type": "h3",
+                  "css": "text-2xl font-bold mb-4 text-gray-900 dark:text-white"
+                },
+                "paragraph-s4d1d2d1d1p1": {
+                  "text": "The body needs at least 8 glasses of water daily for optimal function.",
+                  "css": "text-lg font-bold text-gray-800 dark:text-gray-200"
+                }
+              }
+            }
+          },
+          "div-s4d1d3": {
+            "css": "transition-transform transform hover:scale-105 duration-300",
+           "type":"card",
+            "div-s4d1d3d1": {
+              "css": "overflow-hidden shadow-xl hover:shadow-2xl transition-shadow duration-300 bg-white rounded-2xl border border-gray-200 h-[28rem]",
+              "Image-s4d1d3d1img1": {
+                "src": "Image-s4d1d3d1img1.jpg",
+                "alt": "Portion Control",
+                "width": "",
+                "height": "",
+                "css": "w-full h-64 object-cover object-center rounded-t-2xl",
+                "directly_added_other_attributes": ""
+              },
+              "div-s4d1d3d1d1": {
+                "css": "p-8 text-center",
+                "heading-s4d1d3d1d1h1": {
+                  "text": "Portion Control",
+                  "type": "h3",
+                  "css": "text-2xl font-bold mb-4 text-gray-900 dark:text-white"
+                },
+                "paragraph-s4d1d3d1d1p1": {
+                  "text": "Proper portion control is key to maintaining a healthy weight.",
+                  "css": "text-lg font-bold text-gray-800 dark:text-gray-200"
+                }
+              }
+            }
+          }
+        }
+      },
+        "section-5": {
+          "css": "text-center bg-green-50  rounded-3xl p-16 my-8",
+          "heading-s5h1": {
+            "css": "text-4xl font-bold mb-8 text-green-900 ",
+            "text": "Ready to Start Your Journey?",
+            "type": "h2"
+          },
+          "paragraph-s5p1": {
+            "css": "text-2xl font-bold text-gray-800 dark:text-gray-200 mb-12",
+            "text": "Join thousands of nutrition professionals already using our platform."
+          }
+        }
+      }
+    }
+  }

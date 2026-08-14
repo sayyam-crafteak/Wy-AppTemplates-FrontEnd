@@ -1,0 +1,315 @@
+{
+    "main": {
+        "css": "",
+        "section-1": {
+            "css": "bg-gradient-to-b from-green-200 to-white pb-24",
+            "div-s1d1": {
+                "css": "mx-auto px-6 pt-24",
+                "div-s1d1d1": {
+                    "css": "flex flex-col items-center sm:flex-row",
+                    "div-s1d1d1d1": {
+                        "css": "mb-10 p-8 sm:mb-0 sm:w-1/3",
+                        "heading-s1d1d1d1h1": {
+                            "css": "mb-6 text-fontSize leading-tight font-fontWeight text-italic text-underline text-textPrimary sm:pr-8 sm:text-smFontSize",
+                            "text": "Nourish Your Body, Elevate Your Life",
+                            "type": "h1"
+                        },
+                        "paragraph-s1d1d1d1p1": {
+                            "css": "mb-8 text-fontSize leading-relaxed text-textSecondary",
+                            "text": "Discover personalized nutrition plans tailored to your unique needs and goals."
+                        },
+                        "paragraph-s1d1d1d1p2": {
+                            "css": "cursor-pointer text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                            "text": "Start Your Journey !!!"
+                        }
+                    },
+                    "div-s1d1d1d2": {
+                        "css": "sm:w-1/2",
+                        "Image-s1d1d1d2img1": {
+                            "src": "Image-s1d1d1d2img1.jpeg",
+                            "alt": "Healthy Food Spread",
+                            "width": "650",
+                            "height": "550",
+                            "css": "rounded-3xl object-cover shadow-2xl"
+                        }
+                    }
+                }
+            }
+        },
+        "section-2": {
+            "css": "bg-backgroundSecondary py-24",
+            "div-s2d1": {
+                "css": "mx-auto px-6",
+                "heading-s2d1h2": {
+                    "css": "mb-16 text-center text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                    "text": "Our Expertise",
+                    "type": "h2"
+                },
+                "div-s2d1d1": {
+                    "css": "grid grid-cols-1 gap-4 px-10 sm:grid-cols-3",
+                    "div-s2d1d1d1": {
+                        "css": "rounded-2xl bg-backgroundPrimary p-8 shadow-lg transition-all duration-300 hover:-translate-y-1 hover:shadow-xl",
+                        "div-s2d1d1d1d1": {
+                            "css": "mb-6 text-fontSize text-textSecondary"
+                        },
+                        "heading-s2d1d1d1h3": {
+                            "css": "mb-4 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                            "text": "Personalized Meal Plans",
+                            "type": "h3"
+                        },
+                        "paragraph-s2d1d1d1p1": {
+                            "css": "leading-relaxed text-textSecondary",
+                            "text": "Tailored nutrition strategies designed to fit your lifestyle and preferences."
+                        }
+                    },
+                    "div-s2d1d1d2": {
+                        "css": "rounded-2xl bg-backgroundPrimary p-8 shadow-lg transition-all duration-300 hover:-translate-y-1 hover:shadow-xl",
+                        "div-s2d1d1d2d1": {
+                            "css": "mb-6 text-fontSize text-textSecondary"
+                        },
+                        "heading-s2d1d1d2h3": {
+                            "css": "mb-4 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                            "text": "Fitness Integration",
+                            "type": "h3"
+                        },
+                        "paragraph-s2d1d1d2p1": {
+                            "css": "leading-relaxed text-textSecondary",
+                            "text": "Seamlessly combine nutrition with your exercise routine for optimal results."
+                        }
+                    },
+                    "div-s2d1d1d3": {
+                        "css": "rounded-2xl bg-backgroundPrimary p-8 shadow-lg transition-all duration-300 hover:-translate-y-1 hover:shadow-xl",
+                        "div-s2d1d1d3d1": {
+                            "css": "mb-6 text-fontSize text-textSecondary"
+                        },
+                        "heading-s2d1d1d3h3": {
+                            "css": "mb-4 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                            "text": "Mindful Eating Coaching",
+                            "type": "h3"
+                        },
+                        "paragraph-s2d1d1d3p1": {
+                            "css": "leading-relaxed text-textSecondary",
+                            "text": "Learn to develop a healthy relationship with food and your body."
+                        }
+                    }
+                }
+            }
+        },
+        "section-3": {
+            "css": "bg-gradient-to-b from-green-400 to-green-200 py-24",
+            "div-s3d1": {
+                "css": "mx-auto px-6",
+                "heading-s3d1h2": {
+                    "css": "mb-16 text-center text-fontSize font-fontWeight text-italic text-underline text-white",
+                    "text": "Transforming Lives",
+                    "type": "h2"
+                },
+                "div-s3d1d1": {
+                    "css": "grid grid-cols-1 gap-4 text-center sm:grid-cols-4",
+                    "div-s3d1d1d1": {
+                        "css": "rounded-2xl bg-backgroundSecondary p-8 shadow-lg",
+                        "div-s3d1d1d1d1": {
+                            "css": "mb-2"
+                        },
+                        "paragraph-s3d1d1d1p1": {
+                            "css": "text-fontSize text-textSecondary",
+                            "text": "Satisfied Clients"
+                        },
+                        "paragraph-s3d1d1d1p2": {
+                            "css": "text-fontSize text-textPrimary",
+                            "text": "100+"
+                        }
+                    },
+                    "div-s3d1d1d2": {
+                        "css": "rounded-2xl bg-backgroundSecondary p-8 shadow-lg",
+                        "div-s3d1d1d2d1": {
+                            "css": "mb-2"
+                        },
+                        "paragraph-s3d1d1d2p1": {
+                            "css": "text-fontSize text-textSecondary",
+                            "text": "Expert Nutritionists"
+                        },
+                        "paragraph-s3d1d1d2p2": {
+                            "css": "text-fontSize text-textPrimary",
+                            "text": "A+"
+                        }
+                    },
+                    "div-s3d1d1d3": {
+                        "css": "rounded-2xl bg-backgroundSecondary p-8 shadow-lg",
+                        "div-s3d1d1d3d1": {
+                            "css": "mb-2"
+                        },
+                        "paragraph-s3d1d1d3p1": {
+                            "css": "text-fontSize text-textSecondary",
+                            "text": "Success Rate"
+                        },
+                        "paragraph-s3d1d1d3p2": {
+                            "css": "text-fontSize text-textPrimary",
+                            "text": "90%"
+                        }
+                    },
+                    "div-s3d1d1d4": {
+                        "css": "rounded-2xl bg-backgroundSecondary p-8 shadow-lg",
+                        "div-s3d1d1d4d1": {
+                            "css": "mb-2"
+                        },
+                        "paragraph-s3d1d1d4p1": {
+                            "css": "text-fontSize text-textSecondary",
+                            "text": "Years of Excellence"
+                        },
+                        "paragraph-s3d1d1d4p2": {
+                            "css": "text-fontSize text-textPrimary",
+                            "text": "10+"
+                        }
+                    }
+                }
+            }
+        },
+        "section-4": {
+            "css": "bg-backgroundSecondary py-24",
+            "div-s4d1": {
+                "css": "mx-auto px-6",
+                "heading-s4d1h2": {
+                    "css": "mb-16 text-center text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                    "text": "Success Stories",
+                    "type": "h2"
+                },
+                "div-s4d1d1": {
+                    "css": "grid grid-cols-1 gap-6 sm:grid-cols-3",
+                    "div-s4d1d1d1": {
+                        "css": "rounded-2xl bg-backgroundPrimary p-8 shadow-lg transition-all duration-300 hover:shadow-xl",
+                        "Image-s4d1d1d1img1": {
+                            "src": "Image-s4d1d1d1img1.jpeg",
+                            "alt": "Sarah Johnson",
+                            "css": "mx-auto mb-6 h-24 w-24 rounded-full border-4 border-green-400 object-cover"
+                        },
+                        "heading-s4d1d1d1h4": {
+                            "css": "text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                            "text": "Sarah Johnson",
+                            "type": "h4"
+                        },
+                        "paragraph-s4d1d1d1p1": {
+                            "css": "text-textSecondary",
+                            "text": "Lost 30 lbs and gained confidence"
+                        }
+                    },
+                    "div-s4d1d1d2": {
+                        "css": "rounded-2xl bg-backgroundPrimary p-8 shadow-lg transition-all duration-300 hover:shadow-xl",
+                        "Image-s4d1d1d2img1": {
+                            "src": "Image-s4d1d1d2img1.jpeg",
+                            "alt": "Michael Chen",
+                            "css": "mx-auto mb-6 h-24 w-24 rounded-full border-4 border-green-400 object-cover"
+                        },
+                        "heading-s4d1d1d2h4": {
+                            "css": "text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                            "text": "Michael Chen",
+                            "type": "h4"
+                        },
+                        "paragraph-s4d1d1d2p1": {
+                            "css": "text-textSecondary",
+                            "text": "Gained lean muscle mass"
+                        }
+                    },
+                    "div-s4d1d1d3": {
+                        "css": "rounded-2xl bg-backgroundPrimary p-8 shadow-lg transition-all duration-300 hover:shadow-xl",
+                        "Image-s4d1d1d3img1": {
+                            "src": "Image-s4d1d1d3img1.jpeg",
+                            "alt": "Emma Davis",
+                            "css": "mx-auto mb-6 h-24 w-24 rounded-full border-4 border-green-400 object-cover"
+                        },
+                        "heading-s4d1d1d3h4": {
+                            "css": "text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                            "text": "Emma Davis",
+                            "type": "h4"
+                        },
+                        "paragraph-s4d1d1d3p1": {
+                            "css": "text-textSecondary",
+                            "text": "Boosted energy and well-being"
+                        }
+                    }
+                }
+            }
+        },
+        "section-5": {
+            "css": "bg-backgroundPrimary py-24",
+            "div-s5d1": {
+                "css": "mx-auto px-6",
+                "heading-s5d1h2": {
+                    "css": "mb-16 text-center text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                    "text": "Meet Our Expert Team",
+                    "type": "h2"
+                },
+                "div-s5d1d1": {
+                    "css": "grid grid-cols-1 gap-6 sm:grid-cols-3",
+                    "div-s5d1d1d1": {
+                        "css": "rounded-2xl bg-backgroundSecondary p-8 text-center shadow-lg transition-all duration-300 hover:shadow-xl",
+                        "Image-s5d1d1d1img1": {
+                            "src": "Image-s5d1d1d1img1.jpeg",
+                            "css": "mx-auto mb-6 h-32 w-32 rounded-full border-4 border-green-400 object-cover"
+                        },
+                        "paragraph-s5d1d1d1p1": {
+                            "css": "mb-4 font-fontWeight text-italic text-underline text-textSecondary",
+                            "text": "Lead Nutritionist"
+                        },
+                        "paragraph-s5d1d1d1p2": {
+                            "css": "leading-relaxed text-textSecondary",
+                            "text": "Specializes in metabolic health and weight management with over 15 years of experience."
+                        }
+                    },
+                    "div-s5d1d1d2": {
+                        "css": "rounded-2xl bg-backgroundSecondary p-8 text-center shadow-lg transition-all duration-300 hover:shadow-xl",
+                        "Image-s5d1d1d2img1": {
+                            "src": "Image-s5d1d1d2img1.jpeg",
+                            "css": "mx-auto mb-6 h-32 w-32 rounded-full border-4 border-green-400 object-cover"
+                        },
+                        "paragraph-s5d1d1d2p1": {
+                            "css": "mb-4 font-fontWeight text-italic text-underline text-textSecondary",
+                            "text": "Sports Nutrition Specialist"
+                        },
+                        "paragraph-s5d1d1d2p2": {
+                            "css": "leading-relaxed text-textSecondary",
+                            "text": "Expert in optimizing athletic performance through tailored nutrition strategies."
+                        }
+                    },
+                    "div-s5d1d1d3": {
+                        "css": "rounded-2xl bg-backgroundSecondary p-8 text-center shadow-lg transition-all duration-300 hover:shadow-xl",
+                        "Image-s5d1d1d3img1": {
+                            "src": "Image-s5d1d1d3img1.jpeg",
+                            "css": "mx-auto mb-6 h-32 w-32 rounded-full border-4 border-green-400 object-cover"
+                        },
+                        "paragraph-s5d1d1d3p1": {
+                            "css": "mb-4 font-fontWeight text-italic text-underline text-textSecondary",
+                            "text": "Clinical Dietitian"
+                        },
+                        "paragraph-s5d1d1d3p2": {
+                            "css": "leading-relaxed text-textSecondary",
+                            "text": "Specializes in therapeutic diets and managing chronic health conditions through nutrition."
+                        }
+                    }
+                }
+            }
+        },
+        "section-6": {
+            "css": "bg-backgroundSecondary py-24",
+            "div-s6d1": {
+                "css": "mx-auto px-6",
+                "heading-s6d1h2": {
+                    "css": "mb-16 text-center text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                    "text": "Start Your Journey Today",
+                    "type": "h2"
+                },
+                "div-s6d1d1": {
+                    "css": "mx-auto max-w-2xl text-center",
+                    "paragraph-s6d1d1p1": {
+                        "css": "mb-8 text-fontSize leading-relaxed text-textSecondary",
+                        "text": "Take the first step towards a healthier, more vibrant you. Our expert team is ready to create a personalized nutrition plan that fits your unique needs and goals."
+                    },
+                    "paragraph-s6d1d1p2": {
+                        "css": "inline-block rounded-full bg-backgroundPrimary px-8 py-3 text-fontSize font-fontWeight text-italic text-underline text-textPrimary transition duration-300 hover:bg-backgroundSecondary",
+                        "text": "Schedule a Consultation"
+                    }
+                }
+            }
+        }
+    }
+}

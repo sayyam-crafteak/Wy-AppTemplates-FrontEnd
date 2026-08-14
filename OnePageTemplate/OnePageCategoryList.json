@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Blog",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "title": "Pricing",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "title": "Testimonials",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "title": "Services",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "title": "AboutUs",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "title": "Gallery",
+    "description": ""
+  }
+]

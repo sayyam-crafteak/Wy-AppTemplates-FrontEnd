@@ -1,0 +1,571 @@
+{
+  "main": {
+    "css": "",
+    "section-1": {
+      "css": "bg-backgroundPrimary py-20 sm:py-32",
+      "div-s1d1": {
+        "css": "mx-auto max-w-7xl px-4 sm:px-6 sm:px-8",
+        "div-s1d1d1": {
+          "css": "grid items-center gap-12 sm:grid-cols-2",
+          "div-s1d1d1d1": {
+            "css": "",
+            "heading-s1d1d1d1h1": {
+              "css": "mb-6 text-fontSize text-textPrimary leading-tight font-fontWeight sm:text-smFontSize",
+              "text": "Senior Marketing Director & Strategy Leader",
+              "type": "h1"
+            },
+            "paragraph-s1d1d1d1p1": {
+              "css": "mb-8 text-fontSize leading-relaxed text-textSecondary sm:text-smFontSize",
+              "text": "Driving revenue growth and market expansion through data-driven strategies and innovative campaign management for Fortune 500 companies."
+            },
+            "div-s1d1d1d1d1": {
+              "css": "flex flex-col gap-4 sm:flex-row",
+              "div-s1d1d1d1d1d1": {
+                "css": "w-fit rounded-lg bg-backgroundSecondary p-2",
+                "a-s1d1d1d1d1d1a1": {
+                  "href": "#contact",
+                  "css": "",
+                  "paragraph-s1d1d1d1d1d1a1p1": {
+                    "css": "px-4 py-2 text-fontSize text-textPrimary",
+                    "text": "View My Work"
+                  }
+                }
+              },
+              "div-s1d1d1d1d1d2": {
+                "css": "w-fit rounded-lg border-2 border-white bg-backgroundSecondary p-2",
+                "a-s1d1d1d1d1d2a1": {
+                  "href": "#experience",
+                  "css": "",
+                  "paragraph-s1d1d1d1d1d2a1p1": {
+                    "css": "px-4 py-2 text-fontSize text-textPrimary",
+                    "text": "Download Resume"
+                  }
+                }
+              }
+            }
+          },
+          "div-s1d1d1d2": {
+            "css": "flex justify-center",
+            "Image-s1d1d1d2img1": {
+              "src": "Image-s1d1d1d2img1.jpg",
+              "alt": "Professional headshot",
+              "css": "h-96 w-80 rounded-2xl object-cover shadow-2xl"
+            }
+          }
+        }
+      }
+    },
+    "section-2": {
+      "css": "bg-backgroundSecondary py-20",
+      "div-s2d1": {
+        "css": "mx-auto max-w-7xl px-4 sm:px-6 sm:px-8",
+        "div-s2d1d1": {
+          "css": "mb-16 text-center",
+          "heading-s2d1d1h2": {
+            "css": "mb-4 text-fontSize font-fontWeight text-textPrimary sm:text-smFontSize",
+            "text": "Core Competencies",
+            "type": "h2"
+          },
+          "paragraph-s2d1d1p1": {
+            "css": "mx-auto max-w-3xl text-fontSize text-textSecondary",
+            "text": "Proven expertise across strategic marketing, team leadership, and business development with measurable results."
+          }
+        },
+        "div-s2d1d2": {
+          "css": "grid gap-8 sm:grid-cols-2 sm:grid-cols-3",
+          "div-s2d1d2d1": {
+            "css": "rounded-xl bg-backgroundSecondary p-8 transition-shadow hover:shadow-lg",
+            "svg-s2d1d2d1svg1": {
+              "stroke": "currentColor",
+              "fill": "none",
+              "xmlns": "http://www.w3.org/2000/svg",
+              "css": "mb-4 h-12 w-12 text-textSecondary",
+              "path-s2d1d2d1svg1path1": {
+                "d": "M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z",
+                "css": ""
+              }
+            },
+            "heading-s2d1d2d1h3": {
+              "css": "mb-3 text-fontSize font-fontWeight text-textPrimary",
+              "text": "Strategic Planning",
+              "type": "h3"
+            },
+            "paragraph-s2d1d2d1p1": {
+              "css": "text-textSecondary",
+              "text": "Developed comprehensive marketing strategies that increased revenue by 45% across multiple product lines."
+            }
+          },
+          "div-s2d1d2d2": {
+            "css": "rounded-xl bg-backgroundSecondary p-8 transition-shadow hover:shadow-lg",
+            "svg-s2d1d2d2svg1": {
+              "stroke": "currentColor",
+              "fill": "none",
+              "xmlns": "http://www.w3.org/2000/svg",
+              "css": "mb-4 h-12 w-12 text-textSecondary",
+              "path-s2d1d2d2svg1path1": {
+                "d": "M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z",
+                "css": ""
+              }
+            },
+            "heading-s2d1d2d2h3": {
+              "css": "mb-3 text-fontSize font-fontWeight text-textPrimary",
+              "text": "Team Leadership",
+              "type": "h3"
+            },
+            "paragraph-s2d1d2d2p1": {
+              "css": "text-textSecondary",
+              "text": "Successfully managed cross-functional teams of 25+ professionals across marketing, sales, and analytics departments."
+            }
+          },
+          "div-s2d1d2d3": {
+            "css": "rounded-xl bg-backgroundSecondary p-8 transition-shadow hover:shadow-lg",
+            "svg-s2d1d2d3svg1": {
+              "stroke": "currentColor",
+              "fill": "none",
+              "xmlns": "http://www.w3.org/2000/svg",
+              "css": "mb-4 h-12 w-12 text-textSecondary",
+              "path-s2d1d2d3svg1path1": {
+                "d": "M16 8v8m-4-5v5m-4-2v2m-2 4h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z",
+                "css": ""
+              }
+            },
+            "heading-s2d1d2d3h3": {
+              "css": "mb-3 text-fontSize font-fontWeight text-textPrimary",
+              "text": "Data Analytics",
+              "type": "h3"
+            },
+            "paragraph-s2d1d2d3p1": {
+              "css": "text-textSecondary",
+              "text": "Expert in leveraging advanced analytics tools to drive decision-making and optimize campaign performance."
+            }
+          },
+          "div-s2d1d2d4": {
+            "css": "rounded-xl bg-backgroundSecondary p-8 transition-shadow hover:shadow-lg",
+            "svg-s2d1d2d4svg1": {
+              "stroke": "currentColor",
+              "fill": "none",
+              "xmlns": "http://www.w3.org/2000/svg",
+              "css": "mb-4 h-12 w-12 text-textSecondary",
+              "path-s2d1d2d4svg1path1": {
+                "d": "M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z",
+                "css": ""
+              }
+            },
+            "heading-s2d1d2d4h3": {
+              "css": "mb-3 text-fontSize font-fontWeight text-textPrimary",
+              "text": "Global Markets",
+              "type": "h3"
+            },
+            "paragraph-s2d1d2d4p1": {
+              "css": "text-textSecondary",
+              "text": "Led international expansion initiatives across 12 countries, generating $50M+ in new market revenue."
+            }
+          },
+          "div-s2d1d2d5": {
+            "css": "rounded-xl bg-backgroundSecondary p-8 transition-shadow hover:shadow-lg",
+            "svg-s2d1d2d5svg1": {
+              "stroke": "currentColor",
+              "fill": "none",
+              "xmlns": "http://www.w3.org/2000/svg",
+              "css": "mb-4 h-12 w-12 text-textSecondary",
+              "path-s2d1d2d5svg1path1": {
+                "d": "M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253",
+                "css": ""
+              }
+            },
+            "heading-s2d1d2d5h3": {
+              "css": "mb-3 text-fontSize font-fontWeight text-textPrimary",
+              "text": "Executive Education",
+              "type": "h3"
+            },
+            "paragraph-s2d1d2d5p1": {
+              "css": "text-textSecondary",
+              "text": "MBA from Wharton School with specialized certifications in Digital Marketing and Business Strategy."
+            }
+          },
+          "div-s2d1d2d6": {
+            "css": "rounded-xl bg-backgroundSecondary p-8 transition-shadow hover:shadow-lg",
+            "svg-s2d1d2d6svg1": {
+              "stroke": "currentColor",
+              "fill": "none",
+              "xmlns": "http://www.w3.org/2000/svg",
+              "css": "mb-4 h-12 w-12 text-textSecondary",
+              "path-s2d1d2d6svg1path1": {
+                "d": "M13 10V3L4 14h7v7l9-11h-7z",
+                "css": ""
+              }
+            },
+            "heading-s2d1d2d6h3": {
+              "css": "mb-3 text-fontSize font-fontWeight text-textPrimary",
+              "text": "Innovation Leadership",
+              "type": "h3"
+            },
+            "paragraph-s2d1d2d6p1": {
+              "css": "text-textSecondary",
+              "text": "Pioneered breakthrough marketing technologies and automation systems adopted company-wide."
+            }
+          }
+        }
+      }
+    },
+    "section-3": {
+      "css": "bg-backgroundSecondary py-20",
+      "div-s3d1": {
+        "css": "mx-auto max-w-7xl px-4 sm:px-6 sm:px-8",
+        "div-s3d1d1": {
+          "css": "grid items-center gap-16 sm:grid-cols-2",
+          "div-s3d1d1d1": {
+            "css": "",
+            "heading-s3d1d1d1h2": {
+              "css": "mb-6 text-fontSize font-fontWeight text-textPrimary sm:text-smFontSize",
+              "text": "Professional Journey",
+              "type": "h2"
+            },
+            "paragraph-s3d1d1d1p1": {
+              "css": "mb-8 text-fontSize leading-relaxed text-textSecondary",
+              "text": "With over 12 years of progressive experience in marketing leadership, I've built my career driving transformational growth for industry-leading organizations."
+            },
+            "div-s3d1d1d1d1": {
+              "css": "space-y-6",
+              "div-s3d1d1d1d1d1": {
+                "css": "rounded-lg bg-backgroundSecondary p-6 shadow-md",
+                "heading-s3d1d1d1d1d1h3": {
+                  "css": "mb-2 text-fontSize font-fontWeight text-textPrimary",
+                  "text": "Senior Marketing Director",
+                  "type": "h3"
+                },
+                "paragraph-s3d1d1d1d1d1p1": {
+                  "css": "mb-2 font-fontWeight text-textSecondary",
+                  "text": "TechCorp Industries | 2020 - Present"
+                },
+                "ul-s3d1d1d1d1d1u1": {
+                  "css": "space-y-1",
+                  "li-s3d1d1d1d1d1u1li1": {
+                    "css": "text-textSecondary",
+                    "text": "• Led $120M marketing budget across 15 product lines"
+                  },
+                  "li-s3d1d1d1d1d1u1li2": {
+                    "css": "text-textSecondary",
+                    "text": "• Increased market share by 32% in competitive landscape"
+                  },
+                  "li-s3d1d1d1d1d1u1li3": {
+                    "css": "text-textSecondary",
+                    "text": "• Implemented AI-driven customer segmentation strategies"
+                  }
+                }
+              },
+              "div-s3d1d1d1d1d2": {
+                "css": "rounded-lg bg-backgroundSecondary p-6 shadow-md",
+                "heading-s3d1d1d1d1d2h3": {
+                  "css": "mb-2 text-fontSize font-fontWeight text-textPrimary",
+                  "text": "Marketing Manager",
+                  "type": "h3"
+                },
+                "paragraph-s3d1d1d1d1d2p1": {
+                  "css": "mb-2 font-fontWeight text-textSecondary",
+                  "text": "Global Solutions Ltd | 2017 - 2020"
+                },
+                "ul-s3d1d1d1d1d2u1": {
+                  "css": "space-y-1",
+                  "li-s3d1d1d1d1d2u1li1": {
+                    "css": "text-textSecondary",
+                    "text": "• Launched 8 successful product campaigns generating $75M revenue"
+                  },
+                  "li-s3d1d1d1d1d2u1li2": {
+                    "css": "text-textSecondary",
+                    "text": "• Built integrated marketing team from 5 to 20 professionals"
+                  },
+                  "li-s3d1d1d1d1d2u1li3": {
+                    "css": "text-textSecondary",
+                    "text": "• Achieved 95% customer retention rate through targeted initiatives"
+                  }
+                }
+              }
+            }
+          },
+          "div-s3d1d1d2": {
+            "css": "space-y-8",
+            "Image-s3d1d1d2img1": {
+              "src": "Image-s3d1d1d2img1.jpg",
+              "alt": "Professional team meeting",
+              "css": "h-64 w-full rounded-xl object-cover shadow-lg"
+            },
+            "div-s3d1d1d2d1": {
+              "css": "rounded-xl bg-backgroundPrimary p-8 text-textPrimary",
+              "heading-s3d1d1d2d1h3": {
+                "css": "mb-4 text-fontSize font-fontWeight",
+                "text": "Key Achievements",
+                "type": "h3"
+              },
+              "ul-s3d1d1d2d1u1": {
+                "css": "space-y-3",
+                "li-s3d1d1d2d1u1li1": {
+                  "css": "flex items-center",
+                  "text": "Marketing Excellence Award 2023",
+                  "paragraph-s3d1d1d2d1u1li1p1": {
+                    "css": "",
+                    "text": "Marketing Excellence Award 2023"
+                  }
+                },
+                "li-s3d1d1d2d1u1li2": {
+                  "css": "flex items-center",
+                  "text": "Top 40 Under 40 Business Leaders",
+                  "paragraph-s3d1d1d2d1u1li2p1": {
+                    "css": "",
+                    "text": "Top 40 Under 40 Business Leaders"
+                  }
+                },
+                "li-s3d1d1d2d1u1li3": {
+                  "css": "flex items-center",
+                  "text": "Innovation Leadership Recognition",
+                  "paragraph-s3d1d1d2d1u1li3p1": {
+                    "css": "",
+                    "text": "Innovation Leadership Recognition"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "section-4": {
+      "css": "bg-backgroundSecondary py-20",
+      "div-s4d1": {
+        "css": "mx-auto max-w-7xl px-4 sm:px-6 sm:px-8",
+        "div-s4d1d1": {
+          "css": "mb-16 text-center",
+          "heading-s4d1d1h2": {
+            "css": "mb-4 text-fontSize font-fontWeight text-textPrimary sm:text-smFontSize",
+            "text": "Education & Credentials",
+            "type": "h2"
+          },
+          "paragraph-s4d1d1p1": {
+            "css": "mx-auto max-w-3xl text-fontSize text-textSecondary",
+            "text": "Continuous learning and professional development from world-class institutions."
+          }
+        },
+        "div-s4d1d2": {
+          "css": "grid gap-12 sm:grid-cols-2",
+          "div-s4d1d2d1": {
+            "css": "space-y-8",
+            "div-s4d1d2d1d1": {
+              "css": "rounded-xl bg-backgroundSecondary p-8",
+              "Image-s4d1d2d1d1img1": {
+                "src": "Image-s4d1d2d1d1img1.jpg",
+                "alt": "University campus",
+                "css": "mb-6 h-40 w-full rounded-lg object-cover"
+              },
+              "heading-s4d1d2d1d1h3": {
+                "css": "mb-2 text-fontSize font-fontWeight text-textPrimary",
+                "text": "Master of Business Administration",
+                "type": "h3"
+              },
+              "paragraph-s4d1d2d1d1p1": {
+                "css": "mb-2 font-fontWeight text-textSecondary",
+                "text": "Wharton School, University of Pennsylvania"
+              },
+              "paragraph-s4d1d2d1d1p2": {
+                "css": "text-textSecondary",
+                "text": "Concentration in Marketing Strategy & Consumer Behavior"
+              },
+              "paragraph-s4d1d2d1d1p3": {
+                "css": "mt-2 text-fontSize text-textSecondary",
+                "text": "Graduated Magna Cum Laude | 2016"
+              }
+            },
+            "div-s4d1d2d1d2": {
+              "css": "rounded-xl bg-backgroundSecondary p-8",
+              "heading-s4d1d2d1d2h3": {
+                "css": "mb-2 text-fontSize font-fontWeight text-textPrimary",
+                "text": "Bachelor of Arts",
+                "type": "h3"
+              },
+              "paragraph-s4d1d2d1d2p1": {
+                "css": "mb-2 font-fontWeight text-textSecondary",
+                "text": "Northwestern University"
+              },
+              "paragraph-s4d1d2d1d2p2": {
+                "css": "text-textSecondary",
+                "text": "Economics & Communications Studies"
+              },
+              "paragraph-s4d1d2d1d2p3": {
+                "css": "mt-2 text-fontSize text-textSecondary",
+                "text": "Summa Cum Laude | Phi Beta Kappa | 2013"
+              }
+            }
+          },
+          "div-s4d1d2d2": {
+            "css": "space-y-8",
+            "div-s4d1d2d2d1": {
+              "css": "rounded-xl bg-backgroundSecondary p-8",
+              "Image-s4d1d2d2d1img1": {
+                "src": "Image-s4d1d2d2d1img1.jpg",
+                "alt": "Digital marketing workspace",
+                "css": "mb-6 h-40 w-full rounded-lg object-cover"
+              },
+              "heading-s4d1d2d2d1h3": {
+                "css": "mb-4 text-fontSize font-fontWeight text-textPrimary",
+                "text": "Professional Certifications",
+                "type": "h3"
+              },
+              "ul-s4d1d2d2d1u1": {
+                "css": "space-y-3",
+                "li-s4d1d2d2d1u1li1": {
+                  "css": "flex items-center",
+                  "text": "Google Analytics Individual Qualification",
+                  "paragraph-s4d1d2d2d1u1li1p1": {
+                    "css": "text-textSecondary",
+                    "text": "Google Analytics Individual Qualification"
+                  }
+                },
+                "li-s4d1d2d2d1u1li2": {
+                  "css": "flex items-center text-textSecondary",
+                  "text": "HubSpot Content Marketing Certification",
+                  "paragraph-s4d1d2d2d1u1li2p1": {
+                    "css": "",
+                    "text": "HubSpot Content Marketing Certification"
+                  }
+                },
+                "li-s4d1d2d2d1u1li3": {
+                  "css": "flex items-center text-textSecondary",
+                  "text": "Project Management Professional (PMP)",
+                  "paragraph-s4d1d2d2d1u1li3p1": {
+                    "css": "",
+                    "text": "Project Management Professional (PMP)"
+                  }
+                },
+                "li-s4d1d2d2d1u1li4": {
+                  "css": "flex items-center text-textSecondary",
+                  "text": "Salesforce Marketing Cloud Consultant",
+                  "paragraph-s4d1d2d2d1u1li4p1": {
+                    "css": "",
+                    "text": "Salesforce Marketing Cloud Consultant"
+                  }
+                }
+              }
+            },
+            "iframe-s4d1d2d2i1": {
+              "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3037.755869311!2d-75.19492368459484!3d39.953724579427374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c65a5bb0b5c1%3A0x8b1e8c6b8f8f8f8!2sWharton%20School%2C%20University%20of%20Pennsylvania!5e0!3m2!1sen!2sus!4v1625097600000!5m2!1sen!2sus",
+              "loading": "lazy",
+              "css": "h-64 w-full rounded-xl border-0 shadow-lg"
+            }
+          }
+        }
+      }
+    },
+    "section-5": {
+      "css": "bg-backgroundPrimary py-20",
+      "div-s5d1": {
+        "css": "mx-auto max-w-4xl px-4 text-center sm:px-6 sm:px-8",
+        "heading-s5d1h2": {
+          "css": "mb-6 text-fontSize text-textPrimary font-fontWeight sm:text-smFontSize",
+          "text": "Ready to Drive Your Next Growth Initiative?",
+          "type": "h2"
+        },
+        "paragraph-s5d1p1": {
+          "css": "mb-12 text-fontSize leading-relaxed text-textSecondary sm:text-smFontSize",
+          "text": "Let's discuss how my proven track record of marketing excellence can accelerate your organization's success."
+        },
+        "div-s5d1d1": {
+          "css": "mb-12 grid gap-8 sm:grid-cols-3",
+          "div-s5d1d1d1": {
+            "css": "bg-opacity-10 rounded-xl bg-backgroundSecondary p-6 backdrop-blur-lg",
+            "svg-s5d1d1d1svg1": {
+              "stroke": "currentColor",
+              "fill": "none",
+              "xmlns": "http://www.w3.org/2000/svg",
+              "css": "mx-auto mb-4 h-12 w-12 text-textSecondary",
+              "path-s5d1d1d1svg1path1": {
+                "d": "M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z",
+                "css": ""
+              }
+            },
+            "heading-s5d1d1d1h3": {
+              "css": "mb-2 text-center text-fontSize font-fontWeight text-textPrimary",
+              "text": "Email",
+              "type": "h3"
+            },
+            "paragraph-s5d1d1d1p1": {
+              "css": "text-center text-textSecondary",
+              "text": "sarah.martinez@email.com"
+            }
+          },
+          "div-s5d1d1d2": {
+            "css": "bg-opacity-10 rounded-xl bg-backgroundSecondary p-6 backdrop-blur-lg",
+            "svg-s5d1d1d2svg1": {
+              "stroke": "currentColor",
+              "fill": "none",
+              "xmlns": "http://www.w3.org/2000/svg",
+              "css": "mx-auto mb-4 h-12 w-12 text-textSecondary",
+              "path-s5d1d1d2svg1path1": {
+                "d": "M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z",
+                "css": ""
+              }
+            },
+            "heading-s5d1d1d2h3": {
+              "css": "mb-2 text-center text-fontSize font-fontWeight text-textPrimary",
+              "text": "Phone",
+              "type": "h3"
+            },
+            "paragraph-s5d1d1d2p1": {
+              "css": "text-center text-textSecondary",
+              "text": "+1 (555) 123-4567"
+            }
+          },
+          "div-s5d1d1d3": {
+            "css": "bg-opacity-10 rounded-xl bg-backgroundSecondary p-6 backdrop-blur-lg",
+            "svg-s5d1d1d3svg1": {
+              "stroke": "currentColor",
+              "fill": "none",
+              "xmlns": "http://www.w3.org/2000/svg",
+              "css": "mx-auto mb-4 h-12 w-12 text-textSecondary",
+              "path-s5d1d1d3svg1path1": {
+                "d": "M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z",
+                "css": ""
+              },
+              "path-s5d1d1d3svg1path2": {
+                "d": "M15 11a3 3 0 11-6 0 3 3 0 016 0z",
+                "css": ""
+              }
+            },
+            "heading-s5d1d1d3h3": {
+              "css": "mb-2 text-center text-fontSize font-fontWeight text-textPrimary",
+              "text": "Location",
+              "type": "h3"
+            },
+            "paragraph-s5d1d1d3p1": {
+              "css": "text-center text-textSecondary",
+              "text": "New York, NY"
+            }
+          }
+        },
+        "div-s5d1d2": {
+          "css": "flex flex-col justify-center gap-4 sm:flex-row",
+          "div-s5d1d2d1": {
+            "css": "mx-auto w-fit rounded-lg bg-backgroundSecondary p-2",
+            "a-s5d1d2d1a1": {
+              "href": "mailto:sarah.martinez@email.com",
+              "css": "",
+              "paragraph-s5d1d2d1a1p1": {
+                "css": "px-6 py-3 text-fontSize text-textPrimary",
+                "text": "Get In Touch"
+              }
+            }
+          },
+          "div-s5d1d2d2": {
+            "css": "mx-auto w-fit rounded-lg border-2 border-white bg-backgroundSecondary p-2",
+            "a-s5d1d2d2a1": {
+              "href": "#",
+              "css": "",
+              "paragraph-s5d1d2d2a1p1": {
+                "css": "px-6 py-3 text-fontSize text-textPrimary",
+                "text": "LinkedIn Profile"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

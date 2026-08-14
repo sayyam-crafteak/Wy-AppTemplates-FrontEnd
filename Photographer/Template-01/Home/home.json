@@ -1,0 +1,354 @@
+{
+  "main": {
+    "css": "container mx-auto",
+    "section-1": {
+      "css": "relative h-screen overflow-hidden",
+      "div-s1d1": {
+        "css": "absolute inset-0 bg-cover bg-center",
+        "style": {
+          "background-image": "url('div-s1d1d1d1d1d1.jpg')"
+        },
+        "div-s1d1d1": {
+          "css": "absolute inset-0 bg-cover bg-center",
+          "div-s1d1d1d1": {
+            "css": "absolute inset-0 bg-black bg-opacity-50"
+          }
+        },
+        "div-s1d1d2": {
+          "css": "absolute inset-0 flex items-center justify-center ",
+          "div-s1d1d2d1": {
+            "css": "text-center text-white px-4",
+            "heading-s1d1d2d1h1": {
+              "css": "text-5xl md:text-6xl font-bold mb-6",
+              "text": "Capturing Life's Beautiful Moments",
+              "type": "h1"
+            },
+            "paragraph-s1d1d2d1p1": {
+              "css": "text-xl md:text-2xl mb-8 lg:mx-20 ",
+              "text": "Professional photography services for weddings, portraits, and special events"
+            },
+            "a-s1d1d2d1a1": {
+              "css": "bg-blue-600 text-white font-bold py-3 px-8 rounded-full text-lg transition duration-300 inline-block shadow-lg hover:bg-blue-700",
+              "href": "/landing1",
+              "paragraph-s1d1d2d1a1": {
+                "text": "Go to Calendar"
+              }
+            }
+          }
+        }
+      }
+    },
+    "section-2": {
+      "css": "py-20 text-gray-600 body-font",
+      "id": "services",
+      "div-s2d1": {
+        "css": "container px-5 mx-auto",
+        "heading-s2d1h1": {
+          "css": "text-4xl font-bold text-center mb-12",
+          "text": "Services",
+          "type": "h2"
+        },
+        "div-s2d1d1": {
+          "css": "flex flex-wrap -m-4",
+          "div-s2d1d1d1": {
+            "css": "p-4 w-full",
+            "div-s2d1d1d1d1": {
+              "css": "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8",
+              "div-s2d1d1d1d1d1": {
+                "css": "group relative overflow-hidden rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-xl",
+                "Image-s2d1d1d1d1d1img1": {
+                  "src": "Image-s2d1d1d1d1d1img1.jpg",
+                  "alt": "Wedding Photography",
+                  "css": "w-full h-64 object-cover transition-all duration-500 hover:brightness-110",
+                  "text": ""
+                },
+                "div-s2d1d1d1d1d1d1": {
+                  "css": "absolute inset-0 bg-black bg-opacity-60 flex items-center justify-center transition-all duration-300 ease-in-out",
+                  "div-s2d1d1d1d1d1d1d1": {
+                    "css": "text-center p-4 transform transition-all duration-300 translate-y-2 group-hover:translate-y-0",
+                    "heading-s2d1d1d1d1d1d1d1h1": {
+                      "css": "text-xl font-bold text-white mb-2",
+                      "text": "Wedding Photography",
+                      "type": "h3"
+                    },
+                    "paragraph-s2d1d1d1d1d1d1d1p1": {
+                      "css": "text-gray-200",
+                      "text": "Capturing your special moments with elegance and emotion."
+                    }
+                  }
+                }
+              },
+              "div-s2d1d1d1d1d2": {
+                "css": "group relative overflow-hidden rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-xl",
+                "Image-s2d1d1d1d1d2img1": {
+                  "src": "Image-s2d1d1d1d1d2img1.jpg",
+                  "alt": "Portrait Sessions",
+                  "css": "w-full h-64 object-cover transition-all duration-500 hover:brightness-110",
+                  "text": ""
+                },
+                "div-s2d1d1d1d1d2d1": {
+                  "css": "absolute inset-0 bg-black bg-opacity-60 flex items-center justify-center transition-all duration-300 ease-in-out",
+                  "div-s2d1d1d1d1d2d1d1": {
+                    "css": "text-center p-4 transform transition-all duration-300 translate-y-2 group-hover:translate-y-0",
+                    "heading-s2d1d1d1d1d2d1d1h1": {
+                      "css": "text-xl font-bold text-white mb-2",
+                      "text": "Portrait Sessions",
+                      "type": "h3"
+                    },
+                    "paragraph-s2d1d1d1d1d2d1d1p1": {
+                      "css": "text-gray-200",
+                      "text": "Professional portraits that capture your authentic self."
+                    }
+                  }
+                }
+              },
+              "div-s2d1d1d1d1d3": {
+                "css": "group relative overflow-hidden rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-xl",
+                "Image-s2d1d1d1d1d3img1": {
+                  "src": "Image-s2d1d1d1d1d3img1.jpg",
+                  "alt": "Event Coverage",
+                  "css": "w-full h-64 object-cover transition-all duration-500 hover:brightness-110",
+                  "text": ""
+                },
+                "div-s2d1d1d1d1d3d1": {
+                  "css": "absolute inset-0 bg-black bg-opacity-60 flex items-center justify-center transition-all duration-300 ease-in-out",
+                  "div-s2d1d1d1d1d3d1d1": {
+                    "css": "text-center p-4 transform transition-all duration-300 translate-y-2 group-hover:translate-y-0",
+                    "heading-s2d1d1d1d1d3d1d1h1": {
+                      "css": "text-xl font-bold text-white mb-2",
+                      "text": "Event Coverage",
+                      "type": "h3"
+                    },
+                    "paragraph-s2d1d1d1d1d3d1d1p1": {
+                      "css": "text-gray-200",
+                      "text": "Comprehensive coverage for your special events."
+                    }
+                  }
+                }
+              },
+              "div-s2d1d1d1d1d4": {
+                "css": "group relative overflow-hidden rounded-lg transform transition-transform duration-300 hover:scale-105 hover:shadow-xl",
+                "Image-s2d1d1d1d1d4img1": {
+                  "src": "Image-s2d1d1d1d1d4img1.jpg",
+                  "alt": "Commercial",
+                  "css": "w-full h-64 object-cover transition-all duration-500 hover:brightness-110",
+                  "text": ""
+                },
+                "div-s2d1d1d1d1d4d1": {
+                  "css": "absolute inset-0 bg-black bg-opacity-60 flex items-center justify-center transition-all duration-300 ease-in-out",
+                  "div-s2d1d1d1d1d4d1d1": {
+                    "css": "text-center p-4 transform transition-all duration-300 translate-y-2 group-hover:translate-y-0",
+                    "heading-s2d1d1d1d1d4d1d1h1": {
+                      "css": "text-xl font-bold text-white mb-2",
+                      "text": "Commercial",
+                      "type": "h3"
+                    },
+                    "paragraph-s2d1d1d1d1d4d1d1p1": {
+                      "css": "text-gray-200",
+                      "text": "High-quality imagery for your business needs."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "section-3": {
+      "css": "py-20 bg-gray-50 text-gray-600 body-font",
+      "id": "about",
+      "div-s3d1": {
+        "css": "container px-5 mx-auto",
+        "div-s3d1d1": {
+          "css": "flex flex-wrap -m-4",
+          "div-s3d1d1d1": {
+            "css": "p-4 w-full",
+            "div-s3d1d1d1d1": {
+              "css": "grid grid-cols-1 lg:grid-cols-2 gap-16 items-center",
+              "div-s3d1d1d1d1d1": {
+                "css": "relative overflow-hidden rounded-lg shadow-2xl transform hover:scale-[1.02] transition duration-300",
+                "Image-s3d1d1d1d1d1img1": {
+                  "src": "Image-s3d1d1d1d1d1img1.jpg",
+                  "alt": "Photographer",
+                  "css": "rounded-lg w-full h-auto",
+                  "text": ""
+                }
+              },
+              "div-s3d1d1d1d1d2": {
+                "css": "pl-4 md:pl-8",
+                "heading-s3d1d1d1d1d2h1": {
+                  "css": "text-4xl font-bold mb-6 relative after:content-[''] after:absolute after:h-1 after:w-20 after:bg-gray-800 after:bottom-0 after:left-0 after:mt-2",
+                  "text": "About Me",
+                  "type": "h2"
+                },
+                "paragraph-s3d1d1d1d1d2p1": {
+                  "css": "text-gray-600 mb-6 text-lg",
+                  "text": "With over a decade of experience in photography, I specialize in capturing authentic moments that tell your unique story. My approach combines creative composition with natural lighting to create timeless images that evoke emotion and preserve memories."
+                },
+                "paragraph-s3d1d1d1d1d2p2": {
+                  "css": "text-gray-600 mb-8 text-lg",
+                  "text": "Whether it's a wedding, portrait session, or commercial project, I bring dedication, creativity, and technical expertise to every shoot. My goal is to exceed your expectations and deliver photographs that you'll treasure for years to come."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "section-4": {
+      "css": "py-20 text-gray-700 body-font",
+      "id": "contact",
+      "div-s4d1": {
+        "css": "container px-5 mx-auto",
+        "heading-s4d1h1": {
+          "css": "text-4xl font-bold text-center mb-12 text-gray-900",
+          "text": "Let's Work Together",
+          "type": "h2"
+        },
+        "div-s4d1d1": {
+          "css": "flex flex-col items-center justify-center",
+          "paragraph-s4d1d1p1": {
+            "css": "text-lg text-center max-w-2xl mb-8 text-gray-800",
+            "text": "Ready to capture your special moments? Book a consultation to discuss your vision and create memories that last a lifetime."
+          },
+          "a-s5d1d1a1": {
+            "target": "_blank",
+            "href": "/landing1",
+            "css": "bg-blue-600 text-white font-extrabold py-3 px-8 rounded-full text-lg transition duration-300 inline-block shadow-lg hover:bg-blue-700",
+            "paragraph-s5d1d1a1p1": {
+              "text": "Booking Confirmation"
+            }
+          },
+          "paragraph-s4d1d1p2": {
+            "css": "mt-4 text-sm text-gray-800",
+            "text": "Available for portrait, wedding, and commercial photography"
+          }
+        }
+      }
+    },
+    "section-5": {
+      "css": "bg-gray-900 text-white py-12",
+      "div-s5d1": {
+        "css": "container px-5 mx-auto",
+        "div-s5d1d1": {
+          "css": "flex flex-wrap -m-4",
+          "div-s5d1d1d1": {
+            "css": "p-4 w-full",
+            "div-s5d1d1d1d1": {
+              "css": "flex flex-col items-center",
+              "div-s5d1d1d1d1d1": {
+                "css": "flex items-center space-x-6 mb-8",
+                "a-s5d1d1d1d1d1a1": {
+                  "css": "hover:text-gray-300 transition",
+                  "text": "",
+                  "href": "#",
+                  "svg-s5d1d1d1d1d1a1svg1": {
+                    "xmlns": "http://www.w3.org/2000/svg",
+                    "width": "24",
+                    "height": "24",
+                    "viewBox": "0 0 24 24",
+                    "fill": "none",
+                    "stroke": "currentColor",
+                    "stroke-width": "2",
+                    "stroke-linecap": "round",
+                    "stroke-linejoin": "round",
+                    "class": "h-6 w-6",
+                    "rect-s5d1d1d1d1d1a1svg1rect1": {
+                      "width": "20",
+                      "height": "20",
+                      "x": "2",
+                      "y": "2",
+                      "rx": "5",
+                      "ry": "5"
+                    },
+                    "path-s5d1d1d1d1d1a1svg1path1": {
+                      "d": "M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"
+                    },
+                    "line-s5d1d1d1d1d1a1svg1line1": {
+                      "x1": "17.5",
+                      "x2": "17.51",
+                      "y1": "6.5",
+                      "y2": "6.5"
+                    }
+                  }
+                },
+                "a-s5d1d1d1d1d1a2": {
+                  "css": "hover:text-gray-300 transition",
+                  "text": "",
+                  "href": "#",
+                  "svg-s5d1d1d1d1d1a2svg1": {
+                    "xmlns": "http://www.w3.org/2000/svg",
+                    "width": "24",
+                    "height": "24",
+                    "viewBox": "0 0 24 24",
+                    "fill": "none",
+                    "stroke": "currentColor",
+                    "stroke-width": "2",
+                    "stroke-linecap": "round",
+                    "stroke-linejoin": "round",
+                    "class": "h-6 w-6",
+                    "path-s5d1d1d1d1d1a2svg1path1": {
+                      "d": "M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"
+                    }
+                  }
+                },
+                "a-s5d1d1d1d1d1a3": {
+                  "css": "hover:text-gray-300 transition",
+                  "text": "",
+                  "href": "#",
+                  "svg-s5d1d1d1d1d1a3svg1": {
+                    "xmlns": "http://www.w3.org/2000/svg",
+                    "width": "24",
+                    "height": "24",
+                    "viewBox": "0 0 24 24",
+                    "fill": "none",
+                    "stroke": "currentColor",
+                    "stroke-width": "2",
+                    "stroke-linecap": "round",
+                    "stroke-linejoin": "round",
+                    "class": "h-6 w-6",
+                    "path-s5d1d1d1d1d1a3svg1path1": {
+                      "d": "M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"
+                    }
+                  }
+                },
+                "a-s5d1d1d1d1d1a4": {
+                  "css": "hover:text-gray-300 transition",
+                  "text": "",
+                  "href": "#",
+                  "svg-s5d1d1d1d1d1a4svg1": {
+                    "xmlns": "http://www.w3.org/2000/svg",
+                    "width": "24",
+                    "height": "24",
+                    "viewBox": "0 0 24 24",
+                    "fill": "none",
+                    "stroke": "currentColor",
+                    "stroke-width": "2",
+                    "stroke-linecap": "round",
+                    "stroke-linejoin": "round",
+                    "class": "h-6 w-6",
+                    "rect-s5d1d1d1d1d1a4svg1rect1": {
+                      "width": "20",
+                      "height": "16",
+                      "x": "2",
+                      "y": "4",
+                      "rx": "2"
+                    },
+                    "path-s5d1d1d1d1d1a4svg1path1": {
+                      "d": "m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"
+                    }
+                  }
+                }
+              },
+              "paragraph-s5d1d1d1d1p1": {
+                "css": "text-gray-400 text-center",
+                "text": "© Wynoot. All rights reserved."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

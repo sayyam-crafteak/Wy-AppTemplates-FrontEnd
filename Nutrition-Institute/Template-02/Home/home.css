@@ -1,0 +1,339 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#main {
+    @apply bg-gradient-to-b from-green-50 to-white
+}
+
+#section-1 {
+    @apply pb-24 
+}
+
+#div-s1d1 {
+    @apply container pt-24 mx-auto px-6  bg-gradient-to-b from-green-200 to-white
+}
+
+#div-s1d1d1 {
+    @apply flex flex-col md:flex-row items-center
+}
+
+#div-s1d1d1d1 {
+    @apply md:w-1/3 mb-10 md:mb-0 p-8
+}
+
+#heading-s1d1d1d1h1 {
+    @apply text-5xl md:text-6xl font-extrabold text-gray-800 mb-6 md:pr-8 leading-tight
+}
+
+#paragraph-s1d1d1d1p1 {
+    @apply text-xl text-gray-600 leading-relaxed mb-8
+}
+
+#paragraph-s1d1d1d1p2 {
+    @apply cursor-pointer font-bold text-3xl text-green-800
+}
+
+#div-s1d1d1d2 {
+    @apply md:w-1/2
+}
+
+#Image-s1d1d1d2img1 {
+    @apply rounded-3xl shadow-2xl  object-cover
+}
+
+#section-2 {
+    @apply py-24 bg-white
+}
+
+#div-s2d1 {
+    @apply container mx-auto px-6
+}
+
+#heading-s2d1h1 {
+    @apply text-4xl font-bold text-center mb-16 text-gray-800
+}
+
+#div-s2d1d1 {
+    @apply grid grid-cols-1 md:grid-cols-3 px-10 gap-4
+}
+
+#div-s2d1d1d1 {
+    @apply bg-green-50 p-8 rounded-2xl shadow-lg transition-all duration-300 hover:shadow-xl hover:-translate-y-1
+}
+
+#div-s2d1d1d1d1 {
+    @apply text-5xl  mb-6 text-green-600
+}
+
+#heading-s2d1d1d1h1 {
+    @apply text-2xl font-bold mb-4 text-gray-800
+}
+
+#paragraph-s2d1d1d1p1 {
+    @apply text-gray-600 leading-relaxed
+}
+
+#div-s2d1d1d2 {
+    @apply bg-green-50 p-8 rounded-2xl shadow-lg transition-all duration-300 hover:shadow-xl hover:-translate-y-1
+}
+
+#div-s2d1d1d2d1 {
+    @apply text-5xl mb-6 text-green-600
+}
+
+#heading-s2d1d1d2h1 {
+    @apply text-2xl font-bold mb-4 text-gray-800
+}
+
+#paragraph-s2d1d1d2p1 {
+    @apply text-gray-600 leading-relaxed
+}
+
+#div-s2d1d1d3 {
+    @apply bg-green-50 p-8 rounded-2xl shadow-lg transition-all duration-300 hover:shadow-xl hover:-translate-y-1
+}
+
+#div-s2d1d1d3d1 {
+    @apply text-5xl mb-6 text-green-600
+}
+
+#heading-s2d1d1d3h1 {
+    @apply text-2xl font-bold mb-4 text-gray-800
+}
+
+#paragraph-s2d1d1d3p1 {
+    @apply text-gray-600 leading-relaxed
+}
+
+#section-3 {
+    @apply py-24 bg-gradient-to-b from-green-400 to-green-200
+}
+
+#div-s3d1 {
+    @apply container mx-auto px-6
+}
+
+#heading-s3d1h1 {
+    @apply text-4xl font-bold text-center mb-16 text-white
+}
+
+#div-s3d1d1 {
+    @apply grid grid-cols-1 md:grid-cols-4 gap-4 text-center
+}
+
+#div-s3d1d1d1 {
+    @apply bg-white p-8 rounded-2xl shadow-lg
+}
+
+#div-s3d1d1d1d1 {
+    @apply text-5xl font-bold mb-2 text-green-600
+}
+
+#paragraph-s3d1d1d1p1 {
+    @apply text-xl text-gray-600
+}
+
+#paragraph-s3d1d1d1p2 {
+    @apply text-2xl text-gray-900
+}
+
+#div-s3d1d1d2 {
+    @apply bg-white p-8 rounded-2xl shadow-lg
+}
+
+#div-s3d1d1d2d1 {
+    @apply text-5xl font-bold mb-2 text-green-600
+}
+
+#paragraph-s3d1d1d2p1 {
+    @apply text-xl text-gray-600
+}
+
+#paragraph-s3d1d1d1p2 {
+    @apply text-2xl text-gray-900
+}
+
+#div-s3d1d1d3 {
+    @apply bg-white p-8 rounded-2xl shadow-lg
+}
+
+#div-s3d1d1d3d1 {
+    @apply text-5xl font-bold mb-2 text-green-600
+}
+
+#paragraph-s3d1d1d3p1 {
+    @apply text-xl text-gray-600
+}
+
+#paragraph-s3d1d1d1p2 {
+    @apply text-2xl text-gray-900
+}
+
+#div-s3d1d1d4 {
+    @apply bg-white p-8 rounded-2xl shadow-lg
+}
+
+#div-s3d1d1d4d1 {
+    @apply text-5xl font-bold mb-2 text-green-600
+}
+
+#paragraph-s3d1d1d4p1 {
+    @apply text-xl text-gray-600
+}
+
+#paragraph-s3d1d1d1p2 {
+    @apply text-2xl text-gray-900
+}
+
+#section-4 {
+    @apply py-24 bg-white
+}
+
+#div-s4d1 {
+    @apply container mx-auto px-6
+}
+
+#heading-s4d1h1 {
+    @apply text-4xl font-bold text-center mb-16 text-gray-800
+}
+
+#div-s4d1d1 {
+    @apply grid grid-cols-1 md:grid-cols-3 gap-6
+}
+
+#div-s4d1d1d1 {
+    @apply bg-green-50 p-8 rounded-2xl shadow-lg transition-all duration-300 hover:shadow-xl
+}
+
+#Image-s4d1d1d1img1 {
+    @apply w-24 h-24 rounded-full mx-auto mb-6 object-cover border-4 border-green-400
+}
+
+#heading-s4d1d1d1h1 {
+    @apply font-bold text-lg text-gray-800
+}
+
+#paragraph-s4d1d1d1p1 {
+    @apply text-green-600
+}
+
+#div-s4d1d1d2 {
+    @apply bg-green-50 p-8 rounded-2xl shadow-lg transition-all duration-300 hover:shadow-xl
+}
+
+#Image-s4d1d1d2img1 {
+    @apply w-24 h-24 rounded-full mx-auto mb-6 object-cover border-4 border-green-400
+}
+
+#heading-s4d1d1d2h1 {
+    @apply font-bold text-lg text-gray-800
+}
+
+#paragraph-s4d1d1d2p1 {
+    @apply text-green-600
+}
+
+#div-s4d1d1d3 {
+    @apply bg-green-50 p-8 rounded-2xl shadow-lg transition-all duration-300 hover:shadow-xl
+}
+
+#Image-s4d1d1d3img1 {
+    @apply w-24 h-24 rounded-full mx-auto mb-6 object-cover border-4 border-green-400
+}
+
+#heading-s4d1d1d3h1 {
+    @apply font-bold text-lg text-gray-800
+}
+
+#paragraph-s4d1d1d3p1 {
+    @apply text-green-600
+}
+
+#section-5 {
+    @apply py-24 bg-green-50
+}
+
+#div-s5d1 {
+    @apply container mx-auto px-6
+}
+
+#heading-s5d1h1 {
+    @apply text-4xl font-bold text-center mb-16 text-gray-800
+}
+
+#div-s5d1d1 {
+    @apply grid grid-cols-1 md:grid-cols-3 gap-6
+}
+
+#div-s5d1d1d1 {
+    @apply bg-white p-8 rounded-2xl shadow-lg transition-all duration-300 hover:shadow-xl text-center
+}
+
+#Image-s5d1d1d1img1 {
+    @apply w-32 h-32 rounded-full mx-auto mb-6 object-cover border-4 border-green-400
+}
+
+#paragraph-s5d1d1d1p1 {
+    @apply text-green-600 font-semibold mb-4
+}
+
+#paragraph-s5d1d1d1p2 {
+    @apply text-gray-600 leading-relaxed
+}
+
+#div-s5d1d1d2 {
+    @apply bg-white p-8 rounded-2xl shadow-lg transition-all duration-300 hover:shadow-xl text-center
+}
+
+#Image-s5d1d1d2img1 {
+    @apply w-32 h-32 rounded-full mx-auto mb-6 object-cover border-4 border-green-400
+}
+
+#paragraph-s5d1d1d2p1 {
+    @apply text-green-600 font-semibold mb-4
+}
+
+#paragraph-s5d1d1d2p2 {
+    @apply text-gray-600 leading-relaxed
+}
+
+#div-s5d1d1d3 {
+    @apply bg-white p-8 rounded-2xl shadow-lg transition-all duration-300 hover:shadow-xl text-center
+}
+
+#Image-s5d1d1d3img1 {
+    @apply w-32 h-32 rounded-full mx-auto mb-6 object-cover border-4 border-green-400
+}
+
+#paragraph-s5d1d1d3p1 {
+    @apply text-green-600 font-semibold mb-4
+}
+
+#paragraph-s5d1d1d3p2 {
+    @apply text-gray-600 leading-relaxed
+}
+
+#section-6 {
+    @apply py-24 bg-white
+}
+
+#div-s6d1 {
+    @apply container mx-auto px-6
+}
+
+#heading-s6d1h1 {
+    @apply text-4xl font-bold text-center mb-16 text-gray-800
+}
+
+#div-s6d1d1 {
+    @apply max-w-2xl mx-auto text-center
+}
+
+#paragraph-s6d1d1p1 {
+    @apply text-xl text-gray-600 mb-8 leading-relaxed
+}
+
+#paragraph-s6d1d1p2 {
+    @apply bg-green-600 text-white font-bold py-3 px-8 rounded-full text-lg hover:bg-green-700 transition duration-300 inline-block
+}

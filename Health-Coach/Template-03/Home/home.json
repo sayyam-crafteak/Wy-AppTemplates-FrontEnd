@@ -1,0 +1,389 @@
+{
+    "main": {
+        "css": "container mx-auto",
+        "section-1": {
+            "css": "sm:min-h-screen bg-gradient-to-b from-orange-100 to-orange-50 text-orange-900 font-[Collier, sans-serif] relative overflow-hidden py-12 sm:py-16 md:py-20 lg:py-32",
+            "div-s1d1": {
+                "css": "container mx-auto px-4 sm:px-6 lg:px-8 relative z-10",
+                "div-s1d1d1": {
+                    "css": "grid gap-4 sm:gap-6 md:gap-8 md:grid-cols-2 items-center",
+                    "div-s1d1d1d1": {
+                        "css": "space-y-4 sm:space-y-6",
+                        "heading-s1d1d1d1h1": {
+                            "css": "text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight",
+                            "text": "Transform Your Life ThroughSmart Training",
+                            "type": "h1",
+                            "span-s1d1d1d1h1span1": {
+                                "css": "text-orange-600"
+                            }
+                        },
+                        "paragraph-s1d1d1d1p1": {
+                            "css": "text-xl sm:text-2xl font-serif italic pl-4 py-2 border-l-4 border-l-orange-600",
+                            "text": "S.M.A.R.T.training will help you to reach your goals",
+                            "span-s1d1d1d1p1span1": {
+                                "css": "font-bold tracking-wide"
+                            }
+                        },
+                        "div-s1d1d1d1d1": {
+                            "css": "flex  items-center",
+                            "a-s1d1d1d1d1a1": {
+                                "target": "_blank",
+                                "href": "#",
+                                "css": "w-full sm:w-auto rounded-md px-8 py-4 text-base sm:px-10 sm:py-6 sm:text-lg text-white bg-orange-600 shadow-md hover:bg-orange-700 transition duration-300 ease-in-out transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-orange-600",
+                                "paragraph-s1d1d1d1d1a1p1": {
+                                    "text": "Start Your Journey"
+                                }
+                            }
+                        }
+                    },
+                   "div-s1d1d1d2": {
+                        "css": "relative w-full ",
+                        "div-s1d1d1d2d1": {
+                            "css": "flex w-full items-center justify-center ",
+                            "Image-s1d1d1d2d1img1": {
+                                "src": "Image-s1d1d1d2d1img1.jpg",
+                                "alt": "Personal Trainer Image",
+                                "css": "object-cover w-full",
+                                "text": ""
+                            }
+                        }
+                    }
+                }
+            },
+            "div-s1d2": {
+                "css": "absolute bottom-0 left-0 right-0 h-12 bg-gradient-to-t from-orange-50 to-transparent"
+            }
+        },
+        "section-2": {
+            "css": "bg-orange-50 text-orange-900 font-[Collier, sans-serif] py-6 sm:py-16 md:py-20",
+            "div-s2d1": {
+                "css": "container mx-auto px-4 sm:px-6 lg:px-8",
+                "div-s2d1d1": {
+                    "css": "max-w-3xl mx-auto text-center mb-16",
+                    "heading-s2d1d1h1": {
+                        "css": "text-2xl sm:text-3xl font-bold tracking-tight sm:text-4xl mb-4",
+                        "text": "Bio",
+                        "type": "h2"
+                    },
+                    "div-s2d1d1d1": {
+                        "css": "h-1 w-20 mx-auto bg-orange-600"
+                    }
+                },
+                "div-s2d1d2": {
+                    "css": "grid md:grid-cols-2 gap-6 sm:gap-8 md:gap-12 items-center",
+                    "div-s2d1d2d1": {
+                        "css": "relative rounded-xl overflow-hidden shadow-xl w-full",
+                        "div-s2d1d2d1d1": {
+                            "css": "w-full",
+                            "Image-s2d1d2d1d1img1": {
+                                "src": "Image-s2d1d2d1d1img1.jpg",
+                                "alt": "Personal Trainer Image",
+                                "css": "w-full h-auto object-contain",
+                                "text": ""
+                            }
+                        }
+                    },
+                    "div-s2d1d2d2": {
+                        "css": "space-y-4 sm:space-y-6",
+                        "heading-s2d1d2d2h1": {
+                            "css": "text-xl sm:text-2xl font-bold text-orange-600",
+                            "text": "Hi!! My name is Marta.",
+                            "type": "h3"
+                        },
+                        "paragraph-s2d1d2d2p1": {
+                            "css": "text-base sm:text-lg leading-relaxed",
+                            "text": "I am passionate about sports. I believe that our body is a temple and we must take care of it."
+                        },
+                        "paragraph-s2d1d2d2p2": {
+                            "css": "text-base sm:text-lg leading-relaxed",
+                            "text": "My mission is to help people discover how they can get the most out of themselves in a healthy and sustainable way; improving their quality of life."
+                        },
+                        "paragraph-s2d1d2d2p3": {
+                            "css": "text-base sm:text-lg leading-relaxed",
+                            "text": "My life revolves around sports since I was 5 years old, first as a gymnast and now as a coach, and as such, I am results oriented."
+                        },
+                        "paragraph-s2d1d2d2p4": {
+                            "css": "text-lg sm:text-xl font-semibold",
+                            "text": "If you want to train smart and change your habits, now is the time!!"
+                        },
+                        "div-s2d1d2d2d1": {
+                            "css": "pt-4 flex items-center",
+                            "a-s2d1d2d2d1a1": {
+                                "target": "_blank",
+                                "href": "#",
+                                "css": "rounded-md px-6 py-3 text-base sm:px-8 sm:py-4 sm:text-lg text-white bg-orange-600 shadow-md hover:bg-orange-700 transition duration-300 ease-in-out transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-orange-600",
+                                "paragraph-s2d1d2d2d1a1p1": {
+                                    "text": "Get in Touch"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "section-3": {
+            "css": "bg-orange-100 text-orange-900 font-[Collier, sans-serif] py-10 sm:py-16 md:py-20",
+            "div-s3d1": {
+                "css": "container mx-auto px-4 sm:px-6 lg:px-8",
+                "div-s3d1d1": {
+                    "css": "max-w-3xl mx-auto text-center mb-16",
+                    "heading-s3d1d1h1": {
+                        "css": "text-xl sm:text-2xl font-bold mb-6",
+                        "text": "Why Choose Me as Your Personal Trainer?",
+                        "type": "h3"
+                    },
+                    "div-s3d1d1d1": {
+                        "css": "h-1 w-20 mx-auto mb-6 bg-orange-600"
+                    },
+                    "paragraph-s3d1d1p1": {
+                        "css": "text-base sm:text-lg",
+                        "text": "I know how overwhelming it can feel to start or even restart a fitness journey. I've been there myself, and I understand the doubts, the frustrations, and the desire for real, lasting change. That's exactly why I became a personal trainer—to help people like you push past obstacles and discover what they're truly capable of."
+                    }
+                },
+                "div-s3d1d2": {
+                    "css": "mt-12 space-y-16",
+                    "div-s3d1d2d1": {
+                        "css": "grid md:grid-cols-2 gap-4 sm:gap-6 md:gap-8 items-center",
+                        "div-s3d1d2d1d1": {
+                            "css": "space-y-4",
+                            "div-s3d1d2d1d1d1": {
+                                "css": "rounded-full w-12 h-12 flex items-center justify-center mb-4 bg-orange-200",
+                                "paragraph-s3d1d2d1d1d1p1": {
+                                    "css": "text-orange-600 font-bold",
+                                    "text": "1"
+                                }
+                            },
+                            "heading-s3d1d2d1d1h1": {
+                                "css": "text-lg sm:text-xl font-bold",
+                                "text": "Your Goals Are My Goals",
+                                "type": "h3"
+                            },
+                            "paragraph-s3d1d2d1d1p1": {
+                                "css": "",
+                                "text": "Whether you want to feel stronger, have more energy, lose weight, or simply build confidence, I'll be right there with you, celebrating every milestone. I believe in setting realistic, achievable goals and working together to surpass them."
+                            }
+                        },
+                        "div-s3d1d2d1d2": {
+                            "css": "h-60 sm:h-64 md:h-72 relative rounded-xl overflow-hidden shadow-lg",
+                            "div-s3d1d2d1d2d1": {
+                                "css": "absolute inset-0 flex items-center justify-center -300",
+                                "Image-s3d1d2d1d2d1img1": {
+                                    "src": "Image-s3d1d2d1d2d1img1.jpg",
+                                    "alt": "Personal Trainer Image",
+                                    "css": "object-cover w-full h-full",
+                                    "text": ""
+                                }
+                            }
+                        }
+                    },
+                    "div-s3d1d2d2": {
+                        "css": "grid md:grid-cols-2 gap-4 sm:gap-6 md:gap-8 items-center",
+                        "div-s3d1d2d2d1": {
+                            "css": "h-60 sm:h-64 md:h-72 relative order-2 md:order-1 rounded-xl overflow-hidden shadow-lg",
+                            "div-s3d1d2d2d1d1": {
+                                "css": "absolute inset-0 flex items-center justify-center ",
+                                "Image-s3d1d2d2d1d1img1": {
+                                    "src": "Image-s3d1d2d2d1d1img1.jpg",
+                                    "alt": "Personal Trainer Image",
+                                    "css": "object-cover w-full h-full",
+                                    "text": ""
+                                }
+                            }
+                        },
+                        "div-s3d1d2d2d2": {
+                            "css": "order-1 space-y-4 sm:space-y-4 md:order-2",
+                            "div-s3d1d2d2d2d1": {
+                                "css": "rounded-full w-12 h-12 flex items-center justify-center mb-4 bg-orange-200",
+                                "paragraph-s3d1d2d2d2d1p1": {
+                                    "css": "text-orange-600 font-bold",
+                                    "text": "2"
+                                }
+                            },
+                            "heading-s3d1d2d2d2h1": {
+                                "css": "text-lg sm:text-xl font-bold",
+                                "text": "A Personalized Approach",
+                                "type": "h3"
+                            },
+                            "paragraph-s3d1d2d2d2p1": {
+                                "css": "",
+                                "text": "No two people are the same, and neither should their training plans be. I'll tailor workouts and strategies to fit your lifestyle, fitness level, and personal preferences. Your program will be as unique as you are, designed specifically for your body and goals."
+                            }
+                        }
+                    },
+                    "div-s3d1d2d3": {
+                        "css": "grid md:grid-cols-2 gap-4 sm:gap-6 md:gap-8 items-center",
+                        "div-s3d1d2d3d1": {
+                            "css": "space-y-4 sm:space-y-4",
+                            "div-s3d1d2d3d1d1": {
+                                "css": "rounded-full w-12 h-12 flex items-center justify-center mb-4 bg-orange-200",
+                                "paragraph-s3d1d2d3d1d1p1": {
+                                    "css": "text-orange-600 font-bold",
+                                    "text": "3"
+                                }
+                            },
+                            "heading-s3d1d2d3d1h1": {
+                                "css": "text-lg sm:text-xl font-bold",
+                                "text": "More Than Just a Trainer",
+                                "type": "h3"
+                            },
+                            "paragraph-s3d1d2d3d1p1": {
+                                "css": "",
+                                "text": "I believe that fitness is about more than just physical transformation; it's about building a mindset of resilience and self-care. I'll support you on and off the gym floor, keeping you motivated and accountable throughout your entire fitness journey."
+                            }
+                        },
+                        "div-s3d1d2d3d2": {
+                            "css": "h-60 sm:h-64 md:h-72 relative rounded-xl overflow-hidden shadow-lg",
+                            "div-s3d1d2d3d2d1": {
+                                "css": "absolute inset-0 flex items-center justify-center ",
+                                "Image-s3d1d2d3d2d1img1": {
+                                    "src": "Image-s3d1d2d3d2d1img1.jpeg",
+                                    "alt": "Personal Trainer Image",
+                                    "css": "object-cover w-full h-full",
+                                    "text": ""
+                                }
+                            }
+                        }
+                    },
+                    "div-s3d1d2d4": {
+                        "css": "grid md:grid-cols-2 gap-4 sm:gap-6 md:gap-8 items-center",
+                        "div-s3d1d2d4d1": {
+                            "css": "h-60 sm:h-64 md:h-72 relative order-2 md:order-1 rounded-xl overflow-hidden shadow-lg",
+                            "div-s3d1d2d4d1d1": {
+                                "css": "absolute inset-0 flex items-center justify-center ",
+                                "Image-s3d1d2d4d1d1img1": {
+                                    "src": "Image-s3d1d2d4d1d1img1.jpeg",
+                                    "alt": "Personal Trainer Image",
+                                    "css": "object-cover w-full h-full",
+                                    "text": ""
+                                }
+                            }
+                        },
+                        "div-s3d1d2d4d2": {
+                            "css": "order-1 space-y-4 sm:space-y-4 md:order-2",
+                            "div-s3d1d2d4d2d1": {
+                                "css": "rounded-full w-12 h-12 flex items-center justify-center mb-4 bg-orange-200",
+                                "paragraph-s3d1d2d4d2d1p1": {
+                                    "css": "text-orange-600 font-bold",
+                                    "text": "4"
+                                }
+                            },
+                            "heading-s3d1d2d4d2h1": {
+                                "css": "text-lg sm:text-xl font-bold",
+                                "text": "A Judgment-Free Space",
+                                "type": "h3"
+                            },
+                            "paragraph-s3d1d2d4d2p1": {
+                                "css": "",
+                                "text": "No matter where you're starting from, I want you to feel comfortable and empowered in every session. My goal is to make fitness something you enjoy, not something you dread. Together, we'll create a positive environment where you can thrive."
+                            }
+                        }
+                    },
+                    "div-s3d1d2d5": {
+                        "css": "grid md:grid-cols-2 gap-4 sm:gap-6 md:gap-8 items-center",
+                        "div-s3d1d2d5d1": {
+                            "css": "space-y-4 sm:space-y-4",
+                            "div-s3d1d2d5d1d1": {
+                                "css": "rounded-full w-12 h-12 flex items-center justify-center mb-4 bg-orange-200",
+                                "paragraph-s3d1d2d5d1d1p1": {
+                                    "css": "text-orange-600 font-bold",
+                                    "text": "5"
+                                }
+                            },
+                            "heading-s3d1d2d5d1h1": {
+                                "css": "text-lg sm:text-xl font-bold",
+                                "text": "Proven Success",
+                                "type": "h3"
+                            },
+                            "paragraph-s3d1d2d5d1p1": {
+                                "css": "",
+                                "text": "I've had the privilege of seeing my clients transform not just their bodies, but their confidence and outlook on life. Your success is my success, and I'm committed to helping you reach your full potential. My track record speaks for itself."
+                            }
+                        },
+                        "div-s3d1d2d5d2": {
+                            "css": "h-60 sm:h-64 md:h-72 relative rounded-xl overflow-hidden shadow-lg",
+                            "div-s3d1d2d5d2d1": {
+                                "css": "absolute inset-0 flex items-center justify-center ",
+                                "Image-s3d1d2d5d2d1img1": {
+                                    "src": "Image-s3d1d2d5d2d1img1.jpeg",
+                                    "alt": "Personal Trainer Image",
+                                    "css": "object-cover w-full h-full",
+                                    "text": ""
+                                }
+                            }
+                        }
+                    }
+                },
+                "div-s3d1d3": {
+                    "css": "mt-16",
+                    "div-s3d1d3d1": {
+                        "css": "rounded-lg shadow-md overflow-hidden bg-orange-600 text-white",
+                        "div-s3d1d3d1d1": {
+                            "css": "p-4 sm:p-6 md:p-8 lg:p-10",
+                            "heading-s3d1d3d1d1h1": {
+                                "css": "mb-4 text-xl sm:text-2xl font-bold font-[Collier, sans-serif]",
+                                "text": "Let's Take This Journey Together!",
+                                "type": "h3"
+                            },
+                            "paragraph-s3d1d3d1d1p1": {
+                                "css": "mb-6 text-orange-50",
+                                "text": "If you're ready to take that first step, I'm here to walk alongside you. Let's turn your goals into reality—together. Reach out today, and let's start making progress toward the healthiest, strongest version of you!"
+                            },
+                            "a-s3d1d3d1d1a1": {
+                                "target": "_blank",
+                                "href": "#",
+                                "css": "rounded-md px-6 py-3 text-base sm:px-8 sm:py-4 sm:text-lg text-white underline",
+                                "paragraph-s3d1d3d1d1a1p1": {
+                                    "text": "BOOK A FREE INTAKE"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "section-4": {
+            "css": "bg-orange-50 text-orange-900 font-[Collier, sans-serif] py-10 sm:py-16 md:py-20",
+            "div-s4d1": {
+                "css": "container mx-auto px-4 sm:px-6 lg:px-8 pb-4",
+                "div-s4d1d1": {
+                    "css": "max-w-4xl mx-auto rounded-2xl p-4 sm:p-6 md:p-8 lg:p-12 shadow-xl bg-gradient-to-r from-orange-600 to-orange-700",
+                    "div-s4d1d1d1": {
+                        "css": "grid md:grid-cols-2 gap-4 sm:gap-6 md:gap-8 items-center",
+                        "div-s4d1d1d1d1": {
+                            "css": "space-y-4 text-white",
+                            "heading-s4d1d1d1d1h1": {
+                                "css": "text-2xl sm:text-3xl font-bold font-[Collier, sans-serif]",
+                                "text": "Ready to transform your life?",
+                                "type": "h2"
+                            },
+                            "paragraph-s4d1d1d1d1p1": {
+                                "css": "text-orange-50",
+                                "text": "Take the first step towards a healthier, stronger you. Book your personal training session today."
+                            },
+                            "a-s4d1d1d1d1a1": {
+                                "target": "_blank",
+                                "href": "#",
+                                "css": "rounded-md px-6 py-3  sm:px-8 sm:py-4 sm:text-lg text-white border-white underline",
+                                "paragraph-s4d1d1d1d1a1p1": {
+                                    "text": "Book Now"
+                                }
+                            }
+                        },
+                        "div-s4d1d1d1d2": {
+                            "css": "relative h-[150px] sm:h-[180px] md:h-[200px] rounded-xl overflow-hidden",
+                            "div-s4d1d1d1d2d1": {
+                                "css": "flex h-full w-full items-center justify-center ",
+                                "Image-s4d1d1d1d2d1img1": {
+                                    "src": "Image-s4d1d1d1d2d1img1.jpeg",
+                                    "alt": "Personal Trainer Image",
+                                    "css": "object-cover w-full h-full",
+                                    "text": ""
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

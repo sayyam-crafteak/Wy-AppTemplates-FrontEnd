@@ -1,0 +1,65 @@
+{
+  "colors": {
+    "text": {
+      "textPrimary": "black",
+      "textSecondary": "gray-700"
+    },
+    "background": {
+      "backgroundPrimary": "gray-100",
+      "backgroundSecondary": "white"
+    }
+  },
+  "fontSize": {
+    "p": {
+      "fontSize": "base",
+      "mdfontSize": "lg",
+      "lgfontSize": "xl",
+      "smFontSize": "sm"
+    },
+    "h1": {
+      "fontSize": "4xl",
+      "mdfontSize": "5xl",
+      "lgfontSize": "6xl",
+      "smFontSize": "3xl"
+    },
+    "h2": {
+      "fontSize": "3xl",
+      "mdfontSize": "4xl",
+      "lgfontSize": "5xl",
+      "smFontSize": "2xl"
+    }
+  },
+  "fontWeight": {
+    "p": {
+      "fontWeight": "bold"
+    },
+    "h1": {
+      "fontWeight": "bold"
+    },
+    "h2": {
+      "fontWeight": "bold"
+    }
+  },
+  "italic": {
+    "p": {
+      "italic": "italic"
+    },
+    "h1": {
+      "italic": "italic"
+    },
+    "h2": {
+      "italic": "italic"
+    }
+  },
+  "underline": {
+    "p": {
+      "underline": "underline"
+    },
+    "h1": {
+      "underline": "underline"
+    },
+    "h2": {
+      "underline": "underline"
+    }
+  }
+}

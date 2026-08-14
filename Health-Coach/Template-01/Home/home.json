@@ -1,0 +1,438 @@
+{
+  "main": {
+    "section-1": {
+      "css": "bg-black",
+      "name": "herosection",
+      "div-s1d1": {
+        "css": "relative h-screen bg-cover bg-center",
+        "style": {
+          "background-image": "url('div-s1d1.jpg')"
+        },
+        "div-s1d1d1": {
+          "css": "absolute inset-0 bg-black opacity-60"
+        },
+        "div-s1d1d2": {
+          "css": "relative z-10 flex flex-col items-center justify-center h-full",
+          "heading-s1d1d2h1": {
+            "type": "h1",
+            "css": "sm:text-6xl text-4xl font-bold text-center text-white bg-transparent",
+            "text": "Hi!! My name is John."
+          },
+          "div-s1d1d2d1": {
+            "css": "text-center mt-4 font-semibold text-white",
+            "paragraph-s1d1d2d1p1": {
+              "css": "sm:text-5xl text-3xl",
+              "text": "I am passionate about sports."
+            },
+            "paragraph-s1d1d2d1p2": {
+              "css": "sm:text-5xl text-3xl",
+              "text": "I believe that our body is a temple, and we must take care of it."
+            }
+          }
+        }
+      }
+    },
+    "section-2": {
+      "css": "bg-black",
+      "name": "aboutsection",
+      "div-s2d1": {
+        "css": "bg-transparent sm:p-10 p-6 text-white text-center",
+        "div-s2d1d1": {
+          "css": "max-w-4xl mx-auto text-center px-4 py-12",
+          "heading-s2d1d1h1": {
+            "type": "h1",
+            "css": "text-4xl sm:text-5xl font-bold text-white leading-tight mb-8",
+            "text": "Empowering You to Unlock Your Full Potential"
+          },
+          "paragraph-s2d1d1p1": {
+            "css": "text-xl text-gray-300 mb-6 leading-relaxed",
+            "text": "My mission is to help people discover how they can get the most out of themselves in a healthy and sustainable way, ultimately improving their quality of life."
+          },
+          "div-s2d1d1d1": {
+            "css": "bg-white bg-opacity-10 rounded-lg p-6 mb-8",
+            "paragraph-s2d1d1d1p1": {
+              "css": "text-lg text-gray-200 italic",
+              "text": "“My life has revolved around sports since I was 5 years old, first as a gymnast and now as a coach. This journey has made me results-oriented and passionate about helping others achieve their goals.”"
+            }
+          },
+          "paragraph-s2d1d1p2": {
+            "css": "text-xl text-gray-300 mb-8",
+            "text": "If you're ready to train smart and transform your habits, now is the time!"
+          },
+          "div-s2d1d1d2": {
+            "css": "bg-gradient-to-r from-purple-600 to-indigo-600 rounded-lg p-6",
+            "heading-s2d1d1d2h1": {
+              "type": "h2",
+              "css": "text-2xl font-bold text-white mb-4",
+              "text": "What I Offer"
+            },
+            "ul-s2d1d1d2ul1": {
+              "type": "ul",
+              "css": "list-disc list-inside",
+              "li-s2d1d1d2ul1li1": {
+                "css": "text-lg text-gray-200",
+                "type": "li",
+                "text": "Customized programs tailored to your needs"
+              },
+              "li-s2d1d1d2ul1li2": {
+                "css": "text-lg text-gray-200",
+                "type": "li",
+                "text": "Dedicated support throughout your journey"
+              },
+              "li-s2d1d1d2ul1li3": {
+                "css": "text-lg text-gray-200",
+                "type": "li",
+                "text": "Expert advice to help you achieve your health goals"
+              }
+            },
+            "paragraph-s2d1d1d2p1": {
+              "css": "text-xl font-semibold text-white mt-4",
+              "text": "Unlock your potential with personalized coaching and a supportive community."
+            }
+          },
+          "div-s2d1d1d3": {
+            "css": "mt-16 grid md:grid-cols-2 gap-8",
+            "div-s2d1d1d3d1": {
+              "css": "bg-white bg-opacity-10 rounded-lg p-6",
+              "type":"card",
+              "heading-s2d1d1d3d1h1": {
+                "type": "h2",
+                "css": "text-3xl font-bold text-yellow-400 mb-6",
+                "text": "FOCUS AREAS"
+              },
+              "ul-s2d1d1d3d1ul1": {
+                "type": "ul",
+                "css": "space-y-3",
+                "li-s2d1d1d3d1ul1li1": {
+                  "css": "text-lg text-gray-200 ",
+                  "type": "li",
+                  "text": "🔄 Mobility & Flexibility Training"
+                },
+                "li-s2d1d1d3d1ul1li2": {
+                  "css": "text-lg text-gray-200 ",
+                  "type": "li",
+                  "text": "💪 Strength & HIIT Training"
+                },
+                "li-s2d1d1d3d1ul1li3": {
+                  "css": "text-lg text-gray-200 ",
+                  "type": "li",
+                  "text": "🤸‍♀️ Gymnastics"
+                },
+                "li-s2d1d1d3d1ul1li4": {
+                  "css": "text-lg text-gray-200 ",
+                  "type": "li",
+                  "text": "️‍🏋️‍♂️ Functional Training"
+                },
+                "li-s2d1d1d3d1ul1li5": {
+                  "css": "text-lg text-gray-200 ",
+                  "type": "li",
+                  "text": "📊 Body Composition"
+                },
+                "li-s2d1d1d3d1ul1li6": {
+                  "css": "text-lg text-gray-200 ",
+                  "type": "li",
+                  "text": "🧘‍♂️ Mindfulness"
+                }
+              }
+            },
+            "div-s2d1d1d3d2": {
+              "css": "bg-white bg-opacity-10 rounded-lg p-6",
+              "type":"card",
+              "heading-s2d1d1d3d2h2": {
+                "type": "h2",
+                "css": "text-3xl font-bold text-green-400 mb-6",
+                "text": "BACKGROUND"
+              },
+              "ul-s2d1d1d3d2ul1": {
+                "type": "ul",
+                "css": "text-lg text-gray-200 space-y-3",
+                "li-s2d1d1d3d2ul1li1": {
+                  "css": "text-lg text-gray-200",
+                  "type": "li",
+                  "text": "✅ NASM Certified Personal Trainer"
+                },
+                "li-s2d1d1d3d2ul1li2": {
+                  "css": "text-lg text-gray-200",
+                  "type": "li",
+                  "text": "✅ NASM Certified Nutrition Coach"
+                },
+                "li-s2d1d1d3d2ul1li3": {
+                  "css": "text-lg text-gray-200",
+                  "type": "li",
+                  "text": "✅ CrossFit Coach Level 1"
+                },
+                "li-s2d1d1d3d2ul1li4": {
+                  "css": "text-lg text-gray-200",
+                  "type": "li",
+                  "text": "️‍✅ Gymnastics Expertise"
+                }
+              }
+            }
+          },
+          "div-s2d1d1d4": {
+            "css": "mt-12",
+            "Link-s2d1d1d4link1": {
+              "href": "/contact",
+              "div-s2d1d1d4link1d1": {
+                "css": "bg-gradient-to-r from-purple-600 to-indigo-600  py-3 px-8 rounded-full  hover:from-purple-700 hover:to-indigo-700 transition duration-300 cursor-pointer",
+                "paragraph-s2d1d1d4link1d1p1": {
+                  "css": "text-white font-bold text-xl",
+                  "text": "Start Your Journey Today"
+                }
+              }
+            }
+          }
+        },
+        "div-s2d1d2": {
+          "css": "max-w-7xl mx-auto px-4 py-12",
+          "heading-s2d1d2h1": {
+            "type": "h1",
+            "css": "text-4xl font-bold text-center text-white mb-4",
+            "text": "I use a 5 step guide to Goal Setting"
+          },
+          "heading-s2d1d2h2": {
+            "type": "h1",
+            "css": "text-5xl font-bold text-center text-white mb-10",
+            "text": "S.M.A.R.T"
+          },
+          "div-s2d1d2d1": {
+            "css": "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4",
+            "div-s2d1d2d1d1": {
+              "css": "bg-black bg-opacity-70 p-4 rounded-lg h-80 flex flex-col justify-center items-center transform transition-transform duration-300 hover:scale-105",
+              "style": {
+                "background-image": "url('div-s2d1d2d1d1.jpg')",
+                "background-size": "cover"
+              },
+              "heading-s2d1d2d1d1h1": {
+                "type": "h2",
+                "css": "text-2xl font-bold text-violet-600 mb-2",
+                "text": "SPECIFIC"
+              },
+              "paragraph-s2d1d2d1d1p1": {
+                "css": "bg-white bg-opacity-70 text-black font-bold text-sm p-2 rounded",
+                "text": "Goals should be concrete (specific)"
+              }
+            },
+            "div-s2d1d2d1d2": {
+              "css": "bg-white bg-opacity-70 p-4 rounded-lg h-80 flex flex-col justify-center items-center transform transition-transform duration-300 hover:scale-105",
+              "style": {
+                "background-image": "url('div-s2d1d2d1d2.jpg')",
+                "background-size": "cover"
+              },
+              "heading-s2d1d2d1d2h1": {
+                "type": "h2",
+                "css": "text-2xl font-bold text-violet-600 mb-2",
+                "text": "MEASURABLE"
+              },
+              "paragraph-s2d1d2d1d2p1": {
+                "css": "bg-white bg-opacity-70 text-black font-bold text-sm p-2 rounded",
+                "text": "We should be able to calculate your progress in weight, inches, strength and other variables."
+              }
+            },
+            "div-s2d1d2d1d3": {
+              "css": "bg-white bg-opacity-70 p-4 rounded-lg h-80 flex flex-col justify-center items-center transform transition-transform duration-300 hover:scale-105",
+              "style": {
+                "background-image": "url('div-s2d1d2d1d3.jpg')",
+                "background-size": "cover"
+              },
+              "heading-s2d1d2d1d3h1": {
+                "type": "h2",
+                "css": "text-2xl font-bold text-violet-600 mb-2",
+                "text": "ACHIEVABLE"
+              },
+              "paragraph-s2d1d2d1d3p1": {
+                "css": "bg-white bg-opacity-70 text-black font-bold text-sm p-2 rounded",
+                "text": "Goals should be attainable, must be possible for you to accomplish it."
+              }
+            },
+            "div-s2d1d2d1d4": {
+              "css": "bg-white bg-opacity-70 p-4 rounded-lg h-80 flex flex-col justify-center items-center transform transition-transform duration-300 hover:scale-105",
+              "style": {
+                "background-image": "url('div-s2d1d2d1d4.jpg')",
+                "background-size": "cover"
+              },
+              "heading-s2d1d2d1d4h1": {
+                "type": "h2",
+                "css": "text-2xl font-bold text-violet-600 mb-2",
+                "text": "REALISTIC"
+              },
+              "paragraph-s2d1d2d1d4p1": {
+                "css": "bg-white bg-opacity-70 text-black font-bold text-sm p-2 rounded",
+                "text": "Goals should be based upon your level of motivation and physical abilities."
+              }
+            },
+            "div-s2d1d2d1d5": {
+              "css": "bg-white bg-opacity-70 p-4 rounded-lg h-80 flex flex-col justify-center items-center transform transition-transform duration-300 hover:scale-105",
+              "style": {
+                "background-image": "url('div-s2d1d2d1d5.jpg')",
+                "background-size": "cover"
+              },
+              "heading-s2d1d2d1d5h1": {
+                "type": "h2",
+                "css": "text-2xl font-bold text-violet-600 mb-2",
+                "text": "TIME ORIENTED"
+              },
+              "paragraph-s2d1d2d1d5p1": {
+                "css": "bg-white bg-opacity-70 text-black font-bold text-sm p-2 rounded",
+                "text": "Goals should be attainable within a time frame. (Short, Long or both)"
+              }
+            }
+          }
+        }
+      }
+    },
+    "section-3": {
+      "css": "bg-black",
+      "name": "stories",
+      "div-s3d1": {
+        "css": "sm:mb-10 mb-5",
+        "hr-s3d1hr1": {
+          "css": "h-px mx-2 sm:mx-10 sm:mt-10 my-4 bg-gray-200 border-0 dark:bg-gray-400"
+        },
+        "div-s3d1d1": {
+          "css": "container mx-auto sm:px-4 sm:py-12 py-5 px-3",
+          "heading-s3d1d1h1": {
+            "type": "h2",
+            "css": "text-3xl font-bold mb-8 text-center text-white",
+            "text": "Real Stories, Real Results"
+          },
+          "div-s3d1d1d1": {
+            "css": "sm:ml-10 sm:mr-10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-8",
+            "a-s3d1d1d1a1": {
+              "css": "cursor-pointer bg-[#07142a] rounded-lg shadow-md p-6 flex flex-col items-center border hover:border-blue-500 transition duration-300 ",
+              "target": "_blank",
+              "rel": "noopener noreferrer",
+              "href": "https://www.linkedin.com/",
+              "Image-s3d1d1d1a1img1": {
+                "src": "Image-s3d1d1d1a1img1.jpg",
+                "width": 200,
+                "height": 200,
+                "alt": "John Dae",
+                "css": "w-24 h-24 rounded-full mb-4"
+              },
+              "heading-s3d1d1d1a1h1": {
+                "type": "h3",
+                "css": "text-white text-xl font-semibold mb-2",
+                "text": "John Dae"
+              },
+              "paragraph-s3d1d1d1a1p1": {
+                "css": "text-white text-sm text-center",
+                "text": "View LinkedIn Review"
+              }
+            },
+            "a-s3d1d1d1a2": {
+              "css": "cursor-pointer bg-[#07142a] rounded-lg shadow-md p-6 flex flex-col items-center border hover:border-blue-500 transition duration-300",
+              "target": "_blank",
+              "rel": "noopener noreferrer",
+              "href": "https://www.linkedin.com/",
+              "Image-s3d1d1d1a2img1": {
+                "src": "Image-s3d1d1d1a2img1.jpg",
+                "width": 200,
+                "height": 200,
+                "alt": "Sarah Brown",
+                "css": "w-24 h-24 rounded-full mb-4"
+              },
+              "heading-s3d1d1d1a2h1": {
+                "type": "h3",
+                "css": "text-white text-xl font-semibold mb-2",
+                "text": "Sarah Brown"
+              },
+              "paragraph-s3d1d1d1a2p1": {
+                "css": "text-white text-sm text-center",
+                "text": "View LinkedIn Review"
+              }
+            },
+            "a-s3d1d1d1a3": {
+              "css": "cursor-pointer bg-[#07142a] rounded-lg shadow-md p-6 flex flex-col items-center border hover:border-blue-500 transition duration-300",
+              "target": "_blank",
+              "rel": "noopener noreferrer",
+              "href": "https://www.linkedin.com/",
+              "Image-s3d1d1d1a3img1": {
+                "src": "Image-s3d1d1d1a3img1.jpg",
+                "width": 200,
+                "height": 200,
+                "alt": "Michael Johnson",
+                "css": "w-24 h-24 rounded-full mb-4"
+              },
+              "heading-s3d1d1d1a3h1": {
+                "type": "h3",
+                "css": "text-white text-xl font-semibold mb-2",
+                "text": "Michael Johnson"
+              },
+              "paragraph-s3d1d1d1a3p1": {
+                "css": "text-white text-sm text-center",
+                "text": "View LinkedIn Review"
+              }
+            },
+            "a-s3d1d1d1a4": {
+              "css": "cursor-pointer bg-[#07142a] rounded-lg shadow-md p-6 flex flex-col items-center border hover:border-blue-500 transition duration-300",
+              "target": "_blank",
+              "rel": "noopener noreferrer",
+              "href": "https://www.linkedin.com/",
+              "Image-s3d1d1d1a4img1": {
+                "src": "Image-s3d1d1d1a4img1.jpg",
+                "width": 200,
+                "height": 200,
+                "alt": "Emily Davis",
+                "css": "w-24 h-24 rounded-full mb-4"
+              },
+              "heading-s3d1d1d1a4h1": {
+                "type": "h3",
+                "css": "text-white text-xl font-semibold mb-2",
+                "text": "Emily Davis"
+              },
+              "paragraph-s3d1d1d1a4p1": {
+                "css": "text-white text-sm text-center",
+                "text": "View LinkedIn Review"
+              }
+            },
+            "a-s3d1d1d1a5": {
+              "css": "cursor-pointer bg-[#07142a] rounded-lg shadow-md p-6 flex flex-col items-center border hover:border-blue-500 transition duration-300",
+              "target": "_blank",
+              "rel": "noopener noreferrer",
+              "href": "https://www.linkedin.com/",
+              "Image-s3d1d1d1a5img1": {
+                "src": "Image-s3d1d1d1a5img1.jpg",
+                "width": 200,
+                "height": 200,
+                "alt": "Alex Smith",
+                "css": "w-24 h-24 rounded-full mb-4"
+              },
+              "heading-s3d1d1d1a5h1": {
+                "type": "h3",
+                "css": "text-white text-xl font-semibold mb-2",
+                "text": "Alex Smith"
+              },
+              "paragraph-s3d1d1d1a5p1": {
+                "css": "text-white text-sm text-center",
+                "text": "View LinkedIn Review"
+              }
+            },
+            "a-s3d1d1d1a6": {
+              "css": "cursor-pointer bg-[#07142a] rounded-lg shadow-md p-6 flex flex-col items-center border hover:border-blue-500 transition duration-300",
+              "target": "_blank",
+              "rel": "noopener noreferrer",
+              "href": "https://www.linkedin.com/",
+              "Image-s3d1d1d1a6img1": {
+                "src": "Image-s3d1d1d1a6img1.jpg",
+                "width": 200,
+                "height": 200,
+                "alt": "Jane Doe",
+                "css": "w-24 h-24 rounded-full mb-4"
+              },
+              "heading-s3d1d1d1a6h1": {
+                "type": "h3",
+                "css": "text-white text-xl font-semibold mb-2",
+                "text": "Jane Doe"
+              },
+              "paragraph-s3d1d1d1a6p1": {
+                "css": "text-white text-sm text-center",
+                "text": "View LinkedIn Review"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

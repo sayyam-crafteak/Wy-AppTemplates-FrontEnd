@@ -1,0 +1,195 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#main {
+    @apply container mx-auto
+}
+
+#section-1 {
+    @apply  relative overflow-hidden py-12 sm:py-16 md:py-20 lg:py-32 bg-gradient-to-b from-[#e1d5cb] to-[#f5f0eb] text-[#4b3a2a] font-[Collier,sans-serif]
+}
+
+#div-s1d1 {
+    @apply container mx-auto px-4 sm:px-6 lg:px-8 relative z-10
+}
+
+#div-s1d1d1 {
+    @apply max-w-3xl mx-auto text-center
+}
+
+#heading-s1d1d1h1 {
+    @apply text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight mb-4 sm:mb-6
+}
+
+#paragraph-s1d1d1p1 {
+    @apply text-base sm:text-xl max-w-2xl mx-auto text-[#6d4c41]
+}
+
+#div-s1d2 {
+    @apply absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-t from-[#f5f0eb] to-transparent
+}
+
+#section-2 {
+    @apply py-10 sm:py-16 md:py-20 bg-[#f5f0eb] text-[#4b3a2a] font-[Collier,sans-serif]
+}
+
+#div-s2d1 {
+    @apply container mx-auto px-4 sm:px-6 lg:px-8
+}
+
+#div-s2d1d1 {
+    @apply space-y-16 sm:space-y-20 md:space-y-24
+}
+
+#div-s2d1d1d1 {
+    @apply grid md:grid-cols-2 gap-6 sm:gap-8 md:gap-12 items-center
+}
+
+#div-s2d1d1d1d1 {
+    @apply relative h-[250px] sm:h-[300px] md:h-[400px] rounded-xl overflow-hidden shadow-xl
+}
+
+#Image-s2d1d1d1d1img1 {
+    @apply object-cover w-full h-full
+}
+
+#div-s2d1d1d1d2 {
+    @apply space-y-4 sm:space-y-6
+}
+
+#heading-s2d1d1d1d2h1 {
+    @apply text-2xl sm:text-3xl font-bold text-[#6d4c41] font-[Collier,sans-serif]
+}
+
+#paragraph-s2d1d1d1d2p1 {
+    @apply text-base sm:text-lg leading-relaxed text-[#4b3a2a]
+}
+
+#div-s2d1d1d2 {
+    @apply grid md:grid-cols-2 gap-6 sm:gap-8 md:gap-12 items-center
+}
+
+#div-s2d1d1d2d1 {
+    @apply space-y-4 sm:space-y-6 md:order-1 order-2
+}
+
+#heading-s2d1d1d2d1h1 {
+    @apply text-2xl sm:text-3xl font-bold text-[#6d4c41] font-[Collier,sans-serif]
+}
+
+#paragraph-s2d1d1d2d1p1 {
+    @apply text-base sm:text-lg leading-relaxed text-[#4b3a2a]
+}
+
+#div-s2d1d1d2d1d1 {
+    @apply pt-4
+}
+
+#div-s2d1d1d2d2 {
+    @apply relative h-[250px] sm:h-[300px] md:h-[400px] rounded-xl overflow-hidden shadow-xl md:order-2 order-1
+}
+
+#Image-s2d1d1d2d2img1 {
+    @apply object-cover w-full h-full
+}
+
+#div-s2d1d1d3 {
+    @apply grid md:grid-cols-2 gap-6 sm:gap-8 md:gap-12 items-center
+}
+
+#div-s2d1d1d3d1 {
+    @apply relative h-[250px] sm:h-[300px] md:h-[400px] rounded-xl overflow-hidden shadow-xl
+}
+
+#Image-s2d1d1d3d1img1 {
+    @apply object-cover w-full h-full
+}
+
+#div-s2d1d1d3d2 {
+    @apply space-y-4 sm:space-y-6
+}
+
+#heading-s2d1d1d3d2h1 {
+    @apply text-2xl sm:text-3xl font-bold text-[#6d4c41] font-[Collier,sans-serif]
+}
+
+#paragraph-s2d1d1d3d2p1 {
+    @apply text-base sm:text-lg leading-relaxed text-[#4b3a2a]
+}
+
+#div-s2d1d1d3d2d1 {
+    @apply pt-4
+}
+
+#div-s2d1d1d4 {
+    @apply grid md:grid-cols-2 gap-6 sm:gap-8 md:gap-12 items-center
+}
+
+#div-s2d1d1d4d1 {
+    @apply space-y-4 sm:space-y-6 md:order-1 order-2
+}
+
+#heading-s2d1d1d4d1h1 {
+    @apply text-2xl sm:text-3xl font-bold text-[#6d4c41] font-[Collier,sans-serif]
+}
+
+#paragraph-s2d1d1d4d1p1 {
+    @apply text-base sm:text-lg leading-relaxed text-[#4b3a2a]
+}
+
+#div-s2d1d1d4d1d1 {
+    @apply pt-4
+}
+
+#div-s2d1d1d4d2 {
+    @apply relative h-[250px] sm:h-[300px] md:h-[400px] rounded-xl overflow-hidden shadow-xl md:order-2 order-1
+}
+
+#Image-s2d1d1d4d2img1 {
+    @apply object-cover w-full h-full
+}
+
+#section-3 {
+    @apply py-10 sm:py-16 md:py-20 bg-[#e1d5cb]
+}
+
+#div-s3d1 {
+    @apply container mx-auto px-4 sm:px-6 lg:px-8
+}
+
+#div-s3d1d1 {
+    @apply max-w-4xl mx-auto rounded-2xl p-4 sm:p-6 md:p-8 lg:p-12 shadow-xl bg-gradient-to-r from-[#8d7b6a] to-[#6d4c41]
+}
+
+#div-s3d1d1d1 {
+    @apply grid md:grid-cols-2 gap-4 sm:gap-6 md:gap-8 items-center
+}
+
+#div-s3d1d1d1d1 {
+    @apply text-white space-y-4
+}
+
+#heading-s3d1d1d1d1h1 {
+    @apply text-2xl sm:text-3xl font-bold font-[Collier,sans-serif]
+}
+
+#paragraph-s3d1d1d1d1p1 {
+    @apply text-[#f5f0eb]
+}
+
+#div-s3d1d1d1d1d1 {
+    @apply mt-4
+}
+
+#a-s3d1d1d1d1d1a1 {
+    @apply w-full sm:w-auto px-4 py-2 text-white underline
+}
+
+#div-s3d1d1d1d2 {
+    @apply relative h-[150px] sm:h-[180px] md:h-[200px] rounded-xl overflow-hidden
+}
+
+#Image-s3d1d1d1d2img1 {
+    @apply object-cover w-full h-full
+}

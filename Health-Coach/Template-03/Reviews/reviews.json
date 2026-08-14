@@ -1,0 +1,52 @@
+{
+    "main": {
+        "css": "container mx-auto",
+        "section-1": {
+            "css": "container mx-auto p-4 bg-orange-100",
+            "heading-s1h1": {
+                "css": "text-3xl font-bold text-center my-8",
+                "text": "What My Clients Say",
+                "type": "h1"
+            },
+            "div-s1d1": {
+                "css": "grid grid-cols-1 gap-4 sm:w-3/4 items-center justify-center mx-auto",
+                "Image-s1d1img1": {
+                    "src": "review1.png",
+                    "alt": "Review 1",
+                    "css": "w-full h-auto rounded-lg shadow-lg",
+                    "text": ""
+                },
+                "Image-s1d1img2": {
+                    "src": "review2.png",
+                    "alt": "Review 2",
+                    "css": "w-full h-auto rounded-lg shadow-lg",
+                    "text": ""
+                },
+                "Image-s1d1img3": {
+                    "src": "review3.png",
+                    "alt": "Review 3",
+                    "css": "w-full h-auto rounded-lg shadow-lg",
+                    "text": ""
+                },
+                "Image-s1d1img4": {
+                    "src": "review4.png",
+                    "alt": "Review 4",
+                    "css": "w-full h-auto rounded-lg shadow-lg",
+                    "text": ""
+                },
+                "Image-s1d1img5": {
+                    "src": "review5.png",
+                    "alt": "Review 5",
+                    "css": "w-full h-auto rounded-lg shadow-lg",
+                    "text": ""
+                },
+                "Image-s1d1img6": {
+                    "src": "review6.png",
+                    "alt": "Review 6",
+                    "css": "w-full h-auto rounded-lg shadow-lg",
+                    "text": ""
+                }
+            }
+        }
+    }
+}

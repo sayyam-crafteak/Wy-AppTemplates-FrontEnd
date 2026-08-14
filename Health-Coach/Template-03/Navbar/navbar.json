@@ -1,0 +1,28 @@
+{
+    "organizationName": "NEXTJS14",
+    "organizationLogo": "",
+    "pages": [
+        {
+            "pageName": "Home",
+            "pageId": "Home"
+        },
+        {
+            "pageName": "Methods",
+            "pageId": "Methods"
+        },
+        {
+            "pageName": "Values",
+            "pageId": "Values"
+        }
+        ,
+        {
+            "pageName": "Contact",
+            "pageId": "ContactUs"
+        },
+       
+        {
+            "pageName": "Reviews",
+            "pageId": "Reviews"
+        }
+    ]
+}
