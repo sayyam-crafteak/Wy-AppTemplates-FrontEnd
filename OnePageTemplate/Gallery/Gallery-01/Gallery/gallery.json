@@ -1,167 +1,161 @@
 {
-    "main": {
-        "css": "container mx-auto",
-        "section-1": {
-            "css": "container mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8",
-            "div-s1d1": {
-                "css": "mx-auto max-w-4xl text-center",
-                "heading-s1d1h1": {
-                    "css": "text-4xl font-extrabold tracking-tight text-slate-900 sm:text-5xl",
-                    "text": "A Glimpse of Vidarbha",
-                    "type": "h1"
-                },
-                "paragraph-s1d1p1": {
-                    "css": "mt-4 text-xl text-slate-600",
-                    "text": "Explore the vibrant culture, rich history, and natural beauty of the Vidarbha region, centered around its heart, Nagpur."
-                }
-            },
-            "div-s1d2": {
-                "css": "mt-16 space-y-16",
-                "div-s1d2d1": {
-                    "css": "flex flex-col items-center gap-12 md:flex-row",
-                    "div-s1d2d1d1": {
-                        "css": "w-full md:w-1/2",
-                        "Image-s1d2d1d1img1": {
-                            "src": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-                            "alt": "Buddhist temple and stupa architecture",
-                            "css": "aspect-video w-full rounded-xl object-cover shadow-2xl",
-                            "text": ""
-                        }
-                    },
-                    "div-s1d2d1d2": {
-                        "css": "w-full md:w-1/2",
-                        "heading-s1d2d1d2h1": {
-                            "css": "text-3xl font-bold tracking-tight text-slate-900",
-                            "text": "The Serenity of Deekshabhoomi",
-                            "type": "h2"
-                        },
-                        "paragraph-s1d2d1d2p1": {
-                            "css": "mt-4 text-lg leading-relaxed text-slate-600",
-                            "text": "Deekshabhoomi is a sacred monument and a major pilgrimage center for Buddhists in India. Its magnificent stupa, the largest in Asia, stands as a symbol of peace and social equality, attracting visitors from all over the world."
-                        }
-                    }
-                },
-                "div-s1d2d2": {
-                    "css": "flex flex-col items-center gap-12 md:flex-row-reverse",
-                    "div-s1d2d2d1": {
-                        "css": "w-full md:w-1/2",
-                        "Image-s1d2d2d1img1": {
-                            "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-                            "alt": "Royal Bengal Tiger in dense forest",
-                            "css": "aspect-video w-full rounded-xl object-cover shadow-2xl",
-                            "text": ""
-                        }
-                    },
-                    "div-s1d2d2d2": {
-                        "css": "w-full md:w-1/2",
-                        "heading-s1d2d2d2h1": {
-                            "css": "text-3xl font-bold tracking-tight text-slate-900",
-                            "text": "Wildlife at Tadoba",
-                            "type": "h2"
-                        },
-                        "paragraph-s1d2d2d2p1": {
-                            "css": "mt-4 text-lg leading-relaxed text-slate-600",
-                            "text": "The Tadoba Andhari Tiger Reserve, located in the Chandrapur district, is one of India's premier destinations for tiger sightings. Its dense forests and sprawling meadows are home to a rich biodiversity, including leopards, sloth bears, and countless bird species."
-                        }
-                    }
-                },
-                "div-s1d2d3": {
-                    "css": "flex flex-col items-center gap-12 md:flex-row",
-                    "div-s1d2d3d1": {
-                        "css": "w-full md:w-1/2",
-                        "Image-s1d2d3d1img1": {
-                            "src": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-                            "alt": "Fresh oranges in a basket at orchard",
-                            "css": "aspect-video w-full rounded-xl object-cover shadow-2xl",
-                            "text": ""
-                        }
-                    },
-                    "div-s1d2d3d2": {
-                        "css": "w-full md:w-1/2",
-                        "heading-s1d2d3d2h1": {
-                            "css": "text-3xl font-bold tracking-tight text-slate-900",
-                            "text": "Nagpur: The Orange City",
-                            "type": "h2"
-                        },
-                        "paragraph-s1d2d3d2p1": {
-                            "css": "mt-4 text-lg leading-relaxed text-slate-600",
-                            "text": "Famed for its sweet and juicy oranges, Nagpur is the largest trader of this citrus fruit in India. The surrounding region's fertile soil and climate are perfect for cultivating the unique flavor that has earned the city its moniker."
-                        }
-                    }
-                },
-                "div-s1d2d4": {
-                    "css": "flex flex-col items-center gap-12 md:flex-row-reverse",
-                    "div-s1d2d4d1": {
-                        "css": "w-full md:w-1/2",
-                        "Image-s1d2d4d1img1": {
-                            "src": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-                            "alt": "Spicy Indian curry being cooked in large pan",
-                            "css": "aspect-video w-full rounded-xl object-cover shadow-2xl",
-                            "text": ""
-                        }
-                    },
-                    "div-s1d2d4d2": {
-                        "css": "w-full md:w-1/2",
-                        "heading-s1d2d4d2h1": {
-                            "css": "text-3xl font-bold tracking-tight text-slate-900",
-                            "text": "The Flavors of Saoji",
-                            "type": "h2"
-                        },
-                        "paragraph-s1d2d4d2p1": {
-                            "css": "mt-4 text-lg leading-relaxed text-slate-600",
-                            "text": "Vidarbha's culinary scene is defined by Saoji cuisine, known for its extremely spicy and flavorful dishes. Prepared with a unique blend of wet and dry spices, this style of cooking creates rich, fiery curries that are a must-try for any food enthusiast."
-                        }
-                    }
-                },
-                "div-s1d2d5": {
-                    "css": "flex flex-col items-center gap-12 md:flex-row",
-                    "div-s1d2d5d1": {
-                        "css": "w-full md:w-1/2",
-                        "Image-s1d2d5d1img1": {
-                            "src": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-                            "alt": "Traditional Indian dance performance",
-                            "css": "aspect-video w-full rounded-xl object-cover shadow-2xl",
-                            "text": ""
-                        }
-                    },
-                    "div-s1d2d5d2": {
-                        "css": "w-full md:w-1/2",
-                        "heading-s1d2d5d2h1": {
-                            "css": "text-3xl font-bold tracking-tight text-slate-900",
-                            "text": "Rich Cultural Heritage",
-                            "type": "h2"
-                        },
-                        "paragraph-s1d2d5d2p1": {
-                            "css": "mt-4 text-lg leading-relaxed text-slate-600",
-                            "text": "Vidarbha boasts a rich tapestry of cultural traditions, from classical dance forms to folk music. The region's festivals and celebrations showcase centuries-old customs that continue to thrive in modern times, preserving the authentic spirit of Maharashtra."
-                        }
-                    }
-                },
-                "div-s1d2d6": {
-                    "css": "flex flex-col items-center gap-12 md:flex-row-reverse",
-                    "div-s1d2d6d1": {
-                        "css": "w-full md:w-1/2",
-                        "Image-s1d2d6d1img1": {
-                            "src": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-                            "alt": "Ancient fort architecture with stone walls",
-                            "css": "aspect-video w-full rounded-xl object-cover shadow-2xl",
-                            "text": ""
-                        }
-                    },
-                    "div-s1d2d6d2": {
-                        "css": "w-full md:w-1/2",
-                        "heading-s1d2d6d2h1": {
-                            "css": "text-3xl font-bold tracking-tight text-slate-900",
-                            "text": "Historical Forts and Monuments",
-                            "type": "h2"
-                        },
-                        "paragraph-s1d2d6d2p1": {
-                            "css": "mt-4 text-lg leading-relaxed text-slate-600",
-                            "text": "The region is dotted with magnificent forts and historical monuments that tell tales of brave warriors and ancient dynasties. These architectural marvels stand as testament to the region's glorious past and strategic importance in Indian history."
-                        }
-                    }
-                }
-            }
+  "main": {
+    "css": "",
+    "section-1": {
+      "css": "mx-auto max-w-7xl px-4 py-16 sm:px-6",
+      "div-s1d1": {
+        "css": "mx-auto max-w-4xl text-center",
+        "heading-s1d1h1": {
+          "css": "text-fontSize font-fontWeight tracking-tight text-textPrimary sm:text-smFontSize",
+          "text": "A Glimpse of Vidarbha",
+          "type": "h1"
+        },
+        "paragraph-s1d1p1": {
+          "css": "mt-4 text-fontSize text-textPrimary",
+          "text": "Explore the vibrant culture, rich history, and natural beauty of the Vidarbha region, centered around its heart, Nagpur."
         }
+      },
+      "div-s1d2": {
+        "css": "mt-16 space-y-16",
+        "div-s1d2d1": {
+          "css": "flex flex-col items-center gap-12 sm:flex-row",
+          "div-s1d2d1d1": {
+            "css": "w-full sm:w-1/2",
+            "Image-s1d2d1d1img1": {
+              "src": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+              "alt": "Buddhist temple and stupa architecture",
+              "css": "aspect-video w-full rounded-xl object-cover shadow-2xl"
+            }
+          },
+          "div-s1d2d1d2": {
+            "css": "w-full sm:w-1/2",
+            "heading-s1d2d1d2h2": {
+              "css": "text-fontSize font-fontWeight tracking-tight text-textPrimary",
+              "text": "The Serenity of Deekshabhoomi",
+              "type": "h2"
+            },
+            "paragraph-s1d2d1d2p1": {
+              "css": "mt-4 text-fontSize leading-relaxed text-textPrimary",
+              "text": "Deekshabhoomi is a sacred monument and a major pilgrimage center for Buddhists in India. Its magnificent stupa, the largest in Asia, stands as a symbol of peace and social equality, attracting visitors from all over the world."
+            }
+          }
+        },
+        "div-s1d2d2": {
+          "css": "flex flex-col items-center gap-12 sm:flex-row-reverse",
+          "div-s1d2d2d1": {
+            "css": "w-full sm:w-1/2",
+            "Image-s1d2d2d1img1": {
+              "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+              "alt": "Royal Bengal Tiger in dense forest",
+              "css": "aspect-video w-full rounded-xl object-cover shadow-2xl"
+            }
+          },
+          "div-s1d2d2d2": {
+            "css": "w-full sm:w-1/2",
+            "heading-s1d2d2d2h2": {
+              "css": "text-fontSize font-fontWeight tracking-tight text-textPrimary",
+              "text": "Wildlife at Tadoba",
+              "type": "h2"
+            },
+            "paragraph-s1d2d2d2p1": {
+              "css": "mt-4 text-fontSize leading-relaxed text-textPrimary",
+              "text": "The Tadoba Andhari Tiger Reserve, located in the Chandrapur district, is one of India's premier destinations for tiger sightings. Its dense forests and sprawling meadows are home to a rich biodiversity, including leopards, sloth bears, and countless bird species."
+            }
+          }
+        },
+        "div-s1d2d3": {
+          "css": "flex flex-col items-center gap-12 sm:flex-row",
+          "div-s1d2d3d1": {
+            "css": "w-full sm:w-1/2",
+            "Image-s1d2d3d1img1": {
+              "src": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+              "alt": "Fresh oranges in a basket at orchard",
+              "css": "aspect-video w-full rounded-xl object-cover shadow-2xl"
+            }
+          },
+          "div-s1d2d3d2": {
+            "css": "w-full sm:w-1/2",
+            "heading-s1d2d3d2h2": {
+              "css": "text-fontSize font-fontWeight tracking-tight text-textPrimary",
+              "text": "Nagpur: The Orange City",
+              "type": "h2"
+            },
+            "paragraph-s1d2d3d2p1": {
+              "css": "mt-4 text-fontSize leading-relaxed text-textPrimary",
+              "text": "Famed for its sweet and juicy oranges, Nagpur is the largest trader of this citrus fruit in India. The surrounding region's fertile soil and climate are perfect for cultivating the unique flavor that has earned the city its moniker."
+            }
+          }
+        },
+        "div-s1d2d4": {
+          "css": "flex flex-col items-center gap-12 sm:flex-row-reverse",
+          "div-s1d2d4d1": {
+            "css": "w-full sm:w-1/2",
+            "Image-s1d2d4d1img1": {
+              "src": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+              "alt": "Spicy Indian curry being cooked in large pan",
+              "css": "aspect-video w-full rounded-xl object-cover shadow-2xl"
+            }
+          },
+          "div-s1d2d4d2": {
+            "css": "w-full sm:w-1/2",
+            "heading-s1d2d4d2h2": {
+              "css": "text-fontSize font-fontWeight tracking-tight text-textPrimary",
+              "text": "The Flavors of Saoji",
+              "type": "h2"
+            },
+            "paragraph-s1d2d4d2p1": {
+              "css": "mt-4 text-fontSize leading-relaxed text-textPrimary",
+              "text": "Vidarbha's culinary scene is defined by Saoji cuisine, known for its extremely spicy and flavorful dishes. Prepared with a unique blend of wet and dry spices, this style of cooking creates rich, fiery curries that are a must-try for any food enthusiast."
+            }
+          }
+        },
+        "div-s1d2d5": {
+          "css": "flex flex-col items-center gap-12 sm:flex-row",
+          "div-s1d2d5d1": {
+            "css": "w-full sm:w-1/2",
+            "Image-s1d2d5d1img1": {
+              "src": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+              "alt": "Traditional Indian dance performance",
+              "css": "aspect-video w-full rounded-xl object-cover shadow-2xl"
+            }
+          },
+          "div-s1d2d5d2": {
+            "css": "w-full sm:w-1/2",
+            "heading-s1d2d5d2h2": {
+              "css": "text-fontSize font-fontWeight tracking-tight text-textPrimary",
+              "text": "Rich Cultural Heritage",
+              "type": "h2"
+            },
+            "paragraph-s1d2d5d2p1": {
+              "css": "mt-4 text-fontSize leading-relaxed text-textPrimary",
+              "text": "Vidarbha boasts a rich tapestry of cultural traditions, from classical dance forms to folk music. The region's festivals and celebrations showcase centuries-old customs that continue to thrive in modern times, preserving the authentic spirit of Maharashtra."
+            }
+          }
+        },
+        "div-s1d2d6": {
+          "css": "flex flex-col items-center gap-12 sm:flex-row-reverse",
+          "div-s1d2d6d1": {
+            "css": "w-full sm:w-1/2",
+            "Image-s1d2d6d1img1": {
+              "src": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+              "alt": "Ancient fort architecture with stone walls",
+              "css": "aspect-video w-full rounded-xl object-cover shadow-2xl"
+            }
+          },
+          "div-s1d2d6d2": {
+            "css": "w-full sm:w-1/2",
+            "heading-s1d2d6d2h2": {
+              "css": "text-fontSize font-fontWeight tracking-tight text-textPrimary",
+              "text": "Historical Forts and Monuments",
+              "type": "h2"
+            },
+            "paragraph-s1d2d6d2p1": {
+              "css": "mt-4 text-fontSize leading-relaxed text-textPrimary",
+              "text": "The region is dotted with magnificent forts and historical monuments that tell tales of brave warriors and ancient dynasties. These architectural marvels stand as testament to the region's glorious past and strategic importance in Indian history."
+            }
+          }
+        }
+      }
     }
+  }
 }

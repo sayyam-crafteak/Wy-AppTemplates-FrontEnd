@@ -1,1 +1,0 @@
-# Wy-AppTemplates-FrontEnd

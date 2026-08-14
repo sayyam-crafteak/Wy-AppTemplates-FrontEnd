@@ -1,129 +1,124 @@
 {
     "main": {
-        "css": "min-h-screen bg-gradient-to-b from-green-50 to-white font-sans",
+        "css": "",
         "section-1": {
-            "css": "pt-40 pb-32 bg-gradient-to-b from-green-200 to-white",
+            "css": "bg-gradient-to-b from-green-200 to-white pt-10 pb-5",
             "div-s1d1": {
-                "css": "container mx-auto px-6",
+                "css": "mx-auto px-6",
                 "div-s1d1d1": {
-                    "css": "text-center max-w-3xl mx-auto",
+                    "css": "mx-auto max-w-3xl text-center",
                     "heading-s1d1d1h1": {
-                        "css": "text-6xl md:text-7xl font-extrabold text-gray-800 mb-8 leading-tight tracking-tight",
+                        "css": "mb-8 text-fontSize md:text-mdfontSize lg:text-lgfontSize leading-tight font-fontWeight text-italic text-underline tracking-tight text-textPrimary",
                         "text": "🌱 Let's Start Your Journey",
                         "type": "h1"
                     },
                     "paragraph-s1d1d1p1": {
-                        "css": "text-gray-600 text-xl md:text-2xl leading-relaxed font-medium",
+                        "css": "text-fontSize md:text-mdfontSize lg:text-lgfontSize leading-relaxed font-fontWeight text-italic text-underline text-textSecondary",
                         "text": "Ready to transform your life through better nutrition? Our team is here to support you every step of the way."
                     }
                 }
             }
         },
         "section-2": {
-            "css": "py-32 bg-white",
+            "css": "bg-backgroundSecondary py-32",
             "div-s2d1": {
-                "css": "container mx-auto px-6",
+                "css": "mx-auto px-6",
                 "div-s2d1d1": {
-                    "css": "grid grid-cols-1 md:grid-cols-3 gap-16",
+                    "css": "grid grid-cols-1 gap-16 sm:grid-cols-3",
                     "div-s2d1d1d1": {
-                        "css": "bg-gradient-to-br from-green-50 to-green-100 p-10 rounded-3xl text-center shadow-lg transition-all duration-300 hover:shadow-2xl hover:-translate-y-2",
-                        "type":"card",
-                        "paragraph-s2d1d1d1d1p1": {
-                            "css": "text-6xl mb-8",
+                        "css": "rounded-3xl bg-gradient-to-br from-green-50 to-green-100 p-10 text-center shadow-lg transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl",
+                        "paragraph-s2d1d1d1p1": {
+                            "css": "mb-8 text-fontSize",
                             "text": "🏢"
                         },
-                        "heading-s2d1d1d1h1": {
-                            "css": "text-2xl font-bold mb-6 text-gray-800",
+                        "heading-s2d1d1d1h3": {
+                            "css": "mb-6 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
                             "text": "Visit Our Office",
                             "type": "h3"
                         },
-                        "paragraph-s2d1d1d1p1": {
-                            "css": "text-gray-600 leading-relaxed text-lg",
-                            "text": "123 Nutrition Street\nHealth City, HC 12345\nUnited States"
+                        "paragraph-s2d1d1d1p2": {
+                            "css": "text-fontSize leading-relaxed text-textSecondary",
+                            "text": "123 Nutrition Street Health City, HC 12345 United States"
                         }
                     },
                     "div-s2d1d1d2": {
-                        "css": "bg-gradient-to-br from-green-50 to-green-100 p-10 rounded-3xl text-center shadow-lg transition-all duration-300 hover:shadow-2xl hover:-translate-y-2",
-                         "type":"card",
-                        "paragraph-s2d1d1d2d1p1": {
-                            "css": "text-6xl mb-8",
+                        "css": "rounded-3xl bg-gradient-to-br from-green-50 to-green-100 p-10 text-center shadow-lg transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl",
+                        "paragraph-s2d1d1d2p1": {
+                            "css": "mb-8 text-fontSize",
                             "text": "📞"
                         },
-                        "heading-s2d1d1d2h1": {
-                            "css": "text-2xl font-bold mb-6 text-gray-800",
+                        "heading-s2d1d1d2h3": {
+                            "css": "mb-6 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
                             "text": "Call Us",
                             "type": "h3"
                         },
-                        "paragraph-s2d1d1d2p1": {
-                            "css": "text-gray-600 leading-relaxed text-lg",
-                            "text": "Main: 123-4567\nToll-free: 1-800-NUTRICARE\nFax: 123-4568"
+                        "paragraph-s2d1d1d2p2": {
+                            "css": "text-fontSize leading-relaxed text-textSecondary",
+                            "text": "Main: 123-4567 Toll-free: 1-800-NUTRICARE Fax: 123-4568"
                         }
                     },
                     "div-s2d1d1d3": {
-                        "css": "bg-gradient-to-br from-green-50 to-green-100 p-10 rounded-3xl text-center shadow-lg transition-all duration-300 hover:shadow-2xl hover:-translate-y-2",
-                         "type":"card",
-                        "paragraph-s2d1d1d3d1p1": {
-                            "css": "text-6xl mb-8",
+                        "css": "rounded-3xl bg-gradient-to-br from-green-50 to-green-100 p-10 text-center shadow-lg transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl",
+                        "paragraph-s2d1d1d3p1": {
+                            "css": "mb-8 text-fontSize",
                             "text": "✉️"
                         },
-                        "heading-s2d1d1d3h1": {
-                            "css": "text-2xl font-bold mb-6 text-gray-800",
+                        "heading-s2d1d1d3h3": {
+                            "css": "mb-6 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
                             "text": "Email Us",
                             "type": "h3"
                         },
-                        "paragraph-s2d1d1d3p1": {
-                            "css": "text-gray-600 leading-relaxed text-lg",
-                            "text": "General: info@nutricare.com\nSupport: support@nutricare.com\nPress: media@nutricare.com"
+                        "paragraph-s2d1d1d3p2": {
+                            "css": "text-fontSize leading-relaxed text-textSecondary",
+                            "text": "General: [info@nutricare.com](mailto:info@nutricare.com) Support: [support@nutricare.com](mailto:support@nutricare.com) Press: media@nutricare.com"
                         }
                     }
                 }
             }
         },
         "section-3": {
-            "css": "py-32 bg-gradient-to-b from-green-50 to-white",
+            "css": "bg-gradient-to-b from-green-50 to-white py-20",
             "div-s3d1": {
-                "css": "container mx-auto px-6",
+                "css": "mx-auto px-6",
                 "div-s3d1d1": {
-                    "css": "max-w-4xl mx-auto",
-                    "heading-s3d1d1h1": {
-                        "css": "text-5xl font-bold text-center mb-20 text-gray-800",
+                    "css": "mx-auto max-w-4xl",
+                    "heading-s3d1d1h2": {
+                        "css": "mb-20 text-center text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
                         "text": "⏰ Office Hours",
                         "type": "h2"
                     },
                     "div-s3d1d1d1": {
-                        "css": "grid grid-cols-1 md:grid-cols-2 gap-16",
+                        "css": "grid grid-cols-1 gap-16 sm:grid-cols-2",
                         "div-s3d1d1d1d1": {
-                            "css": "bg-white p-12 rounded-3xl shadow-xl transition-all duration-300 hover:shadow-2xl",
-                             "type":"card",
-                            "heading-s3d1d1d1d1h1": {
-                                "css": "text-3xl font-bold mb-8 text-gray-800 flex items-center",
+                            "css": "rounded-3xl bg-backgroundSecondary p-12 shadow-xl transition-all duration-300 hover:shadow-2xl",
+                            "heading-s3d1d1d1d1h3": {
+                                "css": "mb-8 flex items-center text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
                                 "text": "Weekdays 🕒",
                                 "type": "h3"
                             },
                             "div-s3d1d1d1d1d1": {
                                 "css": "space-y-6",
                                 "paragraph-s3d1d1d1d1d1p1": {
-                                    "css": "flex justify-between text-xl font-medium",
+                                    "css": "flex justify-between text-fontSize font-fontWeight text-italic text-underline",
                                     "text": "Monday - Friday 9:00 AM - 6:00 PM"
                                 }
                             }
                         },
                         "div-s3d1d1d1d2": {
-                            "css": "bg-white p-12 rounded-3xl shadow-xl transition-all duration-300 hover:shadow-2xl",
-                             "type":"card",
-                            "heading-s3d1d1d1d2h1": {
-                                "css": "text-3xl font-bold mb-8 text-gray-800 flex items-center",
+                            "css": "rounded-3xl bg-backgroundSecondary p-12 shadow-xl transition-all duration-300 hover:shadow-2xl",
+                            "heading-s3d1d1d1d2h3": {
+                                "css": "mb-8 flex items-center text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
                                 "text": "Weekends 🗓️",
                                 "type": "h3"
                             },
                             "div-s3d1d1d1d2d1": {
                                 "css": "space-y-6",
                                 "paragraph-s3d1d1d1d2d1p1": {
-                                    "css": "flex justify-between text-xl font-medium",
+                                    "css": "flex justify-between text-fontSize font-fontWeight text-italic text-underline",
                                     "text": "Saturday 10:00 AM - 4:00 PM"
                                 },
                                 "paragraph-s3d1d1d1d2d1p2": {
-                                    "css": "flex justify-between text-xl font-medium",
+                                    "css": "flex justify-between text-fontSize font-fontWeight text-italic text-underline",
                                     "text": "SundayClosed"
                                 }
                             }
@@ -133,61 +128,129 @@
             }
         },
         "section-4": {
-            "css": "py-32 bg-white",
+            "css": "bg-backgroundSecondary py-20",
             "div-s4d1": {
-                "css": "container mx-auto px-6",
-                "heading-s4d1h1": {
-                    "css": "text-5xl font-bold text-center mb-20 text-gray-800",
-                    "text": " Find Us",
+                "css": "mx-auto px-6",
+                "heading-s4d1h2": {
+                    "css": "mb-20 text-center text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                    "text": "Find Us & Share Feedback",
                     "type": "h2"
                 },
                 "div-s4d1d1": {
-                    "css": "bg-gradient-to-br from-green-50 to-green-100 p-12 rounded-3xl max-w-5xl mx-auto shadow-xl",
+                    "css": "mx-auto max-w-7xl grid grid-cols-1 gap-16 lg:grid-cols-2",
                     "div-s4d1d1d1": {
-                        "css": "grid grid-cols-1 md:grid-cols-2 gap-16",
+                        "css": "rounded-3xl bg-gradient-to-br from-green-50 to-green-100 p-8 shadow-xl",
                         "div-s4d1d1d1d1": {
-                            "css": "space-y-8",
-                             "type":"card",
-                            "heading-s4d1d1d1d1h1": {
-                                "css": "text-3xl font-bold text-gray-800",
+                            "css": "space-y-6",
+                            "heading-s4d1d1d1d1h3": {
+                                "css": "text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
                                 "text": "Convenient Location",
                                 "type": "h3"
                             },
                             "paragraph-s4d1d1d1d1p1": {
-                                "css": "text-gray-600 text-xl leading-relaxed",
+                                "css": "text-fontSize leading-relaxed text-textSecondary",
                                 "text": "Our office is easily accessible by various modes of transportation. Located in the heart of Health City, we're just minutes away from downtown."
                             },
                             "div-s4d1d1d1d1d1": {
-                                "css": "space-y-6",
-                                "paragraph-s4d1d1d1d1d1d1p1": {
-                                    "css": "flex items-center space-x-4 text-lg font-medium",
+                                "css": "space-y-4",
+                                "paragraph-s4d1d1d1d1d1p1": {
+                                    "css": "flex items-center space-x-4 text-fontSize font-fontWeight text-italic text-underline",
                                     "text": "🚗 Ample parking available"
                                 },
-                                "paragraph-s4d1d1d1d1d1d2p1": {
-                                    "css": "flex items-center space-x-4 text-lg font-medium",
+                                "paragraph-s4d1d1d1d1d1p2": {
+                                    "css": "flex items-center space-x-4 text-fontSize font-fontWeight text-italic text-underline",
                                     "text": "🚌 Bus stop within 100m"
                                 },
-                                "paragraph-s4d1d1d1d1d1d3p1": {
-                                    "css": "flex items-center space-x-4 text-lg font-medium",
+                                "paragraph-s4d1d1d1d1d1p3": {
+                                    "css": "flex items-center space-x-4 text-fontSize font-fontWeight text-italic text-underline",
                                     "text": "🚶‍♂️ Walkable from downtown"
                                 }
                             }
                         },
                         "div-s4d1d1d1d2": {
-                            "css": "relative h-80 md:h-auto",
-                             "type":"card",
-                            "div-s4d1d1d1d2d2": {
-                                "css": "absolute inset-4 bg-green-100 rounded-xl flex items-center justify-center text-6xl",
-                                "div-s4d1d1d1d2d3": {
-                                    "css": "absolute bottom-4 left-4 right-4 bg-white p-6 rounded-xl shadow-lg",
-                                    "heading-s4d1d1d1d2d3h1": {
-                                        "css": "font-bold text-xl text-gray-800 mb-2",
-                                        "text": "NutriCare Office",
-                                        "type": "h4"
+                            "css": "mt-6 rounded-xl bg-backgroundSecondary p-6 shadow-lg",
+                            "heading-s4d1d1d1d2h4": {
+                                "css": "mb-2 text-fontSize font-fontWeight text-italic text-underline text-textPrimary",
+                                "text": "NutriCare Office",
+                                "type": "h4"
+                            },
+                            "paragraph-s4d1d1d1d2p1": {
+                                "css": "text-fontSize text-textSecondary",
+                                "text": "123 Nutrition Street, Health City"
+                            }
+                        }
+                    },
+                    "div-s4d1d1d2": {
+                        "name": "feedback-form-section",
+                        "css": "",
+                        "div-s4d1d1d2d1": {
+                            "css": "bg-gradient-to-br from-green-100 to-green-200 rounded-3xl shadow-2xl border-2 border-green-300 p-8 w-full",
+                            "heading-s4d1d1d2d1h1": {
+                                "type": "h2",
+                                "css": "text-fontSize font-fontWeight text-italic text-underline text-textPrimary mb-6 text-center",
+                                "text": "Share Your Experience"
+                            },
+                            "paragraph-s4d1d1d2d1p1": {
+                                "css": "text-center text-textSecondary mb-6 text-fontSize",
+                                "text": "Help us improve our nutrition services! Your feedback helps us serve you better."
+                            },
+                            "form-s4d1d1d2d1form1": {
+                                "css": "space-y-5",
+                                "formType": "feedback",
+                                "div-s4d1d1d2d1form1d1": {
+                                    "css": "space-y-2",
+                                    "label-s4d1d1d2d1form1d1label1": {
+                                        "for": "name",
+                                        "css": "block text-fontSize font-fontWeight text-italic text-underline text-textPrimary mb-2",
+                                        "text": "Name"
                                     },
-                                    "paragraph-s4d1d1d1d2d3p1": {
-                                        "css": "text-gray-600 text-lg",
-                                        "text": "123 Nutrition Street, Health City"
+                                    "input-s4d1d1d2d1form1d1input1": {
+                                        "type": "text",
+                                        "id": "name",
+                                        "name": "name",
+                                        "required": true,
+                                        "css": "w-full px-4 py-3 border-2 border-green-300 rounded-xl bg-backgroundSecondary focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-green-500 transition-all duration-300 hover:shadow-md text-textPrimary font-fontWeight text-italic text-underline",
+                                        "placeholder": "Enter your name"
+                                    }
+                                },
+                                "div-s4d1d1d2d1form1d2": {
+                                    "css": "space-y-2",
+                                    "label-s4d1d1d2d1form1d2label": {
+                                        "for": "email",
+                                        "css": "block text-fontSize font-fontWeight text-italic text-underline text-textPrimary mb-2",
+                                        "text": "Email"
+                                    },
+                                    "input-s4d1d1d2d1form1d2input1": {
+                                        "type": "email",
+                                        "id": "email",
+                                        "name": "email",
+                                        "required": true,
+                                        "css": "w-full px-4 py-3 border-2 border-green-300 rounded-xl bg-backgroundSecondary focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-green-500 transition-all duration-300 hover:shadow-md text-textPrimary font-fontWeight text-italic text-underline",
+                                        "placeholder": "Enter your email"
+                                    }
+                                },
+                                "div-s4d1d1d2d1form1d3": {
+                                    "css": "space-y-2",
+                                    "label-s4d1d1d2d1form1d3label1": {
+                                        "for": "feedback",
+                                        "css": "block text-fontSize font-fontWeight text-italic text-underline text-textPrimary mb-2",
+                                        "text": "Feedback"
+                                    },
+                                    "textarea-s4d1d1d2d1form1d3textarea1": {
+                                        "id": "feedback",
+                                        "name": "feedback",
+                                        "rows": 4,
+                                        "required": true,
+                                        "css": "w-full px-4 py-3 border-2 border-green-300 rounded-xl bg-backgroundSecondary focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-green-500 transition-all duration-300 hover:shadow-md resize-vertical text-textPrimary font-fontWeight text-italic text-underline",
+                                        "placeholder": "Tell us about your nutrition journey or suggest improvements..."
+                                    }
+                                },
+                                "div-s4d1d1d2d1form1d4": {
+                                    "css": "",
+                                    "button-s4d1d1d2d1form1d4button": {
+                                        "type": "submit",
+                                        "css": "w-full bg-gradient-to-r from-green-600 via-green-700 to-green-800 text-white font-fontWeight text-italic text-underline py-4 px-6 rounded-xl hover:from-green-700 hover:via-green-800 hover:to-green-900 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2 transition-all duration-300 transform hover:scale-105 shadow-xl hover:shadow-2xl text-fontSize",
+                                        "text": "Submit Feedback"
                                     }
                                 }
                             }

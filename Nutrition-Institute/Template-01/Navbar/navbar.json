@@ -17,6 +17,10 @@
         {
             "pageName": "Contact",
             "pageId": "ContactUs"
+        },
+        {
+            "pageName": "Footer",
+            "pageId": "Footer"
         }
     ]
 }
