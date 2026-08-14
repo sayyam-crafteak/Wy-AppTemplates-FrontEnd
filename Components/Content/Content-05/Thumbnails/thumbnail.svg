@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+  <!-- Background -->
+  <rect width="1200" height="700" fill="#f8f9fa" rx="5" ry="5"/>
+  
+  <!-- Large banner image placeholder -->
+  <rect x="80" y="50" width="1040" height="280" rx="3" ry="3" fill="#f0f0f0"/>
+  
+  <!-- Vertical divider line -->
+  <line x1="456" y1="380" x2="456" y2="700" stroke="#e6e6e6" stroke-width="1"/>
+  
+  <!-- Left section -->
+  <!-- Avatar circle placeholder -->
+  <circle cx="250" cy="465" r="60" fill="#f0f0f0" stroke="#e6e6e6" stroke-width="1"/>
+  
+  <!-- Username/profile name - bolder -->
+  <rect x="170" y="545" width="160" height="20" rx="3" ry="3" fill="#e0e0e0"/>
+  
+  <!-- Blue underline -->
+  <rect x="225" y="575" width="50" height="3" rx="1.5" ry="1.5" fill="#6366f1"/>
+  
+  <!-- Bio text lines -->
+  <rect x="120" y="605" width="260" height="10" rx="2" ry="2" fill="#eeeeee"/>
+  <rect x="140" y="625" width="220" height="10" rx="2" ry="2" fill="#eeeeee"/>
+  <rect x="160" y="645" width="180" height="10" rx="2" ry="2" fill="#eeeeee"/>
+  <rect x="180" y="665" width="140" height="10" rx="2" ry="2" fill="#eeeeee"/>
+  
+  <!-- Right section -->
+  <!-- Description paragraph lines -->
+  <rect x="496" y="437" width="650" height="12" rx="2" ry="2" fill="#eeeeee"/>
+  <rect x="496" y="467" width="650" height="12" rx="2" ry="2" fill="#eeeeee"/>
+  <rect x="496" y="497" width="650" height="12" rx="2" ry="2" fill="#eeeeee"/>
+  <rect x="496" y="527" width="650" height="12" rx="2" ry="2" fill="#eeeeee"/>
+  <rect x="496" y="557" width="650" height="12" rx="2" ry="2" fill="#eeeeee"/>
+  <rect x="496" y="587" width="650" height="12" rx="2" ry="2" fill="#eeeeee"/>
+  <rect x="496" y="617" width="500" height="12" rx="2" ry="2" fill="#eeeeee"/>
+  
+  <!-- Learn More link placeholder -->
+  <rect x="496" y="667" width="100" height="14" rx="2" ry="2" fill="#e0e0e0"/>
+  <!-- Arrow icon suggestion -->
+  <rect x="606" y="667" width="14" height="14" rx="7" ry="7" fill="#e0e0e0"/>
+</svg>

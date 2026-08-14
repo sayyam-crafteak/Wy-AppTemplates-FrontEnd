@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#main {
+  @apply container mx-auto;
+}
+
+#section-1 {
+  @apply text-gray-600;
+}
+
+#div-s1d1 {
+  @apply container px-5 py-24 mx-auto;
+}
+
+#div-s1d1d1 {
+  @apply flex flex-wrap -mx-4 -mb-10 text-center;
+}
+
+#div-s1d1d1d1 {
+  @apply sm:w-1/2 mb-10 px-4;
+}
+
+#div-s1d1d1d1d1 {
+  @apply rounded-lg h-64 overflow-hidden;
+}
+
+#Image-s1d1d1d1d1img1 {
+  @apply object-cover object-center h-full w-full;
+}
+
+#heading-s1d1d1d1h1 {
+  @apply text-2xl font-medium text-gray-900 mt-6 mb-3;
+}
+
+#paragraph-s1d1d1d1p1 {
+  @apply leading-relaxed text-base;
+}
+
+#div-s1d1d1d2 {
+  @apply sm:w-1/2 mb-10 px-4;
+}
+
+#div-s1d1d1d2d1 {
+  @apply rounded-lg h-64 overflow-hidden;
+}
+
+#Image-s1d1d1d2d1img1 {
+  @apply object-cover object-center h-full w-full;
+}
+
+#heading-s1d1d1d2h1 {
+  @apply text-2xl font-medium text-gray-900 mt-6 mb-3;
+}
+
+#paragraph-s1d1d1d2p1 {
+  @apply leading-relaxed text-base;
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Template-01",
+    "description": "Healthy Living: A perfect template for fitness enthusiasts and health coaches to showcase workouts, meal plans, and wellness tips with a modern and user-friendly design.",
+    "cost": "$200 USD",
+    "thumbnailUrls": [
+      "Thumbnail-01.png",
+      "Thumbnail-02.png",
+      "Thumbnail-03.png",
+      "Thumbnail-04.png"
+    ],
+    "tags": ["fitness", "health", "wellness", "exercise", "nutrition"]
+  },
+  {
+    "id": 2,
+    "name": "Template-02",
+    "description": "Nutrition Expert: A beautifully designed template tailored for dietitians and nutritionists. Share meal plans, promote healthy lifestyles, and connect with clients through a professional and engaging layout.",
+    "cost": "$220 USD",
+    "thumbnailUrls": [
+      "Thumbnail-01.png",
+      "Thumbnail-02.png",
+      "Thumbnail-03.png",
+      "Thumbnail-04.png"
+    ],
+    "tags": ["nutrition", "diet", "health", "recipes", "wellness", "lifestyle"]
+  }
+]

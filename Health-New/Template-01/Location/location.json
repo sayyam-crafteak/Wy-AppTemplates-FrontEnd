@@ -1,0 +1,50 @@
+{
+    "main": {
+        "css": "",
+        "section-1": {
+            "css": "",
+            "div-s1d1": {
+                "css": "flex flex-col",
+                "div-s1d1d1": {
+                    "css": "flex-grow bg-backgroundPrimary py-10 sm:px-4 sm:py-20",
+                    "heading-s1d1d1h2": {
+                        "css": "mb-10 text-center text-fontSize font-fontWeight text-textPrimary",
+                        "text": "Our Location",
+                        "type": "h2"
+                    },
+                    "div-s1d1d1d1": {
+                        "css": "mx-5 flex cursor-pointer justify-center sm:mx-20",
+                        "div-s1d1d1d1d1": {
+                            "css": "w-full max-w-2xl sm:w-1/2",
+                            "div-s1d1d1d1d1d1": {
+                                "css": "group relative h-80 overflow-hidden rounded-lg bg-backgroundPrimary shadow-md sm:h-96",
+                                "div-s1d1d1d1d1d1d1": {
+                                    "css": "absolute inset-0 transform transition-transform duration-500 group-hover:scale-110",
+                                    "Image-s1d1d1d1d1d1d1img1": {
+                                        "src": "Image-s1d1d1d1d1d1d1img1.jpg",
+                                        "css": "h-full w-full object-cover object-center"
+                                    }
+                                },
+                                "div-s1d1d1d1d1d1d2": {
+                                    "css": "bg-opacity-50 group-hover:bg-opacity-25 absolute inset-0 bg-backgroundPrimary transition-opacity duration-500"
+                                },
+                                "div-s1d1d1d1d1d1d3": {
+                                    "css": "relative z-10 flex h-full flex-col items-center justify-center p-6",
+                                    "heading-s1d1d1d1d1d1d3h3": {
+                                        "css": "mb-2 text-fontSize font-fontWeight text-textPrimary",
+                                        "text": "Eindhoven",
+                                        "type": "h3"
+                                    },
+                                    "paragraph-s1d1d1d1d1d1d3p1": {
+                                        "css": "text-semibold text-center text-fontSize text-textPrimary",
+                                        "text": "The Netherland"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

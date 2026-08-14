@@ -1,0 +1,260 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#main {
+    @apply container mx-auto
+}
+
+#section-1 {
+    @apply text-center mb-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12
+}
+
+#heading-s1h1 {
+    @apply text-4xl font-bold text-gray-900 mb-4
+}
+
+#paragraph-s1p1 {
+    @apply text-xl text-gray-600 max-w-2xl mx-auto
+}
+
+#section-2 {
+    @apply grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12
+}
+
+#div-s2d1 {
+    @apply bg-white rounded-lg shadow-md p-8 text-center hover:shadow-lg transition-shadow
+}
+
+#div-s2d1d1 {
+    @apply w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-6
+}
+
+#div-s2d1d1d1 {
+    @apply w-8 h-8 bg-blue-600 rounded
+}
+
+#heading-s2d1h1 {
+    @apply text-2xl font-bold text-gray-900 mb-4
+}
+
+#paragraph-s2d1p1 {
+    @apply text-gray-600 mb-6
+}
+
+#a-s2d1a1 {
+    @apply text-blue-600 hover:text-blue-800 font-medium
+}
+
+#div-s2d2 {
+    @apply bg-white rounded-lg shadow-md p-8 text-center hover:shadow-lg transition-shadow
+}
+
+#div-s2d2d1 {
+    @apply w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-6
+}
+
+#div-s2d2d1d1 {
+    @apply w-8 h-8 bg-green-600 rounded
+}
+
+#heading-s2d2h1 {
+    @apply text-2xl font-bold text-gray-900 mb-4
+}
+
+#paragraph-s2d2p1 {
+    @apply text-gray-600 mb-6
+}
+
+#a-s2d2a1 {
+    @apply text-blue-600 hover:text-blue-800 font-medium
+}
+
+#div-s2d3 {
+    @apply bg-white rounded-lg shadow-md p-8 text-center hover:shadow-lg transition-shadow
+}
+
+#div-s2d3d1 {
+    @apply w-16 h-16 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-6
+}
+
+#div-s2d3d1d1 {
+    @apply w-8 h-8 bg-purple-600 rounded
+}
+
+#heading-s2d3h1 {
+    @apply text-2xl font-bold text-gray-900 mb-4
+}
+
+#paragraph-s2d3p1 {
+    @apply text-gray-600 mb-6
+}
+
+#a-s2d3a1 {
+    @apply text-blue-600 hover:text-blue-800 font-medium
+}
+
+#div-s2d4 {
+    @apply bg-white rounded-lg shadow-md p-8 text-center hover:shadow-lg transition-shadow
+}
+
+#div-s2d4d1 {
+    @apply w-16 h-16 bg-orange-100 rounded-full flex items-center justify-center mx-auto mb-6
+}
+
+#div-s2d4d1d1 {
+    @apply w-8 h-8 bg-orange-600 rounded
+}
+
+#heading-s2d4h1 {
+    @apply text-2xl font-bold text-gray-900 mb-4
+}
+
+#paragraph-s2d4p1 {
+    @apply text-gray-600 mb-6
+}
+
+#a-s2d4a1 {
+    @apply text-blue-600 hover:text-blue-800 font-medium
+}
+
+#div-s2d5 {
+    @apply bg-white rounded-lg shadow-md p-8 text-center hover:shadow-lg transition-shadow
+}
+
+#div-s2d5d1 {
+    @apply w-16 h-16 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-6
+}
+
+#div-s2d5d1d1 {
+    @apply w-8 h-8 bg-red-600 rounded
+}
+
+#heading-s2d5h1 {
+    @apply text-2xl font-bold text-gray-900 mb-4
+}
+
+#paragraph-s2d5p1 {
+    @apply text-gray-600 mb-6
+}
+
+#a-s2d5a1 {
+    @apply text-blue-600 hover:text-blue-800 font-medium
+}
+
+#div-s2d6 {
+    @apply bg-white rounded-lg shadow-md p-8 text-center hover:shadow-lg transition-shadow
+}
+
+#div-s2d6d1 {
+    @apply w-16 h-16 bg-teal-100 rounded-full flex items-center justify-center mx-auto mb-6
+}
+
+
+#div-s2d6d1d1 {
+    @apply w-8 h-8 bg-teal-600 rounded
+}
+
+#heading-s2d6h1 {
+    @apply text-2xl font-bold text-gray-900 mb-4
+}
+
+#paragraph-s2d6p1 {
+    @apply text-gray-600 mb-6
+}
+
+#a-s2d6a1 {
+    @apply text-blue-600 hover:text-blue-800 font-medium
+}
+
+#section-3 {
+    @apply bg-white rounded-lg shadow-md p-8 mb-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12
+}
+
+#heading-s3h1 {
+    @apply text-3xl font-bold text-gray-900 mb-8 text-center
+}
+
+#div-s3d1 {
+    @apply grid grid-cols-1 md:grid-cols-4 gap-8
+}
+
+#div-s3d1d1 {
+    @apply text-center
+}
+
+#div-s3d1d1d1 {
+    @apply w-12 h-12 bg-blue-600 text-white rounded-full flex items-center justify-center mx-auto mb-4 font-bold
+}
+
+#heading-s3d1d1h1 {
+    @apply text-xl font-semibold text-gray-900 mb-2
+}
+
+#paragraph-s3d1d1p1 {
+    @apply text-gray-600
+}
+
+#div-s3d1d2 {
+    @apply text-center
+}
+
+#div-s3d1d2d1 {
+    @apply w-12 h-12 bg-blue-600 text-white rounded-full flex items-center justify-center mx-auto mb-4 font-bold
+}
+
+#heading-s3d1d2h1 {
+    @apply text-xl font-semibold text-gray-900 mb-2
+}
+
+#paragraph-s3d1d2p1 {
+    @apply text-gray-600
+}
+
+#div-s3d1d3 {
+    @apply text-center
+}
+
+#div-s3d1d3d1 {
+    @apply w-12 h-12 bg-blue-600 text-white rounded-full flex items-center justify-center mx-auto mb-4 font-bold
+}
+
+#heading-s3d1d3h1 {
+    @apply text-xl font-semibold text-gray-900 mb-2
+}
+
+#paragraph-s3d1d3p1 {
+    @apply text-gray-600
+}
+
+#div-s3d1d4 {
+    @apply text-center
+}
+
+#div-s3d1d4d1 {
+    @apply w-12 h-12 bg-blue-600 text-white rounded-full flex items-center justify-center mx-auto mb-4 font-bold
+}
+
+#heading-s3d1d4h1 {
+    @apply text-xl font-semibold text-gray-900 mb-2
+}
+
+#paragraph-s3d1d4p1 {
+    @apply text-gray-600
+}
+
+#section-4 {
+    @apply bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg shadow-md p-8 text-white text-center max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12
+}
+
+#heading-s4h1 {
+    @apply text-3xl font-bold mb-4
+}
+
+#paragraph-s4p1 {
+    @apply text-xl mb-8
+}
+
+#a-s4a1 {
+    @apply bg-white text-blue-600 px-8 py-3 rounded-lg hover:bg-gray-100 transition-colors font-medium
+}

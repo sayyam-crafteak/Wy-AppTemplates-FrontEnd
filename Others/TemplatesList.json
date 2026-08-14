@@ -1,0 +1,19 @@
+[
+    
+
+    {
+      "id": 1,
+      "name": "Template-01",
+      "description": "This template can be used to showcase design portfolios, project highlights, or client testimonials. It offers visually stunning layouts that allow designers to present their work with elegance and creativity. Perfect for attracting clients and establishing a professional online presence.",
+      "cost": "$200 USD",
+     "thumbnailUrls": [
+      "thumbnail-01.png",
+      "thumbnail-02.png",
+      "thumbnail-03.png",
+      "thumbnail-04.png"
+    ],
+      "tags": ["interior design", "home decor", "portfolio", "architecture", "modern", "professional", "creative", "luxury", "projects", "clients"]
+
+    }
+    
+  ]

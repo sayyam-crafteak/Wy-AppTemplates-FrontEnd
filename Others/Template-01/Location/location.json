@@ -1,0 +1,145 @@
+{
+    "main": {
+        "css": "min-h-screen bg-gray-50",
+        "section-1": {
+            "css": "container mx-auto px-4 py-20",
+            "div-s1d1": {
+                "css": "text-center",
+                "heading-s1d1h1": {
+                    "css": "text-6xl font-extrabold text-gray-900 mb-4",
+                    "text": "Our Design Studio",
+                    "type": "h1"
+                },
+                "paragraph-s1d1p1": {
+                    "css": "text-xl text-gray-600 max-w-3xl mx-auto",
+                    "text": "Where Creativity Meets Elegance in the Heart of Milan"
+                }
+            }
+        },
+        "section-2": {
+            "css": "bg-white py-24",
+            "div-s2d1": {
+                "css": "container mx-auto px-4",
+                "div-s2d1d1": {
+                    "css": "flex flex-col md:flex-row items-center justify-between",
+                    "div-s2d1d1d1": {
+                        "css": "w-full md:w-1/2 mb-12 md:mb-0",
+                        "iframe-s2d1d1iframe1": {
+                            "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.2412648718453!2d-73.98784368459395!3d40.74844797932847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9b3117469%3A0xd134e199a405a163!2sEmpire%20State%20Building!5e0!3m2!1sen!2sus!4v1642277641896!5m2!1sen!2sus",
+                            "alt": "",
+                            "width": "50%",
+                            "height": "50%",
+                            "css": " h-full sm:h-screen w-full",
+                            "directly_added_other_attributes": "",
+                            "loading": "lazy"
+                        }
+                    },
+                    "div-s2d1d1d2": {
+                        "css": "w-full md:w-1/2 md:pl-12",
+                        "heading-s2d1d1d2h1": {
+                            "css": "text-4xl font-bold text-gray-800 mb-6",
+                            "text": "A Space Designed to Inspire",
+                            "type": "h2"
+                        },
+                        "paragraph-s2d1d1d2p1": {
+                            "css": "text-gray-600 mb-8",
+                            "text": "Our studio is a testament to our design philosophy. Nestled in the fashion capital of the world, it serves as a living portfolio of our expertise and vision."
+                        },
+                        "div-s2d1d1d2d1": {
+                            "css": "bg-gray-100 p-6 rounded-lg",
+                            "paragraph-s2d1d1d2d1p1": {
+                                "css": "text-gray-800 font-semibold mb-2",
+                                "text": "Via della Spiga, 20, 20121 Milano MI, Italy"
+                            },
+                            "paragraph-s2d1d1d2d1p2": {
+                                "css": "text-gray-600",
+                                "text": "In the prestigious Quadrilatero della moda district"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "section-3": {
+            "css": "container mx-auto px-4 py-24",
+            "div-s3d1": {
+                "css": "max-w-4xl mx-auto",
+                "heading-s3d1h1": {
+                    "css": "text-3xl font-bold text-gray-800 mb-12 text-center",
+                    "text": "Why Our Location Matters",
+                    "type": "h2"
+                },
+                "div-s3d1d1": {
+                    "css": "grid md:grid-cols-2 gap-12",
+                    "div-s3d1d1d1": {
+                        "css": "bg-white p-8 rounded-xl shadow-lg",
+                        "heading-s3d1d1d1h1": {
+                            "css": "text-xl font-semibold text-gray-800 mb-4 flex items-center",
+                            "text": "Immersed in Design",
+                            "type": "h3"
+                        },
+                        "paragraph-s3d1d1d1p1": {
+                            "css": "text-gray-600",
+                            "text": "Surrounded by Milan's finest architecture and design showrooms, we draw constant inspiration from our environment."
+                        }
+                    },
+                    "div-s3d1d1d2": {
+                        "css": "bg-white p-8 rounded-xl shadow-lg",
+                        "heading-s3d1d1d2h1": {
+                            "css": "text-xl font-semibold text-gray-800 mb-4 flex items-center",
+                            "text": "Client Convenience",
+                            "type": "h3"
+                        },
+                        "paragraph-s3d1d1d2p1": {
+                            "css": "text-gray-600",
+                            "text": "Our central location ensures easy access for our discerning clientele, whether local or international."
+                        }
+                    },
+                    "div-s3d1d1d3": {
+                        "css": "bg-white p-8 rounded-xl shadow-lg",
+                        "heading-s3d1d1d3h1": {
+                            "css": "text-xl font-semibold text-gray-800 mb-4 flex items-center",
+                            "text": "Curated Experience",
+                            "type": "h3"
+                        },
+                        "paragraph-s3d1d1d3p1": {
+                            "css": "text-gray-600",
+                            "text": "Our studio itself is a carefully curated space, showcasing our design capabilities from the moment you step in."
+                        }
+                    },
+                    "div-s3d1d1d4": {
+                        "css": "bg-white p-8 rounded-xl shadow-lg",
+                        "heading-s3d1d1d4h1": {
+                            "css": "text-xl font-semibold text-gray-800 mb-4 flex items-center",
+                            "text": "Networking Hub",
+                            "type": "h3"
+                        },
+                        "paragraph-s3d1d1d4p1": {
+                            "css": "text-gray-600",
+                            "text": "Our location puts us at the heart of Milan's design community, fostering collaborations with artisans and fellow creatives."
+                        }
+                    }
+                }
+            }
+        },
+        "section-4": {
+            "css": "bg-gray-900 text-white py-24",
+            "div-s4d1": {
+                "css": "container mx-auto px-4 text-center",
+                "heading-s4d1h1": {
+                    "css": "text-4xl font-bold mb-8",
+                    "text": "Experience Our Studio",
+                    "type": "h2"
+                },
+                "paragraph-s4d1p1": {
+                    "css": "text-xl mb-12 max-w-2xl mx-auto",
+                    "text": "We invite you to visit our studio and witness firsthand the environment where we craft luxurious interiors. Schedule your private tour today."
+                },
+                "button-s4d1b1": {
+                    "css": "bg-white text-gray-900 font-bold py-3 px-8 rounded-full hover:bg-gray-200 transition duration-300",
+                    "text": "Book a Visit"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "main": {
+    "css": "",
+    "section-1": {
+      "css": "",
+      "div-s1d1": {
+        "css": "max-w-[1400px] mx-auto sm:px-20 sm:py-10 rounded-3xl bg-transparent",
+        "heading-s1d1h2": {
+          "css": "text-fontSize sm:text-smFontSize font-fontWeight text-center mb-12 text-textPrimary",
+          "text": "Visit Our Campus",
+          "type": "h2"
+        },
+        "div-s1d1d1": {
+          "css": "mb-12 bg-transparent rounded-lg overflow-hidden",
+          "iframe-s1d1d1i1": {
+            "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387193.30596073366!2d-74.25987368715491!3d40.69767006458873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sin!4v1647427745819!5m2!1sen!2sin",
+            "title": "Location Map",
+            "width": "100%",
+            "height": "550",
+            "loading": "lazy",
+            "referrerpolicy": "no-referrer-when-downgrade",
+            "css": "bg-transparent"
+          }
+        }
+      }
+    }
+  }
+}

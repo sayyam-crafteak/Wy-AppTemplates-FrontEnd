@@ -1,0 +1,124 @@
+{
+    "main": {
+        "css": "",
+        "section-1": {
+            "css": "flex py-20",
+            "div-s1d1": {
+                "css": "flex w-full flex-col",
+                "div-s1d1d1": {
+                    "css": "mb-10 px-4 text-center",
+                    "heading-s1d1d1h1": {
+                        "css": "mb-8 text-4xl font-bold text-black sm:text-6xl",
+                        "text": "Who We Are",
+                        "type": "h1"
+                    },
+                    "paragraph-s1d1d1p1": {
+                        "css": "mb-10 px-5 text-center text-lg text-neutral-800 sm:px-30",
+                        "text": "At Swami Vievkanand Academy, we're more than just educators; we're passionate mentors shaping young minds. Our dedicated team of experienced teachers is committed to providing a nurturing and stimulating learning environment. We believe in fostering a love for learning, encouraging critical thinking, and empowering students to reach their full potential. Our innovative teaching methods, coupled with a strong emphasis on character development, ensure that our students excel both academically and personally. We're dedicated to creating a positive and inclusive school culture where every child feels valued and inspired. Join us on this exciting journey of learning and growth."
+                    }
+                },
+                "div-s1d1d2": {
+                    "css": "h-full w-full px-10 sm:px-20",
+                    "heading-s1d1d2h1": {
+                        "css": "text-center text-4xl font-semibold text-neutral-800 underline sm:px-10 sm:text-left",
+                        "text": "TEAM",
+                        "type": "h1"
+                    },
+                    "div-s1d1d2d1": {
+                        "css": "flex h-full w-full flex-col items-center justify-center",
+                        "div-s1d1d2d1d1": {
+                            "css": "grid w-full auto-rows-fr grid-cols-1 gap-y-10 py-5 sm:grid-cols-3 sm:gap-x-12 sm:px-10",
+                            "div-s1d1d2d1d1d1": {
+                                "css": "relative h-fit transform transition-transform duration-300 hover:-translate-y-2 hover:shadow-md",
+                                "div-s1d1d2d1d1d1d1": {
+                                    "css": "absolute inset-0 -translate-x-4 -translate-y-4 transform bg-orange-500"
+                                },
+                                "div-s1d1d2d1d1d1d2": {
+                                    "css": "relative z-10 overflow-hidden bg-zinc-50",
+                                    "div-s1d1d2d1d1d1d2d1": {
+                                        "css": "relative cursor-pointer",
+                                        "Image-s1d1d2d1d1d1d2d1img1": {
+                                            "src": "Image-s1d1d2d1d1d1d2d1img1.jpg",
+                                            "alt": "Team Member 1",
+                                            "css": "object-cover"
+                                        }
+                                    },
+                                    "div-s1d1d2d1d1d1d2d2": {
+                                        "css": "p-6 text-center",
+                                        "heading-s1d1d2d1d1d1d2d2h1": {
+                                            "css": "mb-2 text-xl font-semibold text-black",
+                                            "text": "Dr. John Smith",
+                                            "type": "h1"
+                                        },
+                                        "paragraph-s1d1d2d1d1d1d2d2p1": {
+                                            "css": "text-black",
+                                            "text": "Mathematics"
+                                        }
+                                    }
+                                }
+                            },
+                            "div-s1d1d2d1d1d2": {
+                                "css": "relative h-fit transform transition-transform duration-300 hover:-translate-y-2 hover:shadow-md",
+                                "div-s1d1d2d1d1d2d1": {
+                                    "css": "absolute inset-0 -translate-x-4 -translate-y-4 transform bg-orange-500"
+                                },
+                                "div-s1d1d2d1d1d2d2": {
+                                    "css": "relative z-10 overflow-hidden bg-zinc-50",
+                                    "div-s1d1d2d1d1d2d2d1": {
+                                        "css": "relative cursor-pointer",
+                                        "Image-s1d1d2d1d1d2d2d1img1": {
+                                            "src": "Image-s1d1d2d1d1d2d2d1img1.jpg",
+                                            "alt": "Team Member 2",
+                                            "css": "object-cover"
+                                        }
+                                    },
+                                    "div-s1d1d2d1d1d2d2d2": {
+                                        "css": "p-6 text-center",
+                                        "heading-s1d1d2d1d1d2d2d2h1": {
+                                            "css": "mb-2 text-xl font-semibold text-black",
+                                            "text": "Dr. John Doe",
+                                            "type": "h1"
+                                        },
+                                        "paragraph-s1d1d2d1d1d2d2d2p1": {
+                                            "css": "text-black",
+                                            "text": "Science"
+                                        }
+                                    }
+                                }
+                            },
+                            "div-s1d1d2d1d1d3": {
+                                "css": "relative h-fit transform transition-transform duration-300 hover:-translate-y-2 hover:shadow-md",
+                                "div-s1d1d2d1d1d3d1": {
+                                    "css": "absolute inset-0 -translate-x-4 -translate-y-4 transform bg-orange-500"
+                                },
+                                "div-s1d1d2d1d1d3d2": {
+                                    "css": "relative z-10 overflow-hidden bg-zinc-50",
+                                    "div-s1d1d2d1d1d3d2d1": {
+                                        "css": "relative cursor-pointer",
+                                        "Image-s1d1d2d1d1d3d2d1img1": {
+                                            "src": "Image-s1d1d2d1d1d3d2d1img1.jpg",
+                                            "alt": "Team Member 3",
+                                            "css": "object-cover"
+                                        }
+                                    },
+                                    "div-s1d1d2d1d1d3d2d2": {
+                                        "css": "p-6 text-center",
+                                        "heading-s1d1d2d1d1d3d2d2h1": {
+                                            "css": "mb-2 text-xl font-semibold text-black",
+                                            "text": "Dr. Michael Lee",
+                                            "type": "h1"
+                                        },
+                                        "paragraph-s1d1d2d1d1d3d2d2p1": {
+                                            "css": "text-black",
+                                            "text": "Geography"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "main": {
+        "css": "min-h-screen bg-white",
+        "section-1": {
+            "css": "container mx-auto px-4 py-16",
+            "div-s1d1": {
+                "css": "text-center",
+                "heading-s1d1h1": {
+                    "css": "text-5xl font-bold text-orange-300 mb-4",
+                    "text": "Your Wellness Destination",
+                    "type": "h1"
+                },
+                "paragraph-s1d1p1": {
+                    "css": "text-xl text-golden-500 font-semibold",
+                    "text": "Discover Our State-of-the-Art Health Coaching Facility"
+                }
+            }
+        },
+        "section-2": {
+            "css": "container mx-auto px-4 bg-gray-50 py-12",
+            "div-s2d1": {
+                "css": "bg-white rounded-lg shadow-xl overflow-hidden",
+                "div-s2d1d1": {
+                    "css": "aspect-w-16 aspect-h-9",
+                    "iframe-s2d1d1iframe1": {
+                        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.2412648718453!2d-73.98784368459395!3d40.74844797932847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9b3117469%3A0xd134e199a405a163!2sEmpire%20State%20Building!5e0!3m2!1sen!2sus!4v1642277641896!5m2!1sen!2sus",
+                        "alt": "",
+                        "width": "80%",
+                        "height": "80%",
+                        "css": "h-screen w-screen ",
+                        "directly_added_other_attributes": "",
+                        "loading": "lazy"
+                    }
+                },
+                "div-s2d1d2": {
+                    "css": "p-8 md:p-10",
+                    "div-s2d1d2d1": {
+                        "css": "text-center",
+                        "heading-s2d1d2d1h1": {
+                            "css": "text-3xl font-semibold text-golden-600 mb-6",
+                            "text": "Our Location",
+                            "type": "h2"
+                        },
+                        "paragraph-s2d1d2d1p1": {
+                            "css": "text-gray-700 mb-4",
+                            "text": "123 Wellness Avenue, Paris, France 75007"
+                        },
+                        "paragraph-s2d1d2d1p2": {
+                            "css": "text-gray-700",
+                            "text": "Conveniently located near the iconic Eiffel Tower"
+                        }
+                    }
+                }
+            }
+        },
+        "section-3": {
+            "css": "container mx-auto px-4 py-16",
+            "div-s3d1": {
+                "css": "bg-gray-50 rounded-lg p-8 md:p-10 shadow-lg",
+                "heading-s3d1h1": {
+                    "css": "text-3xl font-semibold text-golden-600 mb-6",
+                    "text": "Why Our Location Matters",
+                    "type": "h2"
+                },
+                "div-s3d1d1": {
+                    "css": "grid md:grid-cols-2 gap-8",
+                    "div-s3d1d1d1": {
+                        "css": "",
+                        "heading-s3d1d1d1h1": {
+                            "css": "text-xl font-semibold text-gray-800 mb-3",
+                            "text": "Serene Environment",
+                            "type": "h3"
+                        },
+                        "paragraph-s3d1d1d1p1": {
+                            "css": "text-gray-700",
+                            "text": "Our facility is situated in a calm and inspiring setting, perfect for your wellness journey."
+                        }
+                    },
+                    "div-s3d1d1d2": {
+                        "css": "",
+                        "heading-s3d1d1d2h1": {
+                            "css": "text-xl font-semibold text-gray-800 mb-3",
+                            "text": "Easy Accessibility",
+                            "type": "h3"
+                        },
+                        "paragraph-s3d1d1d2p1": {
+                            "css": "text-gray-700",
+                            "text": "With nearby public transportation and ample parking, reaching us is stress-free."
+                        }
+                    },
+                    "div-s3d1d1d3": {
+                        "css": "",
+                        "heading-s3d1d1d3h1": {
+                            "css": "text-xl font-semibold text-gray-800 mb-3",
+                            "text": "Surrounding Amenities",
+                            "type": "h3"
+                        },
+                        "paragraph-s3d1d1d3p1": {
+                            "css": "text-gray-700",
+                            "text": "Enjoy nearby parks and healthy eateries to complement your wellness plan."
+                        }
+                    },
+                    "div-s3d1d1d4": {
+                        "css": "",
+                        "heading-s3d1d1d4h1": {
+                            "css": "text-xl font-semibold text-gray-800 mb-3",
+                            "text": "Cultural Hub",
+                            "type": "h3"
+                        },
+                        "paragraph-s3d1d1d4p1": {
+                            "css": "text-gray-700",
+                            "text": "Immerse yourself in the rich Parisian culture that surrounds our location."
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

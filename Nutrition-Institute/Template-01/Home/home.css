@@ -1,0 +1,255 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#main {
+    @apply container mx-auto px-6 pb-16 pt-6 space-y-4 bg-gradient-to-b from-green-50 to-yellow-50
+}
+
+#section-1 {
+    @apply flex flex-col sm:flex-row items-center justify-center gap-3 h-screen mb-8
+}
+
+#div-s1d1 {
+    @apply flex-1 space-y-3 max-w-2xl text-center sm:text-left
+}
+
+#heading-s1d1h1 {
+    @apply text-6xl font-extrabold text-green-900  leading-tight
+}
+
+#paragraph-s1d1p1 {
+    @apply text-2xl font-bold text-gray-800  leading-relaxed
+}
+
+#div-s1d2 {
+    @apply flex-1 relative h-[500px] w-full rounded-3xl overflow-hidden shadow-2xl border border-gray-200
+}
+
+#Image-s1d2img1 {
+    @apply w-full h-full object-cover object-center transform hover:scale-105 transition-transform duration-300
+}
+
+#section-2 {
+    @apply mb-8 px-4 sm:px-8
+}
+
+#div-s2d1 {
+    @apply flex flex-wrap justify-center gap-3
+}
+
+#div-s2d1d1 {
+    @apply text-center p-8 hover:shadow-xl transition-all duration-300 bg-white rounded-2xl flex flex-col items-center transform hover:-translate-y-2 border border-gray-200
+}
+
+#div-s2d1d1d1 {
+    @apply mx-auto w-16 h-16 rounded-full bg-green-100 dark:bg-green-900 flex items-center justify-center text-green-600 dark:text-green-400 mb-6
+}
+
+#heading-s2d1d1h1 {
+    @apply text-4xl font-bold text-gray-900 dark:text-white mb-3
+}
+
+#paragraph-s2d1d1p1 {
+    @apply text-lg font-bold text-gray-800 dark:text-gray-200
+}
+
+#div-s2d1d2 {
+    @apply text-center p-8 hover:shadow-xl transition-all duration-300 bg-white rounded-2xl flex flex-col items-center transform hover:-translate-y-2 border border-gray-200
+}
+
+#div-s2d1d2d1 {
+    @apply mx-auto w-16 h-16 rounded-full bg-green-100 dark:bg-green-900 flex items-center justify-center text-green-600 dark:text-green-400 mb-6
+}
+
+#heading-s2d1d2h1 {
+    @apply text-4xl font-bold text-gray-900 dark:text-white mb-3
+}
+
+#paragraph-s2d1d2p1 {
+    @apply text-lg font-bold text-gray-800 dark:text-gray-200
+}
+
+#div-s2d1d3 {
+    @apply text-center p-8 hover:shadow-xl transition-all duration-300 bg-white rounded-2xl flex flex-col items-center transform hover:-translate-y-2 border border-gray-200
+}
+
+#div-s2d1d3d1 {
+    @apply mx-auto w-16 h-16 rounded-full bg-green-100 dark:bg-green-900 flex items-center justify-center text-green-600 dark:text-green-400 mb-6
+}
+
+#heading-s2d1d3h1 {
+    @apply text-4xl font-bold text-gray-900 dark:text-white mb-3
+}
+
+#paragraph-s2d1d3p1 {
+    @apply text-lg font-bold text-gray-800 dark:text-gray-200
+}
+
+#section-3 {
+    @apply py-10
+}
+
+#heading-s3h1 {
+    @apply text-4xl font-bold text-center my-12 text-green-900 
+}
+
+#div-s3d1 {
+    @apply grid sm:grid-cols-3 gap-3
+}
+
+#div-s3d1d1 {
+    @apply group hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 bg-white rounded-2xl p-8 border border-gray-200
+}
+
+#div-s3d1d1d1 {
+    @apply text-center space-y-3
+}
+
+#div-s3d1d1d1d1 {
+    @apply mx-auto w-16 h-16 rounded-full bg-green-100  flex items-center justify-center text-green-600  group-hover:scale-110 transition-transform duration-300
+}
+
+#heading-s3d1d1d1h1 {
+    @apply text-2xl font-bold text-gray-900 dark:text-white mb-3
+}
+
+#paragraph-s3d1d1d1p1 {
+    @apply text-lg font-bold text-gray-800 dark:text-gray-200
+}
+
+#div-s3d1d2 {
+    @apply group hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 bg-white rounded-2xl p-8 border border-gray-200
+}
+
+#div-s3d1d2d1 {
+    @apply text-center space-y-3
+}
+
+#div-s3d1d2d1d1 {
+    @apply mx-auto w-16 h-16 rounded-full bg-green-100 dark:bg-green-900 flex items-center justify-center text-green-600 dark:text-green-400 group-hover:scale-110 transition-transform duration-300
+}
+
+#heading-s3d1d2d1h1 {
+    @apply text-2xl font-bold text-gray-900 dark:text-white mb-3
+}
+
+#paragraph-s3d1d2d1p1 {
+    @apply text-lg font-bold text-gray-800 dark:text-gray-200
+}
+
+#div-s3d1d3 {
+    @apply group hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 bg-white rounded-2xl p-8 border border-gray-200
+}
+
+#div-s3d1d3d1 {
+    @apply text-center space-y-3
+}
+
+#div-s3d1d3d1d1 {
+    @apply mx-auto w-16 h-16 rounded-full bg-green-100 dark:bg-green-900 flex items-center justify-center text-green-600 dark:text-green-400 group-hover:scale-110 transition-transform duration-300
+}
+
+#heading-s3d1d3d1h1 {
+    @apply text-2xl font-bold text-gray-900 dark:text-white mb-3
+}
+
+#paragraph-s3d1d3d1p1 {
+    @apply text-lg font-bold text-gray-800 dark:text-gray-200
+}
+
+#section-4 {
+    @apply mb-8
+}
+
+#heading-s4h1 {
+    @apply text-4xl font-bold text-center mb-8 text-green-900 
+}
+
+#div-s4d1 {
+    @apply grid grid-cols-1 sm:grid-cols-3 gap-3 max-w-7xl mx-auto
+}
+
+#div-s4d1d1 {
+    @apply transition-transform transform hover:scale-105 duration-300
+}
+
+#div-s4d1d1d1 {
+    @apply overflow-hidden shadow-xl hover:shadow-2xl transition-shadow duration-300 bg-white rounded-2xl border border-gray-200 h-[28rem]
+}
+
+#Image-s4d1d1d1img1 {
+    @apply w-full h-64 object-cover object-center rounded-t-2xl
+}
+
+#div-s4d1d1d1d1 {
+    @apply p-8 text-center
+}
+
+#heading-s4d1d1d1d1h1 {
+    @apply text-2xl font-bold mb-4 text-gray-900 dark:text-white
+}
+
+#paragraph-s4d1d1d1d1p1 {
+    @apply text-lg font-bold text-gray-800 dark:text-gray-200
+}
+
+#div-s4d1d2 {
+    @apply transition-transform transform hover:scale-105 duration-300
+}
+
+#div-s4d1d2d1 {
+    @apply overflow-hidden shadow-xl hover:shadow-2xl transition-shadow duration-300 bg-white rounded-2xl border border-gray-200 h-[28rem]
+}
+
+#Image-s4d1d2d1img1 {
+    @apply w-full h-64 object-cover object-center rounded-t-2xl
+}
+
+#div-s4d1d2d1d1 {
+    @apply p-8 text-center
+}
+
+#heading-s4d1d2d1d1h1 {
+    @apply text-2xl font-bold mb-4 text-gray-900 dark:text-white
+}
+
+#paragraph-s4d1d2d1d1p1 {
+    @apply text-lg font-bold text-gray-800 dark:text-gray-200
+}
+
+#div-s4d1d3 {
+    @apply transition-transform transform hover:scale-105 duration-300
+}
+
+#div-s4d1d3d1 {
+    @apply overflow-hidden shadow-xl hover:shadow-2xl transition-shadow duration-300 bg-white rounded-2xl border border-gray-200 h-[28rem]
+}
+
+#Image-s4d1d3d1img1 {
+    @apply w-full h-64 object-cover object-center rounded-t-2xl
+}
+
+#div-s4d1d3d1d1 {
+    @apply p-8 text-center
+}
+
+#heading-s4d1d3d1d1h1 {
+    @apply text-2xl font-bold mb-4 text-gray-900 dark:text-white
+}
+
+#paragraph-s4d1d3d1d1p1 {
+    @apply text-lg font-bold text-gray-800 dark:text-gray-200
+}
+
+#section-5 {
+    @apply text-center bg-green-50 dark:bg-green-900/30 rounded-3xl p-16 mb-8
+}
+
+#heading-s5h1 {
+    @apply text-4xl font-bold my-8 text-green-900 
+}
+
+#paragraph-s5p1 {
+    @apply text-2xl font-bold text-gray-800 dark:text-gray-200 mb-12
+}

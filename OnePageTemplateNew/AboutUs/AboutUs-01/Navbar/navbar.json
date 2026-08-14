@@ -1,0 +1,10 @@
+{
+    "organizationName": "NEXTJS14",
+    "organizationLogo": "",
+    "pages": [
+        {
+            "pageName": "AboutUs",
+            "pageId": "AboutUs"
+        }
+    ]
+}

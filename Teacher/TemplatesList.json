@@ -1,0 +1,19 @@
+[
+    
+
+    {
+      "id": 4,
+      "name": "Template-04",
+      "description": "A second professional template designed for teachers. This template can be used for educational purposes, making it easy to create lesson plans, assignment pages, or course outlines. It includes visually appealing sections to organize content effectively.",
+      "cost": "$200 USD",
+      "thumbnailUrls": [
+        "Thumbnail-01.png",
+        "Thumbnail-02.png",
+        "Thumbnail-03.png",
+        "Thumbnail-04.png"
+      ],
+      "tags": ["education", "teacher", "course", "template", "professional"]
+
+    }
+    
+  ]
