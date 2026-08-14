@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Blog",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "title": "Content",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "title": "Feature",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "title": "Step",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "title": "Testimonial",
+    "description": ""
+  }
+]

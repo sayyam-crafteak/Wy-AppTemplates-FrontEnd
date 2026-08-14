@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Feature-01",
+    "description": "",
+    "thumbnailUrls": ["thumbnail.svg"]
+  },
+
+  {
+    "id": 3,
+    "name": "Feature-03",
+    "description": "",
+    "thumbnailUrls": ["thumbnail.svg"]
+  },
+
+  {
+    "id": 5,
+    "name": "Feature-05",
+    "description": "",
+    "thumbnailUrls": ["thumbnail.svg"]
+  }
+]

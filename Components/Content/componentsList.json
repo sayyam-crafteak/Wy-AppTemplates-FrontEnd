@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Content-01",
+    "description": "",
+    "thumbnailUrls": ["thumbnail.svg"]
+  },
+  {
+    "id": 2,
+    "name": "Content-02",
+    "description": "",
+    "thumbnailUrls": ["thumbnail.svg"]
+  },
+  {
+    "id": 3,
+    "name": "Content-03",
+    "description": "",
+    "thumbnailUrls": ["thumbnail.svg"]
+  },
+  {
+    "id": 4,
+    "name": "Content-04",
+    "description": "",
+    "thumbnailUrls": ["thumbnail.svg"]
+  },
+  {
+    "id": 5,
+    "name": "Content-05",
+    "description": "",
+    "thumbnailUrls": ["thumbnail.svg"]
+  }
+]
