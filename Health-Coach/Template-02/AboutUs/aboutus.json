@@ -1,0 +1,196 @@
+{
+    "main": {
+        "css": "",
+        "section-1": {
+            "css": "bg-backgroundPrimary py-16 px-8 flex flex-col sm:flex-row items-center justify-between",
+            "div-s1d1": {
+                "css": "text-center sm:text-left sm:w-1/2 space-y-4 text-fontSize sm:pl-12",
+                "heading-s1d1h2": {
+                    "css": "text-textSecondary font-fontWeight text-fontSize",
+                    "text": "About Groweal Coaching",
+                    "type": "h2"
+                },
+                "heading-s1d1h1": {
+                    "css": "text-fontSize font-fontWeight text-textPrimary",
+                    "text": "Empowering Your Health, Empowering Your Life",
+                    "type": "h1"
+                },
+                "paragraph-s1d1p1": {
+                    "css": "text-textSecondary text-fontSize",
+                    "text": "At Groweal Coaching, we believe in transforming lives by empowering individuals to take control of their health, fitness, and overall lifestyle. Our team of experts will guide you every step of the way to achieve your fitness goals and build sustainable habits for life."
+                },
+                "div-s1d1d1": {
+                    "css": "flex justify-center sm:justify-start space-x-4",
+                    "a-s1d1d1a1": {
+                        "href": "#",
+                        "target": "_blank",
+                        "css": "bg-backgroundSecondary px-6 py-2 rounded-lg hover:bg-backgroundPrimary",
+                        "paragraph-s1d1d1a1p1": {
+                            "css": "text-textPrimary",
+                            "text": "Learn More"
+                        }
+                    },
+                    "a-s1d1d1a2": {
+                        "href": "#",
+                        "target": "_blank",
+                        "css": "border-2 border-black px-6 py-2 rounded-lg hover:bg-backgroundSecondary",
+                        "paragraph-s1d1d1a2p1": {
+                            "css": " text-textPrimary",
+                            "text": "Contact Us"
+                        }
+                    }
+                }
+            },
+            "Image-s1img1": {
+                "src": "Image-s1img1.png",
+                "alt": "About Groweal Coaching",
+                "width": "450",
+                "height": "450",
+                "css": ""
+            }
+        },
+        "section-2": {
+            "css": "py-16 px-8 bg-backgroundSecondary grid grid-cols-1 sm:grid-cols-3 gap-8 text-center",
+            "div-s2d1": {
+                "css": "space-y-4 bg-backgroundPrimary p-6 rounded-lg shadow-md",
+                "div-s2d1d1": {
+                    "css": "",
+                    "paragraph-s2d1d1p1": {
+                        "css": "text-textSecondary text-fontSize",
+                        "text": "⭐"
+                    }
+                },
+                "heading-s2d1h3": {
+                    "css": "text-fontSize font-fontWeight text-textPrimary",
+                    "text": "Best Coaching",
+                    "type": "h3"
+                },
+                "paragraph-s2d1p1": {
+                    "css": "text-textSecondary",
+                    "text": "Our coaching methods are tailored to each individual's needs, ensuring the best possible results."
+                },
+                "a-s2d1a1": {
+                    "href": "#",
+                    "target": "_blank",
+                    "css": "text-textSecondary font-fontWeight hover:text-underline"
+                }
+            },
+            "div-s2d2": {
+                "css": "space-y-4 bg-backgroundPrimary p-6 rounded-lg shadow-md",
+                "div-s2d2d1": {
+                    "css": "",
+                    "paragraph-s2d2d1p1": {
+                        "css": "text-textSecondary text-fontSize",
+                        "text": "⭐"
+                    }
+                },
+                "heading-s2d2h3": {
+                    "css": "text-fontSize font-fontWeight text-textPrimary",
+                    "text": "Best Coaching",
+                    "type": "h3"
+                },
+                "paragraph-s2d2p1": {
+                    "css": "text-textSecondary",
+                    "text": "Our coaching methods are tailored to each individual's needs, ensuring the best possible results."
+                },
+                "a-s2d2a1": {
+                    "href": "#",
+                    "target": "_blank",
+                    "css": "text-textSecondary font-fontWeight hover:text-underline"
+                }
+            },
+            "div-s2d3": {
+                "css": "space-y-4 bg-backgroundPrimary p-6 rounded-lg shadow-md",
+                "div-s2d3d1": {
+                    "css": "",
+                    "paragraph-s2d3d1p1": {
+                        "css": "text-textSecondary text-fontSize",
+                        "text": "⭐"
+                    }
+                },
+                "heading-s2d3h3": {
+                    "css": "text-fontSize font-fontWeight text-textPrimary",
+                    "text": "Best Coaching",
+                    "type": "h3"
+                },
+                "paragraph-s2d3p1": {
+                    "css": "text-textSecondary",
+                    "text": "Our coaching methods are tailored to each individual's needs, ensuring the best possible results."
+                },
+                "a-s2d3a1": {
+                    "href": "#",
+                    "target": "_blank",
+                    "css": "text-textSecondary font-fontWeight hover:text-underline"
+                }
+            }
+        },
+        "section-3": {
+            "css": "py-16 px-8 bg-backgroundSecondary text-center",
+            "heading-s3h2": {
+                "css": "text-fontSize font-fontWeight text-textPrimary mb-8",
+                "text": "Meet Our Expert Team",
+                "type": "h2"
+            },
+            "div-s3d1": {
+                "css": "flex flex-col space-y-8 sm:flex-row sm:justify-center sm:space-x-8 sm:space-y-0",
+                "div-s3d1d1": {
+                    "css": "w-full sm:w-1/3",
+                    "Image-s3d1d1img1": {
+                        "src": "Image-s3d1d1img1.jpg",
+                        "alt": "Expert 1",
+                        "width": "250",
+                        "height": "250",
+                        "css": "rounded mx-auto"
+                    },
+                    "heading-s3d1d1h4": {
+                        "css": "mt-4 text-fontSize font-fontWeight",
+                        "text": "John Doe",
+                        "type": "h4"
+                    },
+                    "paragraph-s3d1d1p1": {
+                        "css": "text-textSecondary",
+                        "text": "Certified Coach"
+                    }
+                },
+                "div-s3d1d2": {
+                    "css": "w-full sm:w-1/3",
+                    "Image-s3d1d2img1": {
+                        "src": "Image-s3d1d2img1.jpg",
+                        "alt": "Expert 1",
+                        "width": "250",
+                        "height": "250",
+                        "css": "rounded mx-auto"
+                    },
+                    "heading-s3d1d2h4": {
+                        "css": "mt-4 text-fontSize font-fontWeight",
+                        "text": "John Doe",
+                        "type": "h4"
+                    },
+                    "paragraph-s3d1d2p1": {
+                        "css": "text-textSecondary",
+                        "text": "Certified Coach"
+                    }
+                },
+                "div-s3d1d3": {
+                    "css": "w-full sm:w-1/3",
+                    "Image-s3d1d3img1": {
+                        "src": "Image-s3d1d3img1.jpg",
+                        "alt": "Expert 1",
+                        "width": "250",
+                        "height": "250",
+                        "css": "rounded mx-auto"
+                    },
+                    "heading-s3d1d3h4": {
+                        "css": "mt-4 text-fontSize font-fontWeight",
+                        "text": "John Doe",
+                        "type": "h4"
+                    },
+                    "paragraph-s3d1d3p1": {
+                        "css": "text-textSecondary",
+                        "text": "Certified Coach"
+                    }
+                }
+            }
+        }
+    }
+}

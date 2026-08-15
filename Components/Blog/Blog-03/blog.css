@@ -1,0 +1,151 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#main {
+  @apply container mx-auto;
+}
+
+#section-1 {
+  @apply text-gray-400 bg-white   overflow-hidden;
+}
+
+#div-s1d1 {
+  @apply container px-5 py-24 mx-auto;
+}
+
+#div-s1d1d1 {
+  @apply -my-8 divide-y-2 divide-gray-800;
+}
+
+#div-s1d1d1d1 {
+  @apply py-8 flex flex-wrap md:flex-nowrap;
+}
+
+#div-s1d1d1d1d1 {
+  @apply md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col;
+}
+
+#div-s1d1d1d1d1d1 {
+  @apply font-semibold   text-black;
+}
+
+#paragraph-s1d1d1d1d1d1p1 {
+  @apply;
+}
+
+#div-s1d1d1d1d1d2 {
+  @apply mt-1 text-gray-500 text-sm;
+}
+
+#paragraph-s1d1d1d1d1d2p1 {
+  @apply;
+}
+
+#div-s1d1d1d1d2 {
+  @apply md:flex-grow;
+}
+
+#heading-s1d1d1d1d2h1 {
+  @apply text-2xl font-medium text-black   mb-2;
+}
+
+#paragraph-s1d1d1d1d2p1 {
+  @apply leading-relaxed;
+}
+
+#a-s1d1d1d1d2a1 {
+  @apply text-indigo-400 inline-flex items-center mt-4;
+}
+
+#paragraph-s1d1d1d1d2a1p1 {
+  @apply;
+}
+
+#div-s1d1d1d2 {
+  @apply py-8 flex border-t-2 border-gray-800 flex-wrap md:flex-nowrap;
+}
+
+#div-s1d1d1d2d1 {
+  @apply md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col;
+}
+
+#div-s1d1d1d2d1d1 {
+  @apply font-semibold   text-black;
+}
+
+#paragraph-s1d1d1d2d1d1p1 {
+  @apply;
+}
+
+#div-s1d1d1d2d1d2 {
+  @apply mt-1 text-gray-500 text-sm;
+}
+
+#paragraph-s1d1d1d2d1d2p1 {
+  @apply;
+}
+
+#div-s1d1d1d2d2 {
+  @apply md:flex-grow;
+}
+
+#heading-s1d1d1d2d2h1 {
+  @apply text-2xl font-medium text-black   mb-2;
+}
+
+#paragraph-s1d1d1d2d2p1 {
+  @apply leading-relaxed;
+}
+
+#a-s1d1d1d2d2a1 {
+  @apply text-indigo-400 inline-flex items-center mt-4;
+}
+
+#paragraph-s1d1d1d2d2a1p1 {
+  @apply;
+}
+
+#div-s1d1d1d3 {
+  @apply py-8 flex border-t-2 border-gray-800 flex-wrap md:flex-nowrap;
+}
+
+#div-s1d1d1d3d1 {
+  @apply md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col;
+}
+
+#div-s1d1d1d3d1d1 {
+  @apply font-semibold   text-black;
+}
+
+#paragraph-s1d1d1d3d1d1p1 {
+  @apply;
+}
+
+#div-s1d1d1d3d1d2 {
+  @apply mt-1 text-gray-500 text-sm;
+}
+
+#paragraph-s1d1d1d3d1d2p1 {
+  @apply;
+}
+
+#div-s1d1d1d3d2 {
+  @apply md:flex-grow;
+}
+
+#heading-s1d1d1d3d2h1 {
+  @apply text-2xl font-medium text-black   mb-2;
+}
+
+#paragraph-s1d1d1d3d2p1 {
+  @apply leading-relaxed;
+}
+
+#a-s1d1d1d3d2a1 {
+  @apply text-indigo-400 inline-flex items-center mt-4;
+}
+
+#paragraph-s1d1d1d3d2a1p1 {
+  @apply;
+}

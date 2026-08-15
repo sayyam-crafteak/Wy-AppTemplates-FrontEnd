@@ -1,0 +1,296 @@
+{
+    "main": {
+        "css": "container mx-auto px-4",
+        "section-1": {
+            "css": "flex flex-col md:flex-row items-center justify-center gap-6 h-auto py-8 mb-8",
+            "div-s1d1": {
+                "css": "flex-1 space-y-4 max-w-2xl text-center md:text-left",
+                "heading-s1d1h1": {
+                    "css": "text-fontSize md:text-mdfontSize lg:text-lgfontSize font-fontWeight text-italic text-underline text-textPrimary leading-tight",
+                    "text": "Transform Lives Through Nutrition",
+                    "type": "h1"
+                },
+                "paragraph-s1d1p1": {
+                    "css": "text-fontSize md:text-mdfontSize lg:text-lgfontSize font-fontWeight text-italic text-underline text-textPrimary dark:text-textSecondary leading-relaxed",
+                    "text": "Empowering nutrition professionals with cutting-edge tools and resources for better client care and education."
+                }
+            },
+            "div-s1d2": {
+                "css": "flex-1 relative h-[300px] md:h-[400px] lg:h-[500px] w-full rounded-3xl overflow-hidden shadow-2xl border border-gray-200",
+                "Image-s1d2img1": {
+                    "src": "Image-s1d2img1.jpg",
+                    "alt": "Nutrition Professional",
+                    "css": "w-full h-full object-cover object-center transform hover:scale-105 transition-transform duration-300"
+                }
+            }
+        },
+        "section-2": {
+            "css": "mb-8 px-4",
+            "div-s2d1": {
+                "css": "grid grid-cols-1 md:grid-cols-3 gap-6 max-w-6xl mx-auto",
+                "div-s2d1d1": {
+                    "css": "text-center p-6 md:p-8 hover:shadow-xl transition-all duration-300 bg-backgroundSecondary rounded-2xl flex flex-col items-center transform hover:-translate-y-2 border border-gray-200",
+                    "div-s2d1d1d1": {
+                        "css": "mx-auto w-16 h-16 rounded-full bg-backgroundTertiary dark:bg-green-900 flex items-center justify-center text-textSecondary dark:text-green-400 mb-6",
+                        "svg-s2d1d1d1svg1": {
+                            "css": "w-8 h-8",
+                            "fill": "currentColor",
+                            "viewBox": "0 0 24 24",
+                            "xmlns": "http://www.w3.org/2000/svg",
+                            "path-s2d1d1d1svg1path1": {
+                                "d": "M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+                            },
+                            "path-s2d1d1d1svg1path2": {
+                                "d": "M18 12.5c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 1c-1.33 0-4 .67-4 2v1h6v-1c0-1.33-2.67-2-4-2z"
+                            }
+                        }
+                    },
+                    "heading-s2d1d1h3": {
+                        "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline text-textPrimary mb-3",
+                        "text": "10K+",
+                        "type": "h3"
+                    },
+                    "paragraph-s2d1d1p1": {
+                        "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline text-textSecondary",
+                        "text": "Active Users"
+                    }
+                },
+                "div-s2d1d2": {
+                    "css": "text-center p-6 md:p-8 hover:shadow-xl transition-all duration-300 bg-backgroundSecondary rounded-2xl flex flex-col items-center transform hover:-translate-y-2 border border-gray-200",
+                    "div-s2d1d2d1": {
+                        "css": "mx-auto w-16 h-16 rounded-full bg-backgroundTertiary dark:bg-green-900 flex items-center justify-center text-textSecondary dark:text-green-400 mb-6",
+                        "svg-s2d1d2d1svg1": {
+                            "css": "w-8 h-8",
+                            "fill": "currentColor",
+                            "viewBox": "0 0 24 24",
+                            "xmlns": "http://www.w3.org/2000/svg",
+                            "path-s2d1d2d1svg1path1": {
+                                "d": "M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+                            }
+                        }
+                    },
+                    "heading-s2d1d2h3": {
+                        "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline text-textPrimary mb-3",
+                        "text": "95%",
+                        "type": "h3"
+                    },
+                    "paragraph-s2d1d2p1": {
+                        "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline text-textSecondary",
+                        "text": "Success Rate"
+                    }
+                },
+                "div-s2d1d3": {
+                    "css": "text-center p-6 md:p-8 hover:shadow-xl transition-all duration-300 bg-backgroundSecondary rounded-2xl flex flex-col items-center transform hover:-translate-y-2 border border-gray-200",
+                    "div-s2d1d3d1": {
+                        "css": "mx-auto w-16 h-16 rounded-full bg-backgroundTertiary dark:bg-green-900 flex items-center justify-center text-textSecondary dark:text-green-400 mb-6",
+                        "svg-s2d1d3d1svg1": {
+                            "css": "w-8 h-8",
+                            "fill": "currentColor",
+                            "viewBox": "0 0 24 24",
+                            "xmlns": "http://www.w3.org/2000/svg",
+                            "path-s2d1d3d1svg1path1": {
+                                "d": "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                            }
+                        }
+                    },
+                    "heading-s2d1d3h3": {
+                        "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline text-textPrimary mb-3",
+                        "text": "50+",
+                        "type": "h3"
+                    },
+                    "paragraph-s2d1d3p1": {
+                        "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline text-textSecondary",
+                        "text": "Countries"
+                    }
+                }
+            }
+        },
+        "section-3": {
+            "css": "py-10 px-4",
+            "heading-s3h2": {
+                "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline text-center mb-8 md:mb-12 text-textPrimary",
+                "text": "Why Choose Us",
+                "type": "h2"
+            },
+            "div-s3d1": {
+                "css": "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto",
+                "div-s3d1d1": {
+                    "css": "group hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 bg-backgroundSecondary rounded-2xl p-6 md:p-8 border border-gray-200",
+                    "div-s3d1d1d1": {
+                        "css": "text-center space-y-4",
+                        "div-s3d1d1d1d1": {
+                            "css": "mx-auto w-16 h-16 rounded-full bg-backgroundTertiary flex items-center justify-center text-textSecondary group-hover:scale-110 transition-transform duration-300",
+                            "svg-s3d1d1d1d1svg1": {
+                                "css": "w-8 h-8",
+                                "fill": "currentColor",
+                                "viewBox": "0 0 24 24",
+                                "xmlns": "http://www.w3.org/2000/svg",
+                                "path-s3d1d1d1d1svg1path1": {
+                                    "d": "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+                                },
+                                "path-s3d1d1d1d1svg1path2": {
+                                    "d": "M12 2C13.1 2 14 2.9 14 4C14 5.1 13.1 6 12 6C10.9 6 10 5.1 10 4C10 2.9 10.9 2 12 2ZM21 9V7L15 1V3H9V1L3 7V9H21ZM12 8C15.31 8 18 10.69 18 14V22H6V14C6 10.69 8.69 8 12 8Z"
+                                }
+                            }
+                        },
+                        "heading-s3d1d1d1h3": {
+                            "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline text-textPrimary mb-3",
+                            "text": "Expert Knowledge",
+                            "type": "h3"
+                        },
+                        "paragraph-s3d1d1d1p1": {
+                            "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline text-textSecondary",
+                            "text": "Access to cutting-edge nutrition research and educational resources."
+                        }
+                    }
+                },
+                "div-s3d1d2": {
+                    "css": "group hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 bg-backgroundSecondary rounded-2xl p-6 md:p-8 border border-gray-200",
+                    "div-s3d1d2d1": {
+                        "css": "text-center space-y-4",
+                        "div-s3d1d2d1d1": {
+                            "css": "mx-auto w-16 h-16 rounded-full bg-backgroundTertiary dark:bg-green-900 flex items-center justify-center text-textSecondary dark:text-green-400 group-hover:scale-110 transition-transform duration-300",
+                            "svg-s3d1d2d1d1svg1": {
+                                "css": "w-8 h-8",
+                                "fill": "currentColor",
+                                "viewBox": "0 0 24 24",
+                                "xmlns": "http://www.w3.org/2000/svg",
+                                "path-s3d1d2d1d1svg1path1": {
+                                    "d": "M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"
+                                }
+                            }
+                        },
+                        "heading-s3d1d2d1h3": {
+                            "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline text-textPrimary mb-3",
+                            "text": "Client-Centered",
+                            "type": "h3"
+                        },
+                        "paragraph-s3d1d2d1p1": {
+                            "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline text-textPrimary dark:text-textSecondary",
+                            "text": "Personalized solutions for effective client management and care."
+                        }
+                    }
+                },
+                "div-s3d1d3": {
+                    "css": "group hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 bg-backgroundSecondary rounded-2xl p-6 md:p-8 border border-gray-200",
+                    "div-s3d1d3d1": {
+                        "css": "text-center space-y-4",
+                        "div-s3d1d3d1d1": {
+                            "css": "mx-auto w-16 h-16 rounded-full bg-backgroundTertiary dark:bg-green-900 flex items-center justify-center text-textSecondary dark:text-green-400 group-hover:scale-110 transition-transform duration-300",
+                            "svg-s3d1d3d1d1svg1": {
+                                "css": "w-8 h-8",
+                                "fill": "currentColor",
+                                "viewBox": "0 0 24 24",
+                                "xmlns": "http://www.w3.org/2000/svg",
+                                "path-s3d1d3d1d1svg1path1": {
+                                    "d": "M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z"
+                                }
+                            }
+                        },
+                        "heading-s3d1d3d1h3": {
+                            "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline text-textPrimary mb-3",
+                            "text": "Growth Focus",
+                            "type": "h3"
+                        },
+                        "paragraph-s3d1d3d1p1": {
+                            "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline text-textSecondary",
+                            "text": "Continuous learning and development opportunities for professionals."
+                        }
+                    }
+                }
+            }
+        },
+        "section-4": {
+            "css": "mb-8 px-4",
+            "heading-s4h2": {
+                "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline text-center mb-8 text-textPrimary",
+                "text": "Nutrition Facts",
+                "type": "h2"
+            },
+            "div-s4d1": {
+                "css": "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto",
+                "div-s4d1d1": {
+                    "css": "transition-transform transform hover:scale-105 duration-300",
+                    "div-s4d1d1d1": {
+                        "css": "overflow-hidden shadow-xl hover:shadow-2xl transition-shadow duration-300 bg-backgroundSecondary rounded-2xl border border-gray-200 h-auto",
+                        "Image-s4d1d1d1img1": {
+                            "src": "Image-s4d1d1d1img1.jpeg",
+                            "alt": "Balanced Diet",
+                            "css": "w-full h-48 md:h-64 object-cover object-center rounded-t-2xl"
+                        },
+                        "div-s4d1d1d1d1": {
+                            "css": "p-6 md:p-8 text-center",
+                            "heading-s4d1d1d1d1h3": {
+                                "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline mb-4 text-textPrimary",
+                                "text": "Balanced Diet",
+                                "type": "h3"
+                            },
+                            "paragraph-s4d1d1d1d1p1": {
+                                "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline text-textSecondary",
+                                "text": "A balanced diet includes over 40 different nutrients for good health."
+                            }
+                        }
+                    }
+                },
+                "div-s4d1d2": {
+                    "css": "transition-transform transform hover:scale-105 duration-300",
+                    "div-s4d1d2d1": {
+                        "css": "overflow-hidden shadow-xl hover:shadow-2xl transition-shadow duration-300 bg-backgroundSecondary rounded-2xl border border-gray-200 h-auto",
+                        "Image-s4d1d2d1img1": {
+                            "src": "Image-s4d1d2d1img1.jpg",
+                            "alt": "Hydration",
+                            "css": "w-full h-48 md:h-64 object-cover object-center rounded-t-2xl"
+                        },
+                        "div-s4d1d2d1d1": {
+                            "css": "p-6 md:p-8 text-center",
+                            "heading-s4d1d2d1d1h3": {
+                                "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline mb-4 text-textPrimary",
+                                "text": "Hydration",
+                                "type": "h3"
+                            },
+                            "paragraph-s4d1d2d1d1p1": {
+                                "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline text-textSecondary",
+                                "text": "The body needs at least 8 glasses of water daily for optimal function."
+                            }
+                        }
+                    }
+                },
+                "div-s4d1d3": {
+                    "css": "transition-transform transform hover:scale-105 duration-300",
+                    "div-s4d1d3d1": {
+                        "css": "overflow-hidden shadow-xl hover:shadow-2xl transition-shadow duration-300 bg-backgroundSecondary rounded-2xl border border-gray-200 h-auto",
+                        "Image-s4d1d3d1img1": {
+                            "src": "Image-s4d1d3d1img1.jpg",
+                            "alt": "Portion Control",
+                            "css": "w-full h-48 md:h-64 object-cover object-center rounded-t-2xl"
+                        },
+                        "div-s4d1d3d1d1": {
+                            "css": "p-6 md:p-8 text-center",
+                            "heading-s4d1d3d1d1h3": {
+                                "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline mb-4 text-textPrimary",
+                                "text": "Portion Control",
+                                "type": "h3"
+                            },
+                            "paragraph-s4d1d3d1d1p1": {
+                                "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline text-textSecondary",
+                                "text": "Proper portion control is key to maintaining a healthy weight."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "section-5": {
+            "css": "text-center bg-backgroundPrimary rounded-3xl p-8 md:p-12 lg:p-16 my-8 mx-4",
+            "heading-s5h2": {
+                "css": "text-fontSize md:text-mdfontSize font-fontWeight text-italic text-underline mb-6 md:mb-8 text-textPrimary",
+                "text": "Ready to Start Your Journey?",
+                "type": "h2"
+            },
+            "paragraph-s5p1": {
+                "css": "text-fontSize md:text-mdfontSize lg:text-lgfontSize font-fontWeight text-italic text-underline text-textPrimary dark:text-textSecondary mb-8 md:mb-12",
+                "text": "Join thousands of nutrition professionals already using our platform."
+            }
+        }
+    }
+}

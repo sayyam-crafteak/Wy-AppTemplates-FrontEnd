@@ -1,0 +1,84 @@
+{
+    "main": {
+        "css": "",
+        "section-1": {
+            "css": "py-20 bg-backgroundPrimary px-10",
+            "div-s1d1": {
+                "css": "mx-auto px-4 w-full max-w-[1400px]",
+                "div-s1d1d1": {
+                    "css": "max-w-3xl mx-auto text-center",
+                    "heading-s1d1d1h1": {
+                        "css": "text-fontSize font-fontWeight text-primary mb-6",
+                        "text": "About Us",
+                        "type": "h1"
+                    },
+                    "paragraph-s1d1d1p1": {
+                        "css": "text-textSecondary mb-12",
+                        "text": "Leading the way in electronic innovation and excellence"
+                    }
+                },
+                "div-s1d1d2": {
+                    "css": "grid sm:grid-cols-2 gap-4 items-center mb-20",
+                    "div-s1d1d2d1": {
+                        "css": "",
+                        "heading-s1d1d2d1h2": {
+                            "css": "text-fontSize font-fontWeight text-primary mb-6",
+                            "text": "Our Mission",
+                            "type": "h2"
+                        },
+                        "paragraph-s1d1d2d1p1": {
+                            "css": "text-textSecondary leading-relaxed",
+                            "text": "We strive to provide cutting-edge electronic products that enhance people's lives while maintaining the highest standards of quality and innovation. Our commitment to excellence drives everything we do."
+                        }
+                    },
+                    "div-s1d1d2d2": {
+                        "css": "relative h-[300px]",
+                        "Image-s1d1d2d2img1": {
+                            "src": "Image-s1d1d2d2img1.jpeg",
+                            "css": "w-full h-full object-cover rounded-2xl"
+                        }
+                    }
+                },
+                "div-s1d1d3": {
+                    "css": "grid grid-cols-1 sm:grid-cols-3 gap-8",
+                    "div-s1d1d3d1": {
+                        "css": "text-center p-6 bg-accent rounded-lg",
+                        "heading-s1d1d3d1h3": {
+                            "css": "text-fontSize font-fontWeight mb-4",
+                            "text": "Innovation First",
+                            "type": "h3"
+                        },
+                        "paragraph-s1d1d3d1p1": {
+                            "css": "text-textSecondary",
+                            "text": "Our core values define who we are and how we operate"
+                        }
+                    },
+                    "div-s1d1d3d2": {
+                        "css": "text-center p-6 bg-accent rounded-lg",
+                        "heading-s1d1d3d2h3": {
+                            "css": "text-fontSize font-fontWeight mb-4",
+                            "text": "Quality Assured",
+                            "type": "h3"
+                        },
+                        "paragraph-s1d1d3d2p1": {
+                            "css": "text-textSecondary",
+                            "text": "Our core values define who we are and how we operate"
+                        }
+                    },
+                    "div-s1d1d3d3": {
+                        "css": "text-center p-6 bg-accent rounded-lg",
+                        "heading-s1d1d3d3h3": {
+                            "css": "text-fontSize font-fontWeight mb-4",
+                            "text": "Customer Focused",
+                            "type": "h3"
+                        },
+                        "paragraph-s1d1d3d3p1": {
+                            "css": "text-textSecondary",
+                            "text": "Our core values define who we are and how we operate"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

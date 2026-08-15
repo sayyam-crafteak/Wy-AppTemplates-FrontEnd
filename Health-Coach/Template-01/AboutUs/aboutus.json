@@ -1,0 +1,87 @@
+{
+    "main": {
+        "css": "",
+        "section-1": {
+            "css": "",
+            "div-s1d1": {
+                "css": "flex min-h-screen flex-col",
+                "div-s1d1d1": {
+                    "css": "relative flex-grow",
+                    "div-s1d1d1d1": {
+                        "css": "absolute inset-0 z-0",
+                        "Image-s1d1d1d1img1": {
+                            "src": "div-s1d1d1d1.jpg",
+                            "css": "h-full w-full object-cover"
+                        }
+                    },
+                    "div-s1d1d1d2": {
+                        "css": "absolute inset-0 z-10 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 opacity-80"
+                    },
+                    "div-s1d1d1d3": {
+                        "css": "relative z-20 mx-auto py-10 sm:p-20",
+                        "div-s1d1d1d3d1": {
+                            "css": "mx-5 mb-10 sm:mx-20 sm:mb-16",
+                            "heading-s1d1d1d3d1h1": {
+                                "css": "mb-6 text-center text-fontSize font-fontWeight text-textPrimary",
+                                "text": "MY MISSION",
+                                "type": "h1"
+                            },
+                            "paragraph-s1d1d1d3d1p1": {
+                                "css": "text-justify text-fontSize text-textSecondary",
+                                "text": "My Mission as coach is to learn you how to improve your health addressing all aspects of your life, such as daily routines, eating habits and stress management. I believe that you need to change your lifestyle to achieve long lasting results. To change your lifestyle you need a long term goal and I'm here to guide you through the process. I want to provide you education on effective goal setting techniques, thus empowering you with the tools you need to be successful for the long term."
+                            }
+                        },
+                        "div-s1d1d1d3d2": {
+                            "css": "mx-5 sm:mx-20",
+                            "heading-s1d1d1d3d2h2": {
+                                "css": "mb-8 text-center text-fontSize font-fontWeight text-textPrimary",
+                                "text": "THE TEAM",
+                                "type": "h2"
+                            },
+                            "div-s1d1d1d3d2d1": {
+                                "css": "mb-8 flex flex-col rounded-lg bg-backgroundSecondary p-8 shadow-md sm:flex-row",
+                                "div-s1d1d1d3d2d1d1": {
+                                    "css": "relative mb-4 cursor-pointer sm:mb-0 sm:w-1/3",
+                                    "Image-s1d1d1d3d2d1d1img1": {
+                                        "src": "Image-s1d1d1d3d2d1d1img1.jpeg",
+                                        "alt": "image of the member",
+                                        "width": "500",
+                                        "height": "500",
+                                        "css": "rounded-lg"
+                                    },
+                                    "div-s1d1d1d3d2d1d1d1": {
+                                        "css": "bg-opacity-50 absolute bottom-0 left-0 w-full rounded-b-lg bg-backgroundPrimary py-2 text-center text-textPrimary",
+                                        "heading-s1d1d1d3d2d1d1d1h3": {
+                                            "css": "text-xl font-fontWeight",
+                                            "text": "Marta Foligno",
+                                            "type": "h3"
+                                        }
+                                    }
+                                },
+                                "div-s1d1d1d3d2d1d2": {
+                                    "css": "mt-5 text-fontSize text-textPrimary sm:w-2/3 sm:pl-60",
+                                    "paragraph-s1d1d1d3d2d1d2p1": {
+                                        "css": "mb-2 font-fontWeight",
+                                        "text": "Qualification: Nasm Certified Personal Trainer, Nasm Certified Nutrition Coach, Crossfit coach Level 1, Gymnastics"
+                                    },
+                                    "paragraph-s1d1d1d3d2d1d2p2": {
+                                        "css": "mb-2 font-fontWeight",
+                                        "text": "Experience: 10 years in fitness coaching"
+                                    },
+                                    "paragraph-s1d1d1d3d2d1d2p3": {
+                                        "css": "mb-2 font-fontWeight",
+                                        "text": "Favorite Food: Salad"
+                                    },
+                                    "paragraph-s1d1d1d3d2d1d2p4": {
+                                        "css": "mb-2 font-fontWeight",
+                                        "text": "Hobby: Fitness"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

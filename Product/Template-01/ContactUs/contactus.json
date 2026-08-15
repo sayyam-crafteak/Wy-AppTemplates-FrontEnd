@@ -1,0 +1,195 @@
+{
+    "main": {
+        "css": "",
+        "section-1": {
+            "css": "py-20 bg-backgroundPrimary",
+            "div-s1d1": {
+                "css": "mx-auto px-4 w-full max-w-[1400px]",
+                "div-s1d1d1": {
+                    "css": "max-w-3xl mx-auto text-center mb-12",
+                    "heading-s1d1d1h1": {
+                        "css": "text-fontSize font-fontWeight text-primary mb-6",
+                        "text": "Get in Touch",
+                        "type": "h1"
+                    },
+                    "paragraph-s1d1d1p1": {
+                        "css": "text-textSecondary",
+                        "text": "Have questions? We're here to help and answer any question you might have."
+                    }
+                },
+                "div-s1d1d2": {
+                    "css": "grid sm:grid-cols-3 gap-8 max-w-5xl mx-auto",
+                    "div-s1d1d2d1": {
+                        "css": "text-center p-6 bg-backgroundPrimary rounded-xl hover:shadow-md transition-shadow duration-300",
+                        "div-s1d1d2d1d1": {
+                            "css": "mb-4 text-fontSize"
+                        },
+                        "heading-s1d1d2d1h3": {
+                            "css": "text-fontSize font-fontWeight mb-2",
+                            "text": "Phone",
+                            "type": "h3"
+                        },
+                        "paragraph-s1d1d2d1p1": {
+                            "css": "text-textSecondary",
+                            "text": "+1 123 456 7890"
+                        },
+                        "paragraph-s1d1d2d1p2": {
+                            "css": "text-textSecondary",
+                            "text": "Mon-Fri: 9 AM - 6 PM"
+                        }
+                    },
+                    "div-s1d1d2d2": {
+                        "css": "text-center p-6 bg-backgroundPrimary rounded-xl hover:shadow-md transition-shadow duration-300",
+                        "div-s1d1d2d2d1": {
+                            "css": "mb-4 text-fontSize"
+                        },
+                        "heading-s1d1d2d2h3": {
+                            "css": "text-fontSize font-fontWeight mb-2",
+                            "text": "Email",
+                            "type": "h3"
+                        },
+                        "paragraph-s1d1d2d2p1": {
+                            "css": "text-textSecondary",
+                            "text": "info@techelite.com"
+                        },
+                        "paragraph-s1d1d2d2p2": {
+                            "css": "text-textSecondary",
+                            "text": "support@techelite.com"
+                        }
+                    },
+                    "div-s1d1d2d3": {
+                        "css": "text-center p-6 bg-backgroundPrimary rounded-xl hover:shadow-md transition-shadow duration-300",
+                        "div-s1d1d2d3d1": {
+                            "css": "mb-4 text-fontSize"
+                        },
+                        "heading-s1d1d2d3h3": {
+                            "css": "text-fontSize font-fontWeight mb-2",
+                            "text": "Office",
+                            "type": "h3"
+                        },
+                        "paragraph-s1d1d2d3p1": {
+                            "css": "text-textSecondary",
+                            "text": "123 Innovation Drive"
+                        },
+                        "paragraph-s1d1d2d3p2": {
+                            "css": "text-textSecondary",
+                            "text": "Silicon Valley, CA 94025"
+                        }
+                    }
+                }
+            }
+        },
+        "section-2": {
+            "css": "py-20 bg-backgroundPrimary",
+            "div-s2d1": {
+                "css": "mx-auto px-4 w-full max-w-[1400px]",
+                "div-s2d1d1": {
+                    "css": "grid grid-cols-1 gap-12 sm:grid-cols-2 items-start max-w-6xl mx-auto",
+                    "div-s2d1d1d1": {
+                        "css": "text-center sm:text-left",
+                        "heading-s2d1d1d1h2": {
+                            "css": "text-fontSize font-fontWeight text-primary mb-6",
+                            "text": "Connect With Us",
+                            "type": "h2"
+                        },
+                        "paragraph-s2d1d1d1p1": {
+                            "css": "text-textSecondary mb-8 text-fontSize",
+                            "text": "Follow us on social media for the latest updates, tech news, and exclusive offers. We're always here to connect with our community."
+                        },
+                        "div-s2d1d1d1d1": {
+                            "css": "space-y-4",
+                            "paragraph-s2d1d1d1d1p1": {
+                                "css": "text-textSecondary font-fontWeight",
+                                "text": "📧 support@techelite.com"
+                            },
+                            "paragraph-s2d1d1d1d1p2": {
+                                "css": "text-textSecondary font-fontWeight",
+                                "text": "🌐 Follow us for tech insights and updates"
+                            },
+                            "paragraph-s2d1d1d1d1p3": {
+                                "css": "text-textSecondary font-fontWeight",
+                                "text": "💡 Join our community of tech innovators"
+                            }
+                        }
+                    },
+                    "div-s2d1d1d2": {
+                        "name": "feedback-form-section",
+                        "css": "",
+                        "div-s2d1d1d2d1": {
+                            "css": "bg-backgroundPrimary rounded-xl shadow-lg border border-gray-300 p-8 w-full",
+                            "heading-s2d1d1d2d1h1": {
+                                "type": "h2",
+                                "css": "text-fontSize font-fontWeight text-primary mb-6 text-center",
+                                "text": "Share Your Feedback"
+                            },
+                            "paragraph-s2d1d1d2d1p1": {
+                                "css": "text-center text-textSecondary mb-8 text-fontSize",
+                                "text": "Help us improve TechElite by sharing your thoughts, suggestions, or experience with our technology solutions."
+                            },
+                            "form-s2d1d1d2d1form1": {
+                                "css": "space-y-6",
+                                "formType": "feedback",
+                                "div-s2d1d1d2d1form1d1": {
+                                    "css": "space-y-2",
+                                    "label-s2d1d1d2d1form1d1label1": {
+                                        "for": "name",
+                                        "css": "block text-fontSize font-fontWeight text-textSecondary mb-2",
+                                        "text": "Name"
+                                    },
+                                    "input-s2d1d1d2d1form1d1input1": {
+                                        "type": "text",
+                                        "id": "name",
+                                        "name": "name",
+                                        "required": true,
+                                        "css": "w-full px-4 py-3 border-2 border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-primary transition-all duration-300 hover:shadow-md bg-backgroundPrimary text-textSecondary",
+                                        "placeholder": "Enter your name"
+                                    }
+                                },
+                                "div-s2d1d1d2d1form1d2": {
+                                    "css": "space-y-2",
+                                    "label-s2d1d1d2d1form1d2label": {
+                                        "for": "email",
+                                        "css": "block text-fontSize font-fontWeight text-textSecondary mb-2",
+                                        "text": "Email"
+                                    },
+                                    "input-s2d1d1d2d1form1d2input1": {
+                                        "type": "email",
+                                        "id": "email",
+                                        "name": "email",
+                                        "required": true,
+                                        "css": "w-full px-4 py-3 border-2 border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-primary transition-all duration-300 hover:shadow-md bg-backgroundPrimary text-textSecondary",
+                                        "placeholder": "Enter your email"
+                                    }
+                                },
+                                "div-s2d1d1d2d1form1d3": {
+                                    "css": "space-y-2",
+                                    "label-s2d1d1d2d1form1d3label1": {
+                                        "for": "feedback",
+                                        "css": "block text-fontSize font-fontWeight text-textSecondary mb-2",
+                                        "text": "Feedback"
+                                    },
+                                    "textarea-s2d1d1d2d1form1d3textarea1": {
+                                        "id": "feedback",
+                                        "name": "feedback",
+                                        "rows": 5,
+                                        "required": true,
+                                        "css": "w-full px-4 py-3 border-2 border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-primary transition-all duration-300 hover:shadow-md resize-vertical bg-backgroundPrimary text-textSecondary",
+                                        "placeholder": "Tell us about your experience with our tech solutions or suggest improvements..."
+                                    }
+                                },
+                                "div-s2d1d1d2d1form1d4": {
+                                    "css": "",
+                                    "button-s2d1d1d2d1form1d4button": {
+                                        "type": "submit",
+                                        "css": "w-full bg-primary text-textPrimary font-fontWeight py-3 px-6 rounded-lg hover:bg-primary/90 focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl",
+                                        "text": "Submit Feedback"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
